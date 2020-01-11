@@ -13,22 +13,13 @@ Sign in to your Github account you created in the PFM Chapter 1 videos.
 
 You're going to **FORK this repository** into your github account.
 
-Click the green `Clone or Download` button and copy the HTTPS url.
+Click the **Fork** button on the top right.
 
-
-1) Click the `[+]` button and choose "Import Repository"
-
-2) Paste the `Clone or Download` URL in the appropriate field.
-
-3) In the name field, enter the abbreviated name of whichever video you're on.  
-   For example, if you were watching **Chapter 2 Part 3 - Declarations**, you would put `pfmcpp_ch2_p03` in the Name field.
-
-4) Make sure you set the repository's privacy as `public`
-
-5) Once the repository has been imported, you're going to add a Collaborator: `matkatmusic`  
-6) Click **Settings** to access the repository settings.  Click on Collaborators.  Enter `matkatmusic`. 
-7) Click on my name to add me as a collaborator. 
-8) ***Send me a DM in Slack letting me know you added me.***
+1) Once the repository has been forked, you're going to add a Collaborator: `matkatmusic`  
+2) Click **Settings** to access the repository settings.  Click on Collaborators.  Enter `matkatmusic`. 
+3) Click on my name to add me as a collaborator. 
+# Send me a DM in Slack...
+...letting me know you added me to the repo.
 
 Github will send me an invite link but I might miss it, so DM me. 
 You can proceed to the next section without waiting for me to accept the invite.
@@ -45,12 +36,12 @@ When you pick a user name, please pick the same name that you use in Github/Slac
 5) You should see the repo you just cloned listed under **your repositories**. Choose that repo.
 Repl.it will clone your repo.  You should see some text like this on the right-hand pane:
 ```
-cloning into https://github.com/youraccount/pfmcpp_ch2_p03...
+cloning into https://github.com/youraccount/pfmcpp_project1...
 remote: Enumerating objects: 6, done.
 remote: Counting objects: 100% (6/6), done.
 remote: Compressing objects: 100% (5/5), done.
 remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0
-From https://github.com/youraccount/pfmcpp_ch2_p03
+From https://github.com/youraccount/pfmcpp_project1
  * [new branch]      master     -> origin/master
 origin/HEAD set to master
 HEAD is now at 1badb5c Initial Commit
@@ -59,19 +50,18 @@ HEAD is now at 1badb5c Initial Commit
 
 7) invite `matkatmusic` as a collaborator via the `Search by username` field at the bottom of the popup.
 
-8) **send me a DM in Slack letting me know.**
+# Send me a DM in Slack...
+...letting me know you added me to the repl.it.
 
-9) Click on the file browser on the left, and select `main.cpp`.
+8) Click on the file browser on the left, and select `main.cpp`.
 
-# I will join your repo and add the assignment
+# I will join your repo & repl.it and add the assignment
 
 1) Once I accept your invite to collaborate on **GitHub** and **Repl.it**, I will edit `main.cpp` and add the assignment.
 
 2) Once I commit and push the assignment, I'll be waiting on you to do the work.
 
 3) Refresh the **Repl.it** page, switch to the **version control** view on the left, and click "pull" when it prompts you to update.
-
-  
 
 # Make a branch
 
@@ -130,7 +120,7 @@ If **Repl.it** prompts you that it is **Unable to connect to this GitHub reposit
 - b) click on `Commits`
 - c) in the list of commits, look for the one I merged
 - d) Look for the `[<>]` on the right.  If you hover over it with your cursor, it will say `Browse the repository at this point in the history`
-- e) Click on it.  the url will change to something like `pfmcpp_ch2_p03/tree/654abd564d65b4c5645e654f654g`.  
+- e) Click on it.  the url will change to something like `pfmcpp_project1/tree/654abd564d65b4c5645e654f654g`.  
 - f) Share this URL in the channel for the task, as your completed task for other students to look at. 
 - > "Here's my completed task: https://github.com/.../tree/123456789abcdef"
 - g) Finally, **remove me as collaborator from the github repo and repl.it**
