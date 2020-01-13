@@ -6,6 +6,7 @@
  
  click the edit button in the lower right corner.
  
+
  write out 10 nouns.
  for each of the 10 nouns, write out 3 actions it might perform, in plain english.
  write out how you'd call that action in pseudo code, in the space between each block comment
@@ -32,89 +33,107 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:  penguin
+ action 1: the penguin considers
+ action 2: the penguin elopes
+ action 3: the penguin rises
  */
-
+penguin.considers();
+penguin.elopes();
+penguin.rises();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: elephant
+ action 1: the elephant romps
+ action 2: the elephant calculates
+ action 3: the elephant dances
  */
-
+elephant.romps();
+elephant.calculates();
+elephant.dances();
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: weasel
+ action 1: the weasel investigates
+ action 2: the weasel interprets
+ action 3: the weasel ascends
  */
-
+weasel.investigates();
+weasel.interprets();
+weasel.ascends();
 
 /*
- 4)
- Noun:
- action 1:
- action 2:
- action 3:
+ 4) 
+ Noun: quokka
+ action 1:the quokka wonders
+ action 2:the quokka regrets
+ action 3:the quokka sleeps
  */
-
+quokka.wonders();
+quokka.regrets();
+quokka.sleeps();
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: cat
+ action 1:cat invades human minds
+ action 2:cat orders pizza delivery
+ action 3:cat sleeps fitfully
  */
-
-
+cat.InvadesHumanMinds();
+cat.OrdersPizzaDelivery();
+cat.SleepsFitfully();
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:platypus
+ action 1:platypus overthrows government
+ action 2:platypus establishes state religion
+ action 3:platypus changes television channel
  */
-
+platypus.OverthrowsGovernment();
+platypus.EstablishesStateReligion();
+Platypus.ChangesTelevisionChannel():
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: Evil alien Hunter Killer drone
+ action 1: Evil alien Hunter Killer drone Wipes out humanity
+ action 2: Evil alien Hunter Killer drone Falls in love with mortal
+ action 3: Evil alien Hunter Killer drone postpones the apocalypse
  */
-
+EalienHKdrone.humanityWipeout();
+EalienHKdrone.Mortal_falls_in_love();
+EalienHKdrone.Apocalypse_postpone();
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: fish
+ action 1: fish thinks about breakfast
+ action 2: fish thinks about lunch
+ action 3: fish thinks about dinner
  */
-
+fish.thinksBreakfast();
+fish.thinksLunch();
+fish.thinksDinner();
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: Bird
+ action 1: bird acts ridiculous
+ action 2: bird asks for more money
+ action 3: bird pecks at seed
  */
-
-
+bird.ridiculous_act();
+bird.moneyAsk();
+bird.SeedPeck();
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: Tree
+ action 1: Tree sways
+ action 2: Tree takes council
+ action 3: Tree rises by its roots
  */
-
+tree.sways();
+tree.CouncilTakes();
+tree.RootsRisesby();
 
 #endif
 
