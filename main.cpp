@@ -100,7 +100,7 @@ Platypus.changesTelevisionChannel():
  action 2: Evil alien Hunter Killer drone Falls in love with mortal
  action 3: Evil alien Hunter Killer drone postpones the apocalypse
  */
-eAalienHKDrone.humanityWipeout(); FIXME variable name is wrong
+eAlienHKDrone.humanityWipeout();
 eAlienHKDrone.mortalFallsInLove();
 eAlienHKDrone.apocalypsePostpone();
 
