@@ -19,7 +19,11 @@ Click the **Fork** button on the top right.
 2) Click **Settings** to access the repository settings.  Click on Collaborators.  Enter `matkatmusic`. 
 3) Click on my name to add me as a collaborator. 
 # Send me a DM in Slack...
-...letting me know you added me to the repo.
+...letting me know you added me to the repo, and **share the Invite link to your repository** by doing the following:
+- Copy the URL of your repo and add `/invitations` at the end of the URL.
+- it should look like this: `https://github.com/YourUserName/pfmcpp_project1/invitations`
+- Paste it in the DM
+I have no way of knowing if I updated your project recently, or if you updated it recently, so I need you to share the link in the DM
 
 Github will send me an invite link but I might miss it, so DM me. 
 You can proceed to the next section without waiting for me to accept the invite.
@@ -51,7 +55,11 @@ HEAD is now at 1badb5c Initial Commit
 7) invite `matkatmusic` as a collaborator via the `Search by username` field at the bottom of the popup.
 
 # Send me a DM in Slack...
-...letting me know you added me to the repl.it.
+...letting me know you added me to the Repl.it, and **share the Invite link to your Repl.it** by doing the following:
+- Copy the URL of your repl.it.
+- it should look like this: `https://repl.it/@YourUserName/pfmcpp_project1`
+- Paste it in the DM
+I have no way of knowing if I updated your project recently, or if you updated it recently, so I need you to share the link in the DM
 
 8) Click on the file browser on the left, and select `main.cpp`.
 
