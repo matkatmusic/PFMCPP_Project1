@@ -7,7 +7,7 @@
 
 This helps me keep track of which repo goes with which repl.it, and which repl.it goes with which slack user when you submit tasks.
 
-## Clone this project template to your Github account
+## FORK this project template to your Github account
 Sign in to your Github account you created in the PFM Chapter 1 videos.
 
 
