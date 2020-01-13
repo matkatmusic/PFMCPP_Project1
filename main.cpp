@@ -80,9 +80,9 @@ quokka.sleeps();
  action 2:cat orders pizza delivery
  action 3:cat sleeps fitfully
  */
-cat.InvadesHumanMinds();
-cat.OrdersPizzaDelivery();
-cat.SleepsFitfully();
+cat.invadesHumanMinds();
+cat.ordersPizzaDelivery();
+cat.sleepsFitfully();
 /*
  6)
  Noun:platypus
@@ -90,9 +90,9 @@ cat.SleepsFitfully();
  action 2:platypus establishes state religion
  action 3:platypus changes television channel
  */
-platypus.OverthrowsGovernment();
-platypus.EstablishesStateReligion();
-Platypus.ChangesTelevisionChannel():
+platypus.overthrowsGovernment();
+platypus.establishesStateReligion();
+Platypus.changesTelevisionChannel():
 /*
  7)
  Noun: Evil alien Hunter Killer drone
@@ -101,8 +101,8 @@ Platypus.ChangesTelevisionChannel():
  action 3: Evil alien Hunter Killer drone postpones the apocalypse
  */
 EalienHKdrone.humanityWipeout();
-EalienHKdrone.Mortal_falls_in_love();
-EalienHKdrone.Apocalypse_postpone();
+EalienHKdrone.mortalFallsInLove();
+EalienHKdrone.apocalypsePostpone();
 
 /*
  8)
@@ -121,7 +121,7 @@ fish.thinksDinner();
  action 2: bird asks for more money
  action 3: bird pecks at seed
  */
-bird.ridiculous_act();
+bird.ridiculousAct();
 bird.moneyAsk();
 bird.SeedPeck();
 /*
@@ -132,8 +132,8 @@ bird.SeedPeck();
  action 3: Tree rises by its roots
  */
 tree.sways();
-tree.CouncilTakes();
-tree.RootsRisesby();
+tree.councilTakes();
+tree.tootsRisesby();
 
 #endif
 
