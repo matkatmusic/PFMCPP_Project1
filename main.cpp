@@ -123,7 +123,7 @@ fish.thinksDinner();
  */
 bird.ridiculousAct();
 bird.moneyAsk();
-bird.SeedPeck();
+bird.seedPeck();
 /*
  10)
  Noun: Tree
