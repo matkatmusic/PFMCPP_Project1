@@ -24,7 +24,7 @@
  Noun:       arm
  action 1:   the arm extends
  action 2:   the arm flexes
- action 3:   the arm rotates conter-clockwise
+ action 3:   the arm rotates counter-clockwise
  */
 arm.extend();
 arm.flex();
@@ -32,89 +32,113 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: horse
+ action 1: the horse trots
+ action 2: the horse jumps over hurdle
+ action 3: the horse neighs
  */
-
+horse.trot();
+horse.jumpOverHurdle();
+horse.neigh();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: pan
+ action 1: the pan fries
+ action 2: the pan sears the fish
+ action 3: the pan becomes dirty
  */
+pan.fry();
+pan.searFish();
+pan.becomeDirty();
 
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: helicopter
+ action 1: the helicopter flies
+ action 2: the helicopter rotates
+ action 3: the helicopter lands
  */
-
+helicopter.fly();
+helicopter.rotate();
+helicopter.land();
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: goat
+ action 1: the goat eats
+ action 2: the goat butts
+ action 3: the goat yells
  */
+goat.eat();
+goat.butt();
+goat.yell();
 
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: car
+ action 1: the car breaks down
+ action 2: the car drives
+ action 3: the car turns
  */
-
+car.breakDown();
+car.drive();
+car.turn();
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: cat
+ action 1: the cat meows
+ action 2: the cat scratches
+ action 3: the cat lands on its feet
  */
+cat.meow();
+cat.scratch();
+cat.landOnFeet();
 
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: store
+ action 1: the store opens
+ action 2: the store sells
+ action 3: the store closes
  */
-
+store.open();
+store.sell();
+store.close();
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: perfume
+ action 1: the perfume wafts
+ action 2: the perfume smells
+ action 3: the perfume sprays
  */
+perfume.waft();
+perfume.smell();
+perfume.spray();
 
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: skunk
+ action 1: the skunk wafts
+ action 2: the skunk smells
+ action 3: the skunk sprays
  */
-
+skunk.waft();
+skunk.smell();
+skunk.spray();
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: tornado
+ action 1: the tornado destroys
+ action 2: the tornado spins
+ action 3: the tornado jumps
  */
-
+tornado.destroy();
+tornado.spin();
+tornado.jump();
 
 #endif
 
