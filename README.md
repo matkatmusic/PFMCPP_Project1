@@ -107,10 +107,18 @@ If **Repl.it** prompts you that it is **Unable to connect to this GitHub reposit
 
 # Create a Pull Request (PR)
 1) Click on `Pull Requests` in your repo.
-2) Click the `[Compare & Pull request]` button for your recently pushed branch.  
-    - Make sure it says `Able to merge` on the page that appears.
-    - You can enter a message if you want.   
-3) On the right side, 
+2) create a Pull request.
+3) Github is going to show a page with several combo boxes.  
+- These combo boxes let you choose which repository branch you want to PULL FROM (yours) and which repository you want to PULL INTO
+- The combo box on the left shows the 'base' repo.  this is the repository to PULL INTO
+- the combo box on the right shows the 'head' repo.  This is the repository to PULL FROM
+- Since you FORKED my template repository, it's going to set the base repository to MY project template.
+- you need to change this 'base' combo box to be YOUR repo. 
+- you need to then change the 'head' combo box to be the branch you just finished working on. 
+4) Once you set the combo boxes correctly (it should say "master" on the left and "Part X" on the right), you can create the pull request
+5) If it says "MatkatMusic" at all in the page URL or in the combo boxes, you are trying to PULL INTO the project template. 
+- You need to CHANGE the base repository to YOUR repository.  
+6) On the right side, 
     - under Reviewers, request 'matkatmusic'.  By doing this, you are requesting that I review your code.
     - under Assignees, assign 'matkatmusic'.  By doing this, you are assigning me the task of reviewing your code.
 
