@@ -20,8 +20,9 @@ Click the **Fork** button on the top right.
 3) Click on my name to add me as a collaborator. 
 # Send me a DM in Slack...
 ...letting me know you added me to the repo, and **share the Invite link to your repository** by doing the following:
-- Copy the URL of your repo and add `/invitations` at the end of the URL.
+- Copy the Webpage URL of your repo and add `/invitations` at the end of the URL.
 - it should look like this: `https://github.com/YourUserName/pfmcpp_project1/invitations`
+- if your link has `.git` in it, **THAT IS THE WRONG LINK**.  I want the **WEBPAGE** link.
 - Paste it in the DM
 I have no way of knowing if I updated your project recently, or if you updated it recently, so I need you to share the link in the DM
 
