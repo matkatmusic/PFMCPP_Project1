@@ -39,8 +39,8 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 3:   the boy dances
  */
 boy.run();
-boy.say(string textToSay);
-boy.dance(DanceStyles styleToDance);
+boy.say();
+boy.dance();
 
 /*
  2)
@@ -49,9 +49,9 @@ boy.dance(DanceStyles styleToDance);
  action 2:    do an upstroke
  action 3:    dive bomb
  */
-plectrum.downStroke(StringIndex 0);
-plectrum.upStroke  (StringIndex 1);
-plectrum.diveBomb(double fretsPerSecond);
+plectrum.downStroke();
+plectrum.upStroke  ();
+plectrum.diveBomb();
 
 /*
  3)
@@ -60,9 +60,9 @@ plectrum.diveBomb(double fretsPerSecond);
  action 2:    get frequency
  action 3:    set frequency
  */
-wavetableOscillator.setWavetable(AudioSampleBuffer<float>& wavetableToSet);
+wavetableOscillator.setWavetable();
 wavetableOscillator.getFrequency();
-wavetableOscillator.setFrequency(440.0f);
+wavetableOscillator.setFrequency();
 
 /*
  4)
@@ -71,8 +71,8 @@ wavetableOscillator.setFrequency(440.0f);
  action 2:   remove all black notes
  action 3:   quantize
  */
-midiFile.adjustByOctave(1);
-midiFile.removeNotes(ScaleArrays::GbPentatonicMajor);
+midiFile.adjustByOctave();
+midiFile.removeNotes();
 midiFile.quantizeToCurrentGrid();
 
 /*
@@ -82,9 +82,9 @@ midiFile.quantizeToCurrentGrid();
  action 2:   normalize
  action 3:   gate below -12db
  */
-audioFile.linearFadeIn(timeInMilliseconds 5.0f);
-audioFile.normalizeToDecibelValue(-0.5f);
-audioFile.removeBelowDecibelValue(-12.0f);
+audioFile.linearFadeIn();
+audioFile.normalizeToDecibelValue();
+audioFile.removeBelowDecibelValue();
 
 /*
  6)
@@ -93,9 +93,9 @@ audioFile.removeBelowDecibelValue(-12.0f);
  action 2:  give grades
  action 3:  inspire success
  */
-teacher.correctHomework((const char*)currentHomework&);
-teacher.applyGrade(evaluatedGrade, currentHomework&);
-teacher.sayLecture(createLecture(currentStudent.getStudentHistory(), Rhetoric::Encouraging::RandomEncouragement()), currentStudent);
+teacher.correctHomework();
+teacher.applyGrade();
+teacher.sayLecture();
 
 /*
  7)
@@ -104,9 +104,9 @@ teacher.sayLecture(createLecture(currentStudent.getStudentHistory(), Rhetoric::E
  action 2:  get grades
  action 3:  make synths
  */
-student.doHomework(assignment);
+student.doHomework();
 student.makeCorrectDecisions = true;
-student.makeVST(new AudioApplications::Synths::AmazingSynth);
+student.makeVST();
 
 /*
  8)
@@ -115,9 +115,9 @@ student.makeVST(new AudioApplications::Synths::AmazingSynth);
  action 2:   poop on tree
  action 3:   bark at the neighbor
  */
-dog->eat(food&, my_bowl);
+dog->eat();
 dog->poopImmediately();
-dog->declare(scaryMan, "I don't know you!");
+dog->declare();
 
 /*
  9)
@@ -138,9 +138,9 @@ computerMouse.getCurrentMousePosition();
  action 3:   change to the third mode of the melodic minor
  */
 
-MusicalScales::SevenNoteScales::ExtractDiatonicTriads(currentMusicalScale);
-currentMusicalScale.changeRoot(8); // 0-11 indices of 12 notes
-currentMusicalScale.setScaleAndMode(MelodicMinorModes, 3);
+MusicalScales::SevenNoteScales::ExtractDiatonicTriads();
+currentMusicalScale.changeRoot(); // 0-11 indices of 12 notes
+currentMusicalScale.setScaleAndMode();
 
 #endif
 
