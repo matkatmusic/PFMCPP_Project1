@@ -143,7 +143,7 @@ struct RelatedType //Types begin with a capital letter and use CamelCase
     - If it's completed to my satisfaction, I will merge it.
 2) If it's not completed to my satisfaction I will either: 
    - add some `FIXME`'s to the code which will break compilation.  You'll need to read the error messages, fix the code, and commit your changes, which I will then review again.
-    - request changes from github's commit editor directly, which will appear in the Pull Request as conversations needing to be resolved.
+   - request changes from github's commit editor directly, which will appear in the Pull Request as conversations needing to be resolved.
 3) All of the commits for this branch will appear under the pull request, regardless of when the pull request is made. I can continue to add FIXMEs and you can make corrections, and the history of the branch development will all appear in the pull request.
 4) If my review requests changes, you will need to re-request that I review your code, via the instructions in `Step 5c) pt. 5`
 
