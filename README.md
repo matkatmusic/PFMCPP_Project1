@@ -132,8 +132,8 @@ struct RelatedType //Types begin with a capital letter and use CamelCase
     **If it says "MatkatMusic" at all in the page URL or in the combo boxes, you are trying to PULL INTO the project template!   DO NOT DO THIS!!** 
    - You need to CHANGE the base repository to YOUR repository.  
 5) Add me as a reviewer and assign the PR to me. 
-    - under Reviewers, request `matkatmusic`.  By doing this, you are requesting that I review your code.
-    - under Assignees, assign `matkatmusic`.  By doing this, you are assigning me the task of reviewing your code.
+   - under Reviewers, request `matkatmusic`.  By doing this, you are requesting that I review your code.
+   - under Assignees, assign `matkatmusic`.  By doing this, you are assigning me the task of reviewing your code.
 
 6) Click 'Create pull request'.  After the pull request is created, Do not click 'Merge pull request'.  
 
@@ -149,8 +149,8 @@ struct RelatedType //Types begin with a capital letter and use CamelCase
 
 # 7) Wait for me to merge the PR
 1) Once I **merge** the **PR**, I will either 
-    - clear out the instructions and replace them with new instructions on the `master` branch, or 
-    - Tell you that the project is complete and you can move on to the next project.
+   - clear out the instructions and replace them with new instructions on the `master` branch, or 
+   - Tell you that the project is complete and you can move on to the next project.
 
 2) if I replace the instructions, I want you to share your completed work for the project to the appropriate channel. 
    - a) visit your Repo on github
