@@ -164,5 +164,5 @@ struct RelatedType //Types begin with a capital letter and use CamelCase
 3) if I tell you that the project is complete **remove me as collaborator from the github repo and repl.it**
    - Remove the project from your Pinned Messages in our DM thread.
 
-# 8) f you complete all 9 projects, you are ready to start Project 10!
+# 8) if you complete all 9 projects, you are ready to start Project 10!
    - Send me a DM!
