@@ -32,91 +32,109 @@ arm.flex();
 arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
+
+	I added some arguments for the actions to express what was i was thinking about. Values are arbitrary
+	
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: 		oscilator
+ action 1:	oscilates
+ action 2:	changes oscilation frequency
+ action 3:	changes waveform type
  */
-
-
+	oscilator.oscilate();
+	oscilator.setFrequency(300); //Hz
+	oscilator.changeWaveform(sine);
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		filter
+ action 1:	removes high frequencies only
+ action 2:	changes the cutoff freq
+ action 3:	resonates
  */
-
+	filter.setType(lop);
+	filter.changeCutoffFreq(120); //Hz
+	filter.resonate(1);
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		delayEffect
+ action 1:	turns On
+ action 2:	selects delay time
+ action 3:	selects dry/wet mix
  */
-
-
+	delayEffect.enable();
+	delayEffect.setTime(240); //millis
+	delayEffect.setWetLevel(0.7);
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		virtualSoundSource
+ action 1:	rotates around a virtual point to create a circular trajectory
+ action 2:	move to a desired virtual point
+ action 3:	changes volume
  */
-
+	virtualSoundSource.rotateAroundPoint(20, 5); //XY coords system
+	virtualSoundSource.moveToPoint(30, 10); //XY coords system
+	virtualSoundSource.setVolume(0.3);
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		smartphone
+ action 1:	vibrates
+ action 2:	drains battery
+ action 3:	receives sms
  */
-
+	smartphone.vibrate(100); //millis
+	smartphone.useCurrentFromBattery(); 
+	smartphone.receiveSMS();
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		mixerChannel
+ action 1:	sets a input gain level
+ action 2:	enables the filter section
+ action 3:	pans(the action of panning?)
  */
-
+	mixerChannel.setInputLevel(3);
+	mixerChannel.bypass(false);
+	mixerChannel.pan(-0.5);
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		sequencer
+ action 1:	starts the playback
+ action 2:	advances step
+ action 3:	goes to desired step
  */
-
-
+	sequencer.play();
+	sequencer.advance();
+	sequencer.goToStep(15);
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		sampler
+ action 1:	records a sample to buffer
+ action 2:	plays a sample from memory
+ action 3:	pitches down the sample
  */
-
+	sampler.record();
+	sampler.play(3); //sample indexed at 3 
+	sampler.changePitch(12) //semitones
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		tree
+ action 1:	falls in the forest
+ action 2:	has no observers
+ action 3:	sparks phylosophical discussions
  */
-
-
+	tree.fall();
+	tree.hasObservers(false);
+	tree.makesASound((opinion) ? true : false);
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:		razvan
+ action 1:	drinks water
+ action 2:	brushes teeth
+ action 3:	sleeps
  */
-
-
+	razvan.drink(water);
+	razvan.brushTeeth(2 * 60000); //millis
+	razvan.sleep(8 * hour2millis);
 #endif
 
 #include <iostream>
