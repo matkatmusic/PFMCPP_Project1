@@ -32,8 +32,7 @@ arm.flex();
 arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
-
-	I added some arguments for the actions to express what was i was thinking about. Values are arbitrary
+I added some arguments for the actions to express what was i was thinking about. Values are arbitrary
 	
  1)
  Noun: 		oscilator
@@ -84,7 +83,6 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 	smartphone.vibrate(100); //millis
 	smartphone.useCurrentFromBattery(); 
 	smartphone.receiveSMS();
-
 /*
  6)
  Noun:		mixerChannel
@@ -113,7 +111,7 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 3:	pitches down the sample
  */
 	sampler.record();
-	sampler.play(3); //sample indexed at 3 
+	sampler.play(3); //sample indexed at position 3 
 	sampler.changePitch(12) //semitones
 /*
  9)
