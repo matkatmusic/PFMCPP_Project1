@@ -34,90 +34,121 @@ arm.flex();
 arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
- 1)
- Noun:
- action 1:
- action 2:
- action 3:
+ example)
+ Noun:       arm
+ action 1:   the arm extends
+ action 2:   the arm flexes
+ action 3:   the arm rotates conter-clockwise
  */
+arm.extend();
+arm.flex();
+arm.rotateCounterClockwise(); //demonstrates CamelCase
 
+/*
+ 1)
+ Noun:       friend
+ action 1:   the friend plays
+ action 2:   the friend runs
+ action 3:   the friend enjoys quality time
+ */
+friend.play();
+friend.run();
+Friend.enjoyQualityTime();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:       dog
+ action 1:   the dog sleeps
+ action 2:   the dog hunts
+ action 3:   the dog loves food
  */
-
+dog.sleep();
+dog.hunt();
+dog.loveFood();
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:       fish
+ action 1:   the fish swims
+ action 2:   the fish eats
+ action 3:   the fish lays eggs
  */
-
+fish.swim();
+fish.eat();
+fish.layEgg();
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:       flag
+ action 1:   the flag flies
+ action 2:   the flag sways in the wind
+ action 3:   the flag folds
  */
-
+flag.fly();
+flag.swayWind();
+flag.fold();
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:        father
+ action 1:    the father cooks
+ action 2:    the father works
+ action 3:    the father drinks
  */
-
+father.cook();
+father.work();
+father.drink();
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:        fox
+ action 1:    the fox speaks
+ action 2:    the fox sneaks
+ action 3:    the fox stalks
  */
-
+fox.speak();
+fox.sneak();
+fox.stalk();
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:        monkey
+ action 1:    the monkey jumps
+ action 2:    the monkey climbs
+ action 3:    the monkey swings
  */
-
+monkey.jump();
+monkey.climb();
+monkey.swing();
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:        kangaroo
+ action 1:    the kangaroo hops
+ action 2:    the kangaroo punches
+ action 3:    the kangaroo lives in australia
  */
-
+kangaroo.hop();
+kangaroo.punch();
+kangaroo.liveAustralia();
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:        grandfather
+ action 1:    the grandfather sits
+ action 2:    the grandfather tells war stories
+ action 3:    the grandfather watches television
  */
-
+grandfather.sits();
+grandfather.tellWarStory();
+grandfather.watchTelevision();
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun:         frog 
+ action 1:     the frog hops
+ action 2:     the frog hides
+ action 3:     the frog croakes
  */
-
+frog.hop();
+frog.hide();
+frog.croak();
 
 #endif
 
