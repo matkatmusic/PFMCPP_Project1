@@ -143,7 +143,7 @@ mobliePhone.launched();
 car.carshed();
 //  action 2: car was slipped
 car.slipped();
-//  action 3: car was washed.
+//  action 3: car was washed....
 car.washed();
 
 
