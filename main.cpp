@@ -58,84 +58,114 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: send call
+phone.sendCall();
 
-//  action 2:
+//  action 2: receive call
+phone.receiveCall();
 
-//  action 3:
+//  action 3: send SMS message
+phone.sendSMS();
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: computer
+//  action 1: boots in to startup
+computer.startup();
 
-//  action 2:
+//  action 2: open file
+computer.openFile();
 
-//  action 3:
+//  action 3: reads from keyboard
+computer.readKeyboard();
  
-//  3)
-//  Noun:
-//  action 1:
+//  3) 
+//  Noun: crock pot 
+//  action 1: turn up warming element 
+crockPot.heatUp();
 
-//  action 2:
+//  action 2: turn warming element down
+crockPot.heatDown();
 
-//  action 3:
+//  action 3: start timer countdown
+crockPot.startTimer();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: fitbit
+//  action 1: read pulse
+fitbit.readPulse();
 
-//  action 2:
+//  action 2: send data to app
+fitbit.sync(); 
 
-//  action 3:
+//  action 3: run charging cycle
+fitbit.charge();
  
-//  5)
-//  Noun:
-//  action 1:
+//  5) 
+//  Noun: electric guitar
+//  action 1: output signal from jack
+electricGuitar.outputSignal();
 
-//  action 2:
+//  action 2: routes and mixes pickup outputs
+electricGuitar.routePickups();
 
-//  action 3:
+//  action 3: sense string vibrations
+electricGuitar.readPickup();
  
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: monkey
+//  action 1: throw it's own poo
+monkey.throwPoo();
 
-//  action 2:
+//  action 2: swing from a tree
+monkey.swing();
 
-//  action 3:
+//  action 3: eat bananas 
+monkey.eatBanana();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: tree 
+//  action 1: sways in the breeze
+tree.sway();
 
-//  action 2:
+//  action 2: takes energy from the sun
+tree.photosynthesize();
 
-//  action 3:
+//  action 3: drop it's leaves
+tree.shedLeaves();
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: toilet
+//  action 1: flushes
+toilet.flush();
 
-//  action 2:
+//  action 2: fills it's tank
+toilet.fillTank();
 
-//  action 3:
+//  action 3: becomes clogged
+toilet.clogs();
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: hot tub
+//  action 1: set temperature 
+hotTub.setTemperature();
 
-//  action 2:
+//  action 2: shoots air out of jets
+hotTub.enableJets();
 
-//  action 3:
+//  action 3: bubbles the water
+hotTub.bubble();
  
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: glasses 
+//  action 1: collapse it's arms for storage
+glasses.foldArms();
 
-//  action 2:
+//  action 2: focuses light 
+glasses.focusLight();
 
-//  action 3:
+//  action 3: breaks ): 
+glasses.break();
  
 
 
