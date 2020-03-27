@@ -165,7 +165,7 @@ glasses.foldArms();
 glasses.focusLight();
 
 //  action 3: breaks ): 
-glasses.break();
+glasses.break(); 
  
 
 
