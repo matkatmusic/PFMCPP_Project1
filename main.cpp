@@ -58,85 +58,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cat
+//  action 1:   purrs
+cat.purr();
+//  action 2:   meows  
+cat.meow();
+//  action 3:   climbs
+cat.climb();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird
+//  action 1:   flies
+bird.fly();
+//  action 2:   sings
+bird.sing();
+//  action 3:   nests
+bird.nest();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       book
+//  action 1:   write
+book.write();
+//  action 2:   read
+book.read();
+//  action 3:   close
+book.close();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       phone
+//  action 1:   dial
+phone.dial();
+//  action 2:   pick up
+phone.pickUp();
+//  action 3:   hang up
+phone.hangUp();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       photo
+//  action 1:   take
+photo.take();
+//  action 2:   print
+photo.print();
+//  action 3:   share
+photo.share();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       mixer
+//  action 1:   connect input
+mixer.connectInput();
+//  action 2:   connect output
+mixer.connectOutput();
+//  action 3:   adjust volume
+mixer.adjustVolume();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       programmer
+//  action 1:   eats pasta
+programmer.eatPasta();
+//  action 2:   sleeps
+programmer.sleep();
+//  action 3:   writes code
+programmer.writeCode();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dancer
+//  action 1:   shakes booty
+dancer.shakeBooty();
+//  action 2:   twirls
+dancer.twirl();
+//  action 3:   extends arm with finger pointing up
+dancer.extendArmWithFingerPointingUp();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cyclist
+//  action 1:   pushes pedals
+cyclist.pushPedals();
+//  action 2:   squeezes his breaks
+cyclist.squeezeBreaks();
+//  action 3:   parks bicycle
+cyclist.parkBicycle();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   barks
+dog.bark();
+//  action 2:   laps water
+dog.lapWater();
+//  action 3:   runs
+dog.run();
 
 
 #endif
