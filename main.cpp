@@ -59,85 +59,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:         dog
+//  action 1:     bark
+dog.bark();
+//  action 2:     run
+dog.run();
+//  action 3:     sleep
+dog.sleep(); 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:         ball
+//  action 1:     bounce
+ball.bounce();
+//  action 2:     stop
+ball.stop();
+//  action 3:     roll
+ball.roll();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:         cellPhone
+//  action 1:     ring
+cellPhone.ring();
+//  action 2:     vibrate
+cellPhone.vibrate();
+//  action 3:     discharge
+cellPhone.discharge();
  
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  4)            
+//  Noun:         compiler 
+//  action 1:     compile
+compiler.compile();
+//  action 2:     stop
+compiler.stop();
+//  action 3:     break
+compiler.break();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:         pc
+//  action 1:     reboot
+pc.reboot();
+//  action 2:     run
+pc.run();
+//  action 3:     load
+pc.load(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:         productManager
+//  action 1:     sleep
+productManager.sleep();
+//  action 2:     complain
+productManager.complain();
+//  action 3:     doMeanThings
+productManager.doMeanThings(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:         deliveryBoy
+//  action 1:     deliverNewspapper
+deliveryBoy.deliverNewspapper();
+//  action 2:     deliverBox
+deliveryBoy.deliverBox();
+//  action 3:     deliverLetter
+deliverBoy.deliverLetter(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:         oldLady
+//  action 1:     beNice
+oldLady.beNice();
+//  action 2:     beRude
+oldLady.beRude();
+//  action 3:     becomeQueen
+oldLady.becomQueen(); 
+//  9)            
+//  Noun:         developer
+//  action 1:     writeCode
+developer.writeCode();
+//  action 2:     commitCode
+devloper.commitCode();
+//  action 3:     testCode
+developer.testCode(); 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:         donaldTrump
+//  action 1:     twitt
+donaldTrump.twitt();
+//  action 2:     yell
+donaldTrump.yell();
+//  action 3:     cry
+donaldTrump.cry(); 
 
 
 #endif
