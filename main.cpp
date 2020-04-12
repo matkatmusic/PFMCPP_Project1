@@ -57,87 +57,86 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
-
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Door
+//  action 1:   the door opens
+door.opens();
+//  action 2:   the door closes
+door.closes();
+//  action 3:   the door slams
+ door.slam();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Drum
+//  action 1:   The drum rings
+drum.rings();
+//  action 2:   the drum vibrates
+drum.vibrates();
+//  action 3:   the drum breaks
+ drum.breaks():
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Dog
+//  action 1:   the dog barks
+dog.barks();
+//  action 2:   the dog sleeps
+dog.sleeps();
+//  action 3:   the dog plays
+ dog.plays();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Tree
+//  action 1:   the tree grows
+tree.grows();
+//  action 2:   the tree sways
+tree.sways();
+//  action 3:   the tree blossoms
+ tree.blossoms();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cup
+//  action 1:   the cup leaks
+cup.leaks();
+//  action 2:   the cup breaks
+cup.breaks();
+//  action 3:   the cup melts
+ cup.melts();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       LoopPedal
+//  action 1:   the LoopPedal loops
+LoopPedal.loops();
+//  action 2:   the LoopPedal records
+LoopPedal.records();
+//  action 3:   the LoopPedal erases
+ LoopPedal.erase();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Piano
+//  action 1:   the piano sounds
+piano.sounds();
+//  action 2:   the piano closes
+piano.close();
+//  action 3:   the piano opens
+ piano.open();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Arizona
+//  action 1:   arizona votes
+arizona.votes();
+//  action 2:   arizona sweats
+arizona.sweats();
+//  action 3:   arizona dries
+ arizona.dries();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Marimba
+//  action 1:   the marimba rings
+marimba.rings();
+//  action 2:   the marimba is struck
+marimba.struck();
+//  action 3:   the marimba breaks
+ marimba.break();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       Shaker
+//  action 1:   the shaker shakes
+shaker.shake();
+//  action 2:   the shaker is silenced
+shaker.silence();
+//  action 3:   the shaker is louder
+ shaker.louder();
 
 
 #endif
