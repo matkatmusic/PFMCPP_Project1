@@ -59,85 +59,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Camera 
+//  action 1: Camera captures 
+camera.capture();
+//  action 2: the camera zooms
+camera.zoom();
+//  action 3: the camera flashes
+ camera.flash();
+//  2) 
+//  Noun: Dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog runs
+dog.run();
+//  action 3: the dog sniffs
+dog.sniff();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Sun
+//  action 1: the sun sets
+sun.set();
+//  action 2: the sun shines
+sun.shine();
+//  action 3: the sun rises
+sun.rise();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Doctor
+//  action 1: the doctor heals
+doctor.heal();
+//  action 2: the doctor diagnose
+doctor.diagnose();
+//  action 3: the doctor prescribes 
+doctor.prescribe();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Dolphin
+//  action 1: the dolphin squeaks 
+dolphin.squeak();
+//  action 2: the dolphin swims
+dolphin.swim();
+//  action 3: the dolphin jumps
+dolphin.jump();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Rocket
+//  action 1: the rocket launches 
+rocket.launch();
+//  action 2: the rocket explodes
+rocket.explode();
+//  action 3: the rocket lands
+rocket.land();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Ghost
+//  action 1: the ghost fades
+ghost.fade();
+//  action 2: the ghost haunts
+ghost.haunt();
+//  action 3: the ghost possesses 
+ ghost.possess();
+//  8) 
+//  Noun: Boat
+//  action 1: the boat floats
+boat.float();
+//  action 2: the boat sails
+boat.sail();
+//  action 3: the boat sinks
+boat.sink();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Lightning
+//  action 1: the lightning strikes
+lightning.strike();
+//  action 2: the lightning flashes
+lightning.flash();
+//  action 3: the lightning illuminates 
+lightning.illuminate();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Baby
+//  action 1: the baby cries
+baby.cry();
+//  action 2: the baby laughs
+baby.laugh();
+//  action 3: the baby crawls
+baby.crawl();
 
 
 #endif
