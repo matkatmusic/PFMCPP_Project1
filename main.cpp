@@ -59,85 +59,87 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cat
+//  action 1:   eats
+cat.eat();
+//  action 2:   sleeps
+cat.sleep();
+//  action 3:   purrs
+cat.purr();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       moon
+//  action 1:   waxes
+moon.wax();
+//  action 2:   wanes
+moon.wane();
+//  action 3:   eclipses the sun
+moon.eclipseTheSun();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       boat
+//  action 1:   heels
+boat.heel();
+//  action 2:   tacks
+boat.tack();
+//  action 3:   gybes
+boat.gybe();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       reader
+//  action 1:   opens book
+reader.openBook();
+//  action 2:   reads book
+reader.readBook();
+//  action 3:   closes book
+reader.closeBook();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       president
+//  action 1:   vetoes bill
+president.vetoBill();
+//  action 2:   resigns
+president.resign();
+//  action 3:   addresses the nation
+president.addressTheNation();
+//  6)          
+//  Noun:       orchestra
+//  action 1:   tunes up
+orchestra.tuneUp();
+//  action 2:   stands for applause
+orchestra.standForApplause();
+//  action 3:   elects a leader
+orchestra.electLeader();
  
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       virus
+//  action 1:   infects a person
+virus.infect();
+//  action 2:   propagates
+virus.propagate();
+//  action 3:   dies
+virus.die();
+//  8)          
+//  Noun:       sherlock holmes (albeit a proper noun)
+//  action 1:   solves crime
+holmes.solveCrime();
+//  action 2:   plays violin
+holmes.playViolin();
+//  action 3:   tales cocaine
+holmes.takeCocaine();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       mathematician   
+//  action 1:   formulates an equation
+mathematician.formulateEquation();
+//  action 2:   solves an equation
+mathematician.solveEquation();
+//  action 3:   integrates a term
+mathematician.integrateTerm();
  
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       water
+//  action 1:   boils
+water.boil();
+//  action 2:   freezes
+water.freeze();
+//  action 3:   drips
+water.drip();
 
 
 #endif
