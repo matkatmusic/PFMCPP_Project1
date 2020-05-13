@@ -51,85 +51,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cat                
+//  action 1: the cat meows
+cat.meow()
+//  action 2: the cat purrs
+cat.purr()
+//  action 3: the cat grooms
+cat.groom()
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: head
+//  action 1: the head turns
+head.turn()
+//  action 2: the head nods
+head.nod()
+//  action 3: the head tilts
+head.tilt()
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: radio
+//  action 1: the radio plays
+radio.play()
+//  action 2: the radio mutes
+radio.mute()
+//  action 3: the radio loses reception
+radio.loseReception()
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: carousel
+//  action 1: the carousel accelerates
+carousel.accelerate()
+//  action 2: the carousel decelerates
+carousel.decelerate()
+//  action 3: the carousel reverses
+carousel.reverse()
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark()
+//  action 2: the dog yawns
+dog.yawn()
+//  action 3: the dog runs
+dog.run()
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: tree
+//  action 1: the tree grows
+tree.grow()
+//  action 2: the tree sheds leaves
+tree.shedLeaf()
+//  action 3: the tree falls
+tree.fall()
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: door
+//  action 1: the door opens 
+door.open()
+//  action 2: the door closes
+door.close()
+//  action 3: the door creaks
+door.creak()
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: knob
+//  action 1: the fader moves up
+fader.moveUp()
+//  action 2: the fader moves down
+fader.moveDown()
+//  action 3: the fader resets to zero
+fader.reset() 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: snake
+//  action 1: the snake hisses
+snake.hiss()
+//  action 2: the snake rattles
+snake.rattle()
+//  action 3: the snake slithers
+snake.slither()
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: wind
+//  action 1: the wind blows east
+wind.blowEast()
+//  action 2: the wind blows west
+wind.blowWest()
+//  action 3: the wind increases/decreases in force
+wind.force() 
 
 
 #endif
