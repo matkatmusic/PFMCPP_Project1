@@ -53,83 +53,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  1)
 //  Noun: cat                
 //  action 1: the cat meows
-cat.meow()
+cat.meow();
 //  action 2: the cat purrs
-cat.purr()
+cat.purr();
 //  action 3: the cat grooms
-cat.groom()
+cat.groom();
 //  2)
 //  Noun: head
 //  action 1: the head turns
-head.turn()
+head.turn();
 //  action 2: the head nods
-head.nod()
+head.nod();
 //  action 3: the head tilts
-head.tilt()
+head.tilt();
 //  3)
 //  Noun: radio
 //  action 1: the radio plays
-radio.play()
+radio.play();
 //  action 2: the radio mutes
-radio.mute()
+radio.mute();
 //  action 3: the radio loses reception
-radio.loseReception()
+radio.loseReception();
 //  4)
 //  Noun: carousel
 //  action 1: the carousel accelerates
-carousel.accelerate()
+carousel.accelerate();
 //  action 2: the carousel decelerates
-carousel.decelerate()
+carousel.decelerate();
 //  action 3: the carousel reverses
-carousel.reverse()
+carousel.reverse();
 //  5)
 //  Noun: dog
 //  action 1: the dog barks
-dog.bark()
+dog.bark();
 //  action 2: the dog yawns
-dog.yawn()
+dog.yawn();
 //  action 3: the dog runs
-dog.run()
+dog.run();
 //  6)
 //  Noun: tree
 //  action 1: the tree grows
-tree.grow()
+tree.grow();
 //  action 2: the tree sheds leaves
-tree.shedLeaf()
+tree.shedLeaf();
 //  action 3: the tree falls
-tree.fall()
+tree.fall();
 //  7)
 //  Noun: door
 //  action 1: the door opens 
-door.open()
+door.open();
 //  action 2: the door closes
-door.close()
+door.close();
 //  action 3: the door creaks
-door.creak()
+door.creak();
 //  8)
 //  Noun: knob
 //  action 1: the fader moves up
-fader.moveUp()
+fader.moveUp();
 //  action 2: the fader moves down
-fader.moveDown()
+fader.moveDown();
 //  action 3: the fader resets to zero
-fader.reset() 
+fader.reset(); 
 //  9)
 //  Noun: snake
 //  action 1: the snake hisses
-snake.hiss()
+snake.hiss();
 //  action 2: the snake rattles
-snake.rattle()
+snake.rattle();
 //  action 3: the snake slithers
-snake.slither()
+snake.slither();
 //  10)
 //  Noun: wind
 //  action 1: the wind blows east
-wind.blowEast()
+wind.blowEast();
 //  action 2: the wind blows west
-wind.blowWest()
+wind.blowWest();
 //  action 3: the wind increases/decreases in force
-wind.force() 
+wind.force(); 
 
 
 #endif
