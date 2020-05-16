@@ -52,84 +52,97 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: oscilloscope
+//  action 1: display frequency
+oscope.freq();
+//  action 2: display maximum amplitude
+oscope.maxAmp();
+//  action 3: display fall time
+oscope.fallTime();
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: computer user
+//  action 1: enter user id
+user.login();
+//  action 2: enter password
+user.pwd();
+//  action 3: logout
+user.logout();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: dog
+//  action 1: dog runs
+dog.run();
+//  action 2: dog heels
+dog.heel();
+//  action 3: dog sits
+dog.sit();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Sam
+//  action 1: hamburger needs salt
+sam.salt();
+//  action 2: hamurger needs pepper
+sam.pepper();
+//  action 3: hamburger need reheating
+sam.reheat();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: rancher
+//  action 1: purchase livestock
+rancher.purchase();
+//  action 2: feed and grow cows
+rancher.feed();
+//  action 3: ship to processing plant
+rancher.ship();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: drummer
+//  action 1: kick downbeat
+drummer.kick(); // or 
+drummer.downBeat(); // which is better??
+//  action 2: snare for backbeat
+drummer.snare(); // or 
+drummer.backBeat(); pro/con
+//  action 3: high hat 1/16 notes
+drummer.highHat(); // or
+drummer.sixteenths(); ?
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: Sample Rate Converter (src)
+//  action 1: get next sample
+src.git();
+//  action 2: perform decimation on filter buffer
+src.decimate();
+//  action 3: low pass filter the output
+src.lowPass();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Parametric EQ
+//  action 1: decrease center frequency
+EQ.f0_down();
+//  action 2: increase Q
+EQ.q_up();
+//  action 3: gain -3 dB down
+EQ.gain-3(); // or would it be EQ.gain(-3); ??
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Roadie named Big Henrietta
+//  action 1: hook up speakers
+Hen.connect();
+//  action 2: test speakers
+Hen.test();
+//  action 3: tear down speakers
+Hen.tearDown();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Keith
+//  action 1: play downstroke
+keith.down();
+//  action 2: re-tune a string
+keith.retune();
+//  action 3: look at Mick, then Charlie. Play nothing.
+keith.look();
  
 
 
