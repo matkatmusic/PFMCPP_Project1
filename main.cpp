@@ -52,85 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   bark
+dog.bark();
+//  action 2:   sleep
+dog.sleep();
+//  action 3:   eat
+dog.eat();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dad
+//  action 1:   clean house
+dad.cleanHouse();
+//  action 2:   mow the lawn
+dad.mowLawn();
+//  action 3:   cook
+dad.cook(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       kid
+//  action 1:   cry
+kid.cry();
+//  action 2:   play
+kid.play();
+//  action 3:   study
+kid.study();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       girl   
+//  action 1:   speak
+girl.speak();
+//  action 2:   run
+girl.run();
+//  action 3:   read a book
+girl.readBook();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       mouth
+//  action 1:   open
+mouth.open();
+//  action 2:   close
+mouth.close();
+//  action 3:   make a sound
+mouth.makeSound();
  
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       teacher
+//  action 1:   teach
+teacher.teach();
+//  action 2:   study
+teacher.study();
+//  action 3:   yell
+teacher.yell();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       student
+//  action 1:   learn
+student.learn();
+//  action 2:   make a noise
+student.makeNoise();
+//  action 3:   argue
+student.argue(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       chicken
+//  action 1:   enter cage
+chicken.enterCage();
+//  action 2:   escape cage
+chicken.escapeCage();
+//  action 3:   run
+chicken.run();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       person
+//  action 1:   wear
+person.wear();
+//  action 2:   walk
+person.walk();
+//  action 3:   work
+person.work();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       airplane   
+//  action 1:   take off
+airplane.takeOff();
+//  action 2:   fly
+airplane.fly();
+//  action 3:   land
+airplane.land(); 
 
 
 #endif
