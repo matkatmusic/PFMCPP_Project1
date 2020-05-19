@@ -106,45 +106,59 @@ eq.addMids();
 eq.bypass();
 
 //  6)
-//  Noun: 
-//  action 1:
+//  Noun: constructor
+//  action 1: measures
+constructor.measures();
 
-//  action 2:
+//  action 2: make the plans
+constructor.makePlans();
 
-//  action 3:
- 
+//  action 3:builds the house
+ constructor.buildsHouse();
+
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:clothes
+//  action 1: wear
+clothes.wear();
 
-//  action 2:
+//  action 2: change
+clothes.change();
 
-//  action 3:
- 
+//  action 3:buy
+clothes.buy(); 
+
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: guitarist
+//  action 1: tunes
+guitarist.tunes();
 
-//  action 2:
+//  action 2:maintenance
+guitarist.maintenance();
 
-//  action 3:
- 
+//  action 3: plays
+guitarist.plays();
+
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:bird
+//  action 1: borns
+bird.borns();
 
-//  action 2:
+//  action 2: grows up
+bird.growsUp();
 
-//  action 3:
- 
+//  action 3: fly away
+bird.flysAway ();
+
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: rings
+phone.rings();
 
-//  action 2:
+//  action 2: hangs up
+phone.hangsUp();
 
-//  action 3:
- 
+//  action 3:talks
+ phone.talks();
 
 
 #endif
