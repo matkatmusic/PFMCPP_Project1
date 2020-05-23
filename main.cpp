@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
+//  Noun:  knife
 //  action 1:
-
+knife.cut();
 //  action 2:
-
+knife.carve();
 //  action 3:
- 
+knife.engraveOwnersInitials();
 //  2)
-//  Noun:
+//  Noun: dog
 //  action 1:
-
+dog.bark();
 //  action 2:
-
+dog.run();
 //  action 3:
- 
+dog.humpLeg(); 
 //  3)
-//  Noun:
+//  Noun:guitar
 //  action 1:
-
+guitar.fretString();
 //  action 2:
-
+guitar.pluckString();
 //  action 3:
- 
+guitar.muteString();
 //  4)
-//  Noun:
+//  Noun:camera
 //  action 1:
-
+camera.takePicture();
 //  action 2:
-
+camera.takeVideo();
 //  action 3:
- 
+camera.enableFLash(); 
 //  5)
-//  Noun:
+//  Noun:monkey
 //  action 1:
-
+monkey.seeNoEvil();
 //  action 2:
-
+monkey.hearNoEvil();
 //  action 3:
- 
+monkey.speakNoEvil(); 
 //  6)
-//  Noun:
+//  Noun:car
 //  action 1:
-
+car.accelerate();
 //  action 2:
-
+car.decelerate();
 //  action 3:
- 
+car.turn(); 
 //  7)
-//  Noun:
+//  Noun:hammer
 //  action 1:
-
+hammer.pound();
 //  action 2:
-
+hammer.pull();
 //  action 3:
- 
+hammer.smashYourFinger(); 
 //  8)
-//  Noun:
+//  Noun:screwdriver
 //  action 1:
-
+screwdriver.tighten();
 //  action 2:
-
+screwdriver.loosen();
 //  action 3:
- 
+screwdriver.pry(); 
 //  9)
-//  Noun:
+//  Noun:pencil
 //  action 1:
-
+pencil.write();
 //  action 2:
-
+pencil.draw();
 //  action 3:
- 
+pencil.traceOutline(); 
 //  10)
-//  Noun:
+//  Noun:tapeMachine
 //  action 1:
-
+tapeMachine.play();
 //  action 2:
-
+tapeMachine.record();
 //  action 3:
- 
+tapeMachine.rewindToPosition(); 
 
 
 #endif
