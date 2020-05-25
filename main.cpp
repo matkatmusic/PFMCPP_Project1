@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: truck
+//  action 1: accelerate
+truck.accelerate()
+//  action 2: brake
+truck.brake()
+//  action 3: lower window
+ truck.windowDown
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: battery
+//  action 1: charge
+battery.charge()
+//  action 2: discharge
+battery.discharge()
+//  action 3: fail
+ battery.fail()
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cow
+//  action 1: eat grass
+cow.eatGrass()
+//  action 2: walk forward
+cow.walkForward()
+//  action 3: moo
+ cow.Moo()
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Flower
+//  action 1: grow stem
+flower.growStem()
+//  action 2: bloom
+flower.bloom()
+//  action 3: drop seed
+ flower.dropSeed()
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: tv
+//  action 1: switch on
+tv.switchOn()
+//  action 2: search for inputs
+tv.inputSearch()
+//  action 3: open menu
+ tv.openMenu()
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cloud
+//  action 1: move
+cloud.move()
+//  action 2: release rain
+cloud.rain()
+//  action 3: release lightning
+ cloud.lightning()
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: washing machine
+//  action 1: Wash cycle
+wMachine.wash()
+//  action 2: Spin cycle
+wMachine.spin()
+//  action 3: Dry cycle
+ wMachine.dry()
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Lift
+//  action 1: go up
+lift.up()
+//  action 2: go down
+lift.down()
+//  action 3: open doors
+ lift.openDoors()
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: amplifier
+//  action 1: switch input
+amp.inputSwitch()
+//  action 2: increase treble
+amp.trebleUp()
+//  action 3: switch ouput
+ amp.outputSwitch()
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: microwave
+//  action 1: start timer
+microwave.timerStart()
+//  action 2: release microwave radiation
+microwave.releaseMicrowaves()
+//  action 3: make sound
+ microwave.makeSound()
 
 
 #endif
