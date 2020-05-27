@@ -54,83 +54,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  1)
 //  Noun: truck
 //  action 1: accelerate
-truck.accelerate()
+truck.accelerate();
 //  action 2: brake
-truck.brake()
+truck.brake();
 //  action 3: lower window
- truck.windowDown
+ truck.windowDown();
 //  2)
 //  Noun: battery
 //  action 1: charge
-battery.charge()
+battery.charge();
 //  action 2: discharge
-battery.discharge()
+battery.discharge();
 //  action 3: fail
- battery.fail()
+ battery.fail();
 //  3)
 //  Noun: cow
 //  action 1: eat grass
-cow.eatGrass()
+cow.eatGrass();
 //  action 2: walk forward
-cow.walkForward()
+cow.walkForward();
 //  action 3: moo
- cow.Moo()
+ cow.Moo();
 //  4)
 //  Noun: Flower
 //  action 1: grow stem
-flower.growStem()
+flower.growStem();
 //  action 2: bloom
-flower.bloom()
+flower.bloom();
 //  action 3: drop seed
- flower.dropSeed()
+ flower.dropSeed();
 //  5)
 //  Noun: tv
 //  action 1: switch on
-tv.switchOn()
+tv.switchOn();
 //  action 2: search for inputs
-tv.inputSearch()
+tv.inputSearch();
 //  action 3: open menu
- tv.openMenu()
+ tv.openMenu();
 //  6)
 //  Noun: cloud
 //  action 1: move
-cloud.move()
+cloud.move();
 //  action 2: release rain
-cloud.rain()
+cloud.rain();
 //  action 3: release lightning
- cloud.lightning()
+ cloud.lightning();
 //  7)
 //  Noun: washing machine
 //  action 1: Wash cycle
-wMachine.wash()
+wMachine.wash();
 //  action 2: Spin cycle
-wMachine.spin()
+wMachine.spin();
 //  action 3: Dry cycle
- wMachine.dry()
+ wMachine.dry();
 //  8)
 //  Noun: Lift
 //  action 1: go up
-lift.up()
+lift.up();
 //  action 2: go down
-lift.down()
+lift.down();
 //  action 3: open doors
- lift.openDoors()
+ lift.openDoors();
 //  9)
 //  Noun: amplifier
 //  action 1: switch input
-amp.inputSwitch()
+amp.inputSwitch();
 //  action 2: increase treble
-amp.trebleUp()
+amp.trebleUp();
 //  action 3: switch ouput
- amp.outputSwitch()
+ amp.outputSwitch();
 //  10)
 //  Noun: microwave
 //  action 1: start timer
-microwave.timerStart()
+microwave.timerStart();
 //  action 2: release microwave radiation
-microwave.releaseMicrowaves()
+microwave.releaseMicrowaves();
 //  action 3: make sound
- microwave.makeSound()
+ microwave.makeSound();
 
 
 #endif
