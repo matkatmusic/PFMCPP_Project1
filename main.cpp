@@ -50,89 +50,115 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
-
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:   camera
+//  action 1:   the camera advances film
+camera.advanceFilm();
 
-//  action 2:
+//  action 2:   the camera takes a photo
+camera.takePhoto();
 
-//  action 3:
+//  action 3:   the camera rewinds film
+camera.rewindFilm();
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:   radio       
+//  action 1:   the radio powers on
+radio.turnOn();
 
-//  action 2:
+//  action 2:   the radio tunes a station
+redio.tuneStation();
 
-//  action 3:
- 
+//  action 3:   the radio turns up the volume
+radio.raiseVolume();
+
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:   dog
+//  action 1:   the dog barks
+dog.bark();
 
-//  action 2:
+//  action 2:   the dog walks
+dog.walk();
 
-//  action 3:
- 
+//  action 3:   the dog heels
+dog.heel();
+
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:   car
+//  action 1:   the car drives
+car.drive();
 
-//  action 2:
+//  action 2:   the car brakes
+car.brake();
 
-//  action 3:
- 
+//  action 3:   the car signals a turn
+car.signalTurn();
+
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:   vcr
+//  action 1:   the vcr plays the tape
+vcr.playTape();
 
-//  action 2:
+//  action 2:   the vcr fast-forwards the tape
+vcr.fastForwardTape();
 
-//  action 3:
- 
+//  action 3:   the vcr ejects the tape
+vcr.ejectTape();
+
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:   dryer
+//  action 1:   the dryer starts cycle
+dryer.startCycle();
 
-//  action 2:
+//  action 2:   the dryer spins
+dryer.spin();
 
-//  action 3:
+//  action 3:   the dryer cools down
+dryer.coolDown();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:   oven
+//  action 1:   the oven sets the temperature
+oven.setTemp();
 
-//  action 2:
+//  action 2:   the oven bakes
+oven.bake();
 
-//  action 3:
+//  action 3:   the oven shuts offoven.shutOff();
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:   train
+//  action 1:   the train opens doors
+train.openDoors();
 
-//  action 2:
+//  action 2:   the train rolls forward
+train.rollForward();
 
-//  action 3:
- 
+//  action 3:   the train stops
+trian.stop();
+
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:   calculator
+//  action 1:   the calculator adds
+calculator.add();
 
-//  action 2:
+//  action 2:   the calculator subtracts
+calculator.subtract();
 
-//  action 3:
- 
+//  action 3:   the calculator clears the display
+calculator.clearDisplay():
+
 //  10)
-//  Noun:
-//  action 1:
+//  Noun:   taxi
+//  action 1:   the taxi piks up a fare
+taxi.pickupFare();
 
-//  action 2:
+//  action 2:   the taxi starts the meter
+taxi.startMeter();
 
-//  action 3:
+//  action 3:   the taxi starts the trip
+taxi.startTrip();
  
-
-
 #endif
 
 /*
