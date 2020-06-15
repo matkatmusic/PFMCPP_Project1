@@ -52,6 +52,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 //  1)
 //  Noun:   camera
+
 //  action 1:   the camera advances film
 camera.advanceFilm();
 
