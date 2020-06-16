@@ -16,11 +16,11 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     If your noun consists of multiple words, use camelCaseToNameIt.
  
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
-    a) AVOID state-checking actions, like "Car has a horn".  i.e.
-        car.hasHorn()
+    a) AVOID state-checking actions, like "atmMachine has a horn".  i.e.
+        atmMachine.hasHorn()
     b) We use 'can' and 'has' to check the state of objects, so they aren't really 'action' verbs.
-        "the Car blows its horn" is a better action, because the car is doing something.  its state is not being checked.  i.e.
-            car.blowsHorn()
+        "the atmMachine blows its horn" is a better action, because the atmMachine is doing something.  its state is not being checked.  i.e.
+            atmMachine.blowsHorn()
     c) choose actions that your noun does.  Do not write out actions that are performed on your noun.
         for example: 
             noun: lightBulb.
@@ -68,7 +68,7 @@ camera.rewindFilm();
 radio.turnOn();
 
 //  action 2:   the radio tunes a station
-redio.tuneStation();
+radio.tuneStation();
 
 //  action 3:   the radio turns up the volume
 radio.raiseVolume();
@@ -85,15 +85,15 @@ dog.walk();
 dog.heel();
 
 //  4)
-//  Noun:   car
-//  action 1:   the car drives
-car.drive();
+//  Noun:   atmMachine
+//  action 1:   the atmMachine takes cash 
+atmMachine.depositCash();
 
-//  action 2:   the car brakes
-car.brake();
+//  action 2:   the atmMachine gives cash
+atmMachine.withdrawCash();
 
-//  action 3:   the car signals a turn
-car.signalTurn();
+//  action 3:   the atmMachine shows the balance
+atmMachine.showBalance();
 
 //  5)
 //  Noun:   vcr
@@ -125,7 +125,8 @@ oven.setTemp();
 //  action 2:   the oven bakes
 oven.bake();
 
-//  action 3:   the oven shuts offoven.shutOff();
+//  action 3:   the oven shuts off
+oven.shutOff();
  
 //  8)
 //  Noun:   train
@@ -136,7 +137,7 @@ train.openDoors();
 train.rollForward();
 
 //  action 3:   the train stops
-trian.stop();
+train.stop();
 
 //  9)
 //  Noun:   calculator
