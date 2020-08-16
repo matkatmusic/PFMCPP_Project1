@@ -52,44 +52,49 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:Phone
+//  action 1: the phone rings
+phone.ring()
+//  action 2: the phone makes a call
+phone.makeCall()
+//  action 3: the phone answers the call
+phone.answerCall()
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Dog
+//  action 1: the dog barks
+dog.barks()
+//  action 2: the dog rolls on the floor
+dog.rollOnTheFloor()
+//  action 3: the dog plays fetch
+ dog.playFetch()
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Musician
+//  action 1: the musician plays a chord
+musician.playChord()
+//  action 2: the musician plays a note
+musician.playNote()
+//  action 3: the musician stops playing
+musician.stopPlaying()
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Programmer
+//  action 1: the programmer begins typing
+programmer.beginTyping()
+//  action 2: the programmer stops typing
+programmer.stopTyping()
+//  action 3: the programmer fixes an error
+programmer.fixError() 
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Metronome
+//  action 1: metronome starts playing
+metronome.startPlaying()
+//  action 2: metronome tempo increases
+metronome.increaseTempo()
+//  action 3: metronome tempo decreases
 
-//  action 2:
-
-//  action 3:
  
 //  6)
 //  Noun:
