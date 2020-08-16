@@ -94,47 +94,52 @@ metronome.startPlaying()
 //  action 2: metronome tempo increases
 metronome.increaseTempo()
 //  action 3: metronome tempo decreases
+metronome.decreaseTempo()
 
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Candle
+//  action 1: candle creates heat
+candle.createHeat()
+//  action 2: candle creates light
+candle.createLight()
+//  action 3: candle flickers
+candle.flicker()
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: musicSystem
+//  action 1: play song
+musicSystem.playSong()
+//  action 2: pause song
+musicSystem.pauseSong()
+//  action 3: stop playback
+musicSystem.stopPlayback()
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: tree
+//  action 1: grow branches
+tree.growBranches()
+//  action 2: bear fruit
+tree.bearFruit()
+//  action 3: extend roots
+tree.extendRoots()
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: printer
+//  action 1: prints in black and white
+printer.printBlackAndWhite()
+//  action 2: prints in colour
+printer.printColour()
+//  action 3: paper jam
+printer.paperJammed()
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Monkey
+//  action 1: eat banana
+monkey.eatBanana()
+//  action 2: monkey see
+monkey.monkeySee()
+//  action 3: monkey do
+monkey.monkeyDo()
  
 
 
