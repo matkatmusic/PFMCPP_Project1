@@ -56,7 +56,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 1:   the alarmClock ticks
 alarmClock.tick();
 //  action 2:   the alarmClock rings
-alarmClock.ring();
+alarmClock.ring(); 
 //  action 3:   the alarmClock vibrates
 alarmClock.vibrate();
 //  2)
