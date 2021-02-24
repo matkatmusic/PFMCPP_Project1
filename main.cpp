@@ -52,84 +52,103 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: sun
+//  action 1: the sun heats earth
+sun.heatEarth();
 
-//  action 2:
+//  action 2: the sun shines bright
+sun.shineBright();
 
-//  action 3:
- 
+
+//  action 3: the sun sets
+sun.set();
+
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: apple
+//  action 1: apple ripens
+apple.ripen(); 
 
-//  action 2:
+//  action 2: apple falls
+apple.fall();
 
-//  action 3:
+//  action 3: apple rots
+apple.rot();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: traffic
+//  action 1: traffic disperses
+traffic.disperse();
 
-//  action 2:
+//  action 2: traffic flows steadily
+traffic.flowSteadily();
 
-//  action 3:
+//  action 3: traffic heats the road
+traffic.heatRoad();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: kid
+//  action 1:  kid wakes up parents
+kid.wakeParents();
 
-//  action 2:
+//  action 2: kid walks to school
+kid.walkToSchool();
 
-//  action 3:
+//  action 3: kid refuses to listen
+kid.refuseToListen();
  
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: lion
+//  action 1: a lion roars
+lion.roar();
+//  action 2: a lion hunts
+lion.hunt();
+//  action 3: a lion eats
+lion.eat();
  
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: earth
+//  action 1: earth rotates
+earth.rotate();
+//  action 2: contains atmosphere with gravity
+earth.containAtmosphere();
+//  action 3: earth waxes and wanes
+earth.waxAndWane();
  
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: snowflake
+//  action 1: falls
+snowflake.fall();
+//  action 2: snowflake melts
+snowflake.melt();
+//  action 3: snowflake links with other snowflakes
+snowflake.linkWithOtherSnowflakes();
  
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: squirrel
+//  action 1: gathers nuts
+squirrel.gatherNuts();
+//  action 2: squirel makes den
+squirrel.makeDen();
+//  action 3: squirrel hibernates
+squirrel.hibernate();
  
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: surgeon
+//  action 1: surgeon assesses patient
+surgeon.assessPatient();
+//  action 2: surgeon plans operation
+surgeon.planOperation();
+//  action 3: surgeon performs operation
+surgeon.perfomOperation();
  
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: dog
+//  action 1: dog pants
+dog.pant();
+//  action 2: dog runs
+dog.run();
+//  action 3: dog barks
+dog.bark();
  
 
 
