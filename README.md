@@ -1,7 +1,5 @@
 
-# PFM::C++ For Musicians Repl.it project template
-# DO NOT EDIT this README.md file.
-# Welcome to PFM::C++ For Musicians
+# Welcome to PFM::C++ Language Fundamentals
 **IMPORTANT**
 
 **Please set your Github username, your Slack username, and your Repl.it username to the SAME name.**
@@ -32,6 +30,7 @@ Here is a brief summary of the Course workflow:
 4) Wait for me to review your work.
 5) share your merged work so other students can see it.
 6) Repeat steps 1 - 5 until the project is complete
+
 ---
 # Detailed Course Setup Instructions
 ## 1) **FORK** this project template to your Github account
@@ -144,9 +143,9 @@ bool rentACar(int rentalDuration, int carType = 0)
 				    //a blank line between functions or types.
 struct RelatedType  //Type Names begin with a Capital Letter and use CamelCase
 {
-   double val, optimalVal;  //member names use camelCase, and begin with a lowercase letter.
+    double val, optimalVal;  //member names use camelCase, and begin with a lowercase letter.
                             //a blank line between member variables and member functions
-   void setTypeToRelateTo(const OtherType& typeToRelateTo);  //member functions use camelCase, and begin with a lowercase letter.
+    void setTypeToRelateTo(const OtherType& typeToRelateTo);  //member functions use camelCase, and begin with a lowercase letter.
 };
 ```
 
@@ -233,8 +232,8 @@ Pull Request Reviews enable me to make sure you aren't developing bad coding hab
 
 #
 ## If you complete all 9 projects..
-you are ready to start **Project 10**!
-   - Send me a DM!
+Congratulations!  You have completed **PFM::C++ Language Fundamentals**!
+   - Send me a DM if you signed up for one of my other mentored courses so you can get started.
 #
 That just about covers everything there is to know about setting up the course projects and how to work through them.
 
@@ -250,7 +249,7 @@ Once you get the workflow down, it's really quite simple:
 
 These steps will become second nature after you do it 2 or 3 times.
 
-# Once again, Welcome to PFM::C++ For Musicians!
+# Once again, Welcome to PFM::C++ Language Fundamentals
 
 Good luck with learning this skillset and programming language.
 
