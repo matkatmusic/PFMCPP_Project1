@@ -14,7 +14,7 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
- 
+
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
         car.hasHorn()
@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog fetches
+dog.fetch();
+//  action 3: the dog growls
+dog.growl();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: plane
+//  action 1: the plane flies
+plane.fly();
+//  action 2: the plane lands
+plane.land();
+//  action 3: the plane takes off
+plane.takeOff();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: athlete
+//  action 1: the athlete trains
+athlete.train();
+//  action 2: the athlete wins
+athlete.lose();
+//  action 3: the athlete loses
+athlete.win();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: bear
+//  action 1: the bear eats
+bear.eat();
+//  action 2: the bear hibernates
+bear.hibernate();
+//  action 3: the bear scares people
+bear.scare();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: teacher
+//  action 1: the teacher teaches
+teacher.teach();
+//  action 2: the teacher grades
+teacher.grade();
+//  action 3: the teacher inspires
+teacher.inspire();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: bird
+//  action 1: the bird flies
+bird.fly();
+//  action 2: the bird chirps
+bird.chirp();
+//  action 3: the bird lays an egg
+bird.layEgg();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: computer
+//  action 1: the computer loads
+computer.load();
+//  action 2: the computer compiles code
+computer.compile();
+//  action 3: the computer computes
+computer.compute();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: synth
+//  action 1: the synth creates sine waves
+synth.createSineWave();
+//  action 2: the synth modulates
+synth.modulate();
+//  action 3: the synth creates pulse waves
+synth.createPulseWave();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Microphone
+//  action 1: the microphone transduces
+microphone.transduce();
+//  action 2: the microphone records
+microphone.record();
+//  action 3: the microphone sends signals
+microphone.send();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: President
+//  action 1: the president makes decisions
+president.decide();
+//  action 2: the president speaks
+president.speak();
+//  action 3: the president vetoes
+president.veto();
 
 
 #endif
