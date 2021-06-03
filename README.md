@@ -90,8 +90,9 @@ Once you have finished adding me to all 9 `repl.it` projects, proceed to the nex
 - Send me a **single DM** with all 9 Invitation links.
 - Pin this message in our Direct Message thread. 
 ## 3b) Share all 9 Repl.it project links with me via a Slack DM
+- put `#main.cpp` at the end of your project URLs
 - the Repl.it project links look like this:
-   - `https://repl.it/@YourUserName/pfmcpp_project1`
+   - `https://repl.it/@YourUserName/pfmcpp_project1#main.cpp`
 - Send me a **single DM** with all 9 `repl.it` links
 - Pin this message in our Direct Message thread.
 #
