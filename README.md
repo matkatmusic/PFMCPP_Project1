@@ -191,6 +191,8 @@ All of the commits for this branch will appear under the pull request, regardles
 #
 ## 4) Wait for me to review your work.
 Send me a Direct Message in Slack with your Pull Request link
+While you're waiting, take a look at your Pull Request.  
+You'll see exactly what I see, and you might even spot some things that you missed when looking at your project source files, like formatting issues.
 Once I receive the PR link: I will review the assignment.
 - If it's completed to my satisfaction, **I will merge it**.
 - If it's not completed to my satisfaction I will either: 
