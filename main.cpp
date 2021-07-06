@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Wrist 
+//  action 1: the wrist rotates
+wrist.rotate();
+//  action 2: the wrist is used when lifting
+wrist.usedWhenLifting();
+//  action 3: the wrist extends
+wrist.extends();
  
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: teeth
+//  action 1: teeth are used for chewing
+teeth.chewing();
+//  action 2: teeth get cavaties
+teeth.cavaties();
+//  action 3: first teeth fall out
+teeth.fallOut();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: doctor
+//  action 1: doctors cure people
+doctors.curepeople();
+//  action 2: doctors use medicine
+doctors.useMedicine();
+//  action 3: doctors wear white coats
+doctors.wearWhiteCoats();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: fish
+//  action 1: fish swim in water
+fish.swim();
+//  action 2: fish can be eaten 
+fish.eaten();
+//  action 3: fish breath underwater
+ fish.breathUnderWater();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:computer
+//  action 1:computers can process numbers
+computers.processNumbers();
+//  action 2:computers can store data
+computers.storeData();
+//  action 3: computers use binary code 
+computers.binaryCode();
 
-//  action 2:
+//  6) 
+//  Noun: eye
+//  action 1: the eye uses light to see
+eye.useslight();
+//  action 2: eyes can open and close
+eye.openClose();
+//  action 3: some eyes need glasses to see
+eye.seeGlasses();
 
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: fingers
+//  action 1: fingers bend at the joints
+fingers.joints();
+//  action 2: fingers grip things
+fingers.grip();
+//  action 3:people count on fingers
+fingers.count();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:cloths
+//  action 1: everybody wears cloths
+cloths.wearsEverybody();
+//  action 2: cloths keep you warm
+cloths.warm();
+//  action 3: fashion is based on cloths
+cloths.fashion();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: televison
+//  action 1: everybody watches televison
+televison.watches();
+//  action 2: televisions make sound 
+televison.sound();
+//  action 3: televisions broadcast programs
+televison.broadcast();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: clocks
+//  action 1:a clock displays the time
+clock.displayTime();
+//  action 2: a clock uses numbers
+clock.usesNumbers();
+//  action 3: some clocks hang on walls
+clock.hang();
 
 
 #endif
