@@ -2,25 +2,25 @@
 # Welcome to PFM::C++ Language Fundamentals
 **IMPORTANT**
 
-**Please set your Github username, your Slack username, and your Repl.it username to the SAME name.**
+**Please set your Github username, your Slack username, and your Replit username to the SAME name.**
 
-This helps me keep track of which repo goes with which repl.it, and which repl.it goes with which slack user when you submit tasks.
+This helps me keep track of which repo goes with which Replit, and which Replit goes with which slack user when you submit tasks.
 #
 # Course Setup Summary
 Here is a brief summary of how to get set up for the course.
 Detailed instructions for each step will be given further down.
 
 1) Fork all 9 projects into your Github account
-2) Make 9 repl.it's, one for each github repository
-3) Send me a DM in Slack with your github links and repl.it links
+2) Make 9 Replit's, one for each github repository
+3) Send me a DM in Slack with your github links and Replit links
 4) **Wait for me to add the assignments** to each project
 
 Once I add the assignments you can start working through them at your own pace.
 #
 # Course Workflow Summary
-- Open the appropriate `repl.it` link for the project part you've been assigned
+- Open the appropriate `Replit` link for the project part you've been assigned
 - make sure you're on the `master` or `main` branch and `pull` in the latest changes.  
-    - There will be a button in Repl.it that does this in the Version Control widget.
+    - There will be a button in Replit that does this in the Version Control widget.
 
 Here is a brief summary of the Course workflow:
 
@@ -49,20 +49,20 @@ Do this for all 9 repositories.
 
 Once you have finished adding me as a collaborator to all 9 repositories, proceed to the next step below
 #
-## 2) Import all 9 projects into your `Repl.it` account.
-`Repl.it` is where you will **EDIT** the code for these projects.
-- Visit [https://repl.it/login](https://repl.it/login)
+## 2) Import all 9 projects into your `Replit` account.
+`Replit` is where you will **EDIT** the code for these projects.
+- Visit [https://replit.com/login](https://replit.com/login)
 - Click the `sign up` link
 - choose `Github` as the means of signing in. 
     - It will be the middle button on that page, in between Google's `G` and Facebook's `f`.
-    - Repl.it will default to using your Github username, but if you're offered the choice to pick a username instead, please pick the same name that you use in Github & Slack
-- Once you're logged in to `Repl.it`, click `Import Repo` on the upper right.  
+    - Replit will default to using your Github username, but if you're offered the choice to pick a username instead, please pick the same name that you use in Github & Slack
+- Once you're logged in to `Replit`, click `Import Repo` on the upper right.  
     - If it prompts you to sign up for the Hacker plan, just click `Cancel` or click outside of the prompt.
-- `Repl.it` may ask you to grant it permission to access your Github account.       
+- `Replit` may ask you to grant it permission to access your Github account.       
     - If so, grant it access.
 - You should see all 9 repositories you just forked listed under `your repositories`. 
     - Click on one of your repositories.
-    - `Repl.it` will clone your repo into a repl.it project
+    - `Replit` will clone your repo into a Replit project
     - You should see some text like this on the right-hand pane when you clone:
 ```
 cloning into https://github.com/youraccount/pfmcpp_project1...
@@ -75,12 +75,12 @@ From https://github.com/youraccount/pfmcpp_project1
 origin/HEAD set to master
 HEAD is now at 1badb5c Initial Commit
 ```
-- Once `Repl.it` finishes cloning your repo, click the `Invite` button.
+- Once `Replit` finishes cloning your repo, click the `Invite` button.
     - invite `matkatmusic` as a *collaborator* via the `Search by username` field at the bottom of the popup.
 
 Repeat this process of importing a repository for all 9 repositories that you forked on `GitHub`
 
-Once you have finished adding me to all 9 `repl.it` projects, proceed to the next step below
+Once you have finished adding me to all 9 `replit` projects, proceed to the next step below
 #
 ## 3a) Invite me to your GitHub repositories via a Slack DM:
 - Copy the Webpage URL of your GitHub repo and add `/invitations` at the end of the URL.
@@ -89,34 +89,34 @@ Once you have finished adding me to all 9 `repl.it` projects, proceed to the nex
 - if your link has `.git` in it, **THAT IS THE WRONG LINK**.  I want the **WEBPAGE** link.
 - Send me a **single DM** with all 9 Invitation links.
 - Pin this message in our Direct Message thread. 
-## 3b) Share all 9 Repl.it project links with me via a Slack DM
+## 3b) Share all 9 Replit project links with me via a Slack DM
 - put `#main.cpp` at the end of your project URLs
-- the Repl.it project links look like this:
-   - `https://repl.it/@YourUserName/pfmcpp_project1#main.cpp`
-- Send me a **single DM** with all 9 `repl.it` links
+- the Replit project links look like this:
+   - `https://replit.com/@YourUserName/pfmcpp_project1#main.cpp`
+- Send me a **single DM** with all 9 `replit` links
 - Pin this message in our Direct Message thread.
 #
 ## 4) Wait for me to accept your invites and add the assignments
 
-- Once I accept your invite to collaborate on **GitHub** and **Repl.it**, I will edit `main.cpp` on the `master` or `main` branch and add the assignment.
+- Once I accept your invite to collaborate on **GitHub** and **Replit**, I will edit `main.cpp` on the `master` or `main` branch and add the assignment.
 - I will notify you when I have added the assignments.
 - Once all of the assignments have been added to your repositories:
-    - Refresh the **Repl.it** page 
+    - Refresh the **Replit** page 
     - switch to the **Version control** view on the left-hand edge of the page
     - switch to the `master` or `main` branch if another branch is displayed
-    - click the `pull` button to update the repl.it copy of your repository so it matches what is on GitHub.
+    - click the `pull` button to update the Replit copy of your repository so it matches what is on GitHub.
     - if you can't see the `pull` button: 
         - you can expand the column showing the version control widget horizontally if it is too narrow.
         - you might have already pulled in the latest changes.
 #
 # Detailed Course Workflow Instructions
-## 1) Make a branch in Repl.it and start editing
+## 1) Make a branch in Replit and start editing
 - The **expected branch name** is written at the top of main.cpp
 - Navigate to the Version Control view
 - Click the `[+]` button to create the branch
 - Enter the **expected name** to create the branch
 
-Before you start editing, configure Repl.it's indentation settings:
+Before you start editing, configure Replit's indentation settings:
 - click the `gear` icon on the left hand edge of the page.
 - Set the `Indent Size` to `4`
 - Set the `Indent type` to `spaces`
@@ -151,19 +151,19 @@ struct RelatedType  //Type Names begin with a Capital Letter and use CamelCase
 ```
 
 #
-## 2) Commit your changes on your branch in Repl.it
-- `commit` your changes via `repl.it's` Version Control widget on the left side of the page.
+## 2) Commit your changes on your branch in Replit
+- `commit` your changes via `Replit's` Version Control widget on the left side of the page.
 - it's perfectly fine to make several commits on your branch before the project part is completed. 
 - if you get stuck, `commit` your changes and **send me a DM**.
-- if `repl.it` won't commit the changes, **send me a DM**.  
+- if `Replit` won't commit the changes, **send me a DM**.  
     - Most likely, `git` got stuck and the `index.lock` file needs to be manually removed.
     - This can be verified by using the `Console` on the right to try to make a change to the repository.
     - `git` will say what the problem is via the `Console` output
-- If **Repl.it** prompts you that it is **Unable to connect to this GitHub repository**:
+- If **Replit** prompts you that it is **Unable to connect to this GitHub repository**:
     - click the 'Connect' button.  
     - Make a small change (like adding a space or blank line somewhere) and try commiting again.  
     - You can click on the commit message itself to be shown the commit in your Github repo.
-- If there is no commit URL in repl.it for your commit, most likely `git` got stuck.  **Send me a DM** and I will fix it.
+- If there is no commit URL in Replit for your commit, most likely `git` got stuck.  **Send me a DM** and I will fix it.
 #
 ## 3) Create a Pull Request (PR)
 All of the commits for this branch will appear under the pull request, regardless of when the pull request is made. 
@@ -190,7 +190,9 @@ All of the commits for this branch will appear under the pull request, regardles
 - **DO NOT click 'Merge pull request'**.  
 #
 ## 4) Wait for me to review your work.
-Send me a Direct Message in Slack with your Pull Request link
+- Send me a Direct Message in Slack with your Pull Request link and Replit project link
+- Pin this message in our DM thread.
+
 While you're waiting, take a look at your Pull Request.  
 You'll see exactly what I see, and you might even spot some things that you missed when looking at your project source files, like formatting issues.
 Once I receive the PR link: I will review the assignment.
@@ -199,13 +201,13 @@ Once I receive the PR link: I will review the assignment.
    - `Request Changes` via the Pull Request Review directly
    - add some `FIXME`s to the code directy which will appear as compiler errors.  
 - If I request changes via the Pull Request Review, you need to:
-    - Make the necessary changes to your code.  
+    - Make the necessary changes to your code and commit them.  
 	    - Be sure to compile and run your code to make sure you haven't added more errors or mistakes. 
     - Mark the checkboxes in the Pull Request review as complete 
     - Click `Resolve Conversation`
     - Re-request that I review your code, as explained at the end of Section 3)
     - **Do Not** create a new branch for these requested changes.
-- If I add `FIXME`s to the code in Repl.it:
+- If I add `FIXME`s to the code in Replit:
     - Read the error messages, fix the code, and commit your changes, which I will then review again.
 
 **DO NOT create a new branch whenever changes are requested.**
@@ -219,7 +221,7 @@ Pull Request Reviews enable me to make sure you aren't developing bad coding hab
 - Once **I merge** the **PR**, I will do one of 2 things: 
    - Replace the old instructions with new instructions on the `master` branch
    - Mark the project as complete and tell you what the next assignment is.
-- if I tell you that the project is complete **remove me as collaborator from the github repo and repl.it**
+- if I tell you that the project is complete **remove me as collaborator from the github repo and Replit**
    - Remove the project links from your Pinned Messages in our DM thread.
 #
 ## 6) Share your merged work with the Slack Workspace
@@ -231,7 +233,7 @@ Pull Request Reviews enable me to make sure you aren't developing bad coding hab
    - Click on it.  The url will change to something like `pfmcpp_project1/tree/654abd564d65b4c5645e654f654`.  
    - Share this URL in the channel for the task, as your completed task for other students to look at. 
    - > "Here's my completed task: https://github.com/.../tree/123456789abcdef"
-   - Go to `repl.it`, pull in the new instructions, make a new branch for these new instructions, and get to work as explained in steps **5a thru 7**.
+   - Go to `Replit`, pull in the new instructions, make a new branch for these new instructions, and get to work as explained in steps **5a thru 7**.
 
 #
 ## If you complete all 9 projects..
@@ -243,8 +245,8 @@ That just about covers everything there is to know about setting up the course p
 I know that was a lot of stuff to get through.
 
 Once you get the workflow down, it's really quite simple:
-- pull changes from `Github` on the `master` branch into `Repl.it`
-- Make a branch in `Repl.it`
+- pull changes from `Github` on the `master` branch into `Replit`
+- Make a branch in `Replit`
 - Do the work on that branch
 - Commit the work on that branch.
 - Create a pull request for the work you did on that branch
