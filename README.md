@@ -27,7 +27,7 @@ Here is a brief summary of the Course workflow:
 1) Create a branch, do the work 
 2) commit the work, 
 3) make a pull request on GitHub, add me as a Reviewer.
-4) Wait for me to review your work.
+4) Send me links, wait for me to review your work.
 5) share your merged work so other students can see it.
 6) Repeat steps 1 - 5 until the project is complete
 
@@ -192,6 +192,7 @@ All of the commits for this branch will appear under the pull request, regardles
 ## 4) Wait for me to review your work.
 - Send me a Direct Message in Slack with your Pull Request link and Replit project link
 - Pin this message in our DM thread.
+- Every time you make revisions, send me the PR and Replit links again, so your code is easy to get to.
 
 While you're waiting, take a look at your Pull Request.  
 You'll see exactly what I see, and you might even spot some things that you missed when looking at your project source files, like formatting issues.
@@ -200,12 +201,12 @@ Once I receive the PR link: I will review the assignment.
 - If it's not completed to my satisfaction I will either: 
    - `Request Changes` via the Pull Request Review directly
    - add some `FIXME`s to the code directy which will appear as compiler errors.  
-- If I request changes via the Pull Request Review, you need to:
+- If I `Request Changes` via the Pull Request Review, you need to:
     - Make the necessary changes to your code and commit them.  
 	    - Be sure to compile and run your code to make sure you haven't added more errors or mistakes. 
-    - Mark the checkboxes in the Pull Request review as complete 
+    - Mark the checkboxes in the Pull Request review as complete ☑︎
     - Click `Resolve Conversation`
-    - Re-request that I review your code, as explained at the end of Section 3)
+    - `Re-request` that I review your code, as explained at the end of Section 3)
     - **Do Not** create a new branch for these requested changes.
 - If I add `FIXME`s to the code in Replit:
     - Read the error messages, fix the code, and commit your changes, which I will then review again.
@@ -213,6 +214,8 @@ Once I receive the PR link: I will review the assignment.
 **DO NOT create a new branch whenever changes are requested.**
 
 This cycle of requesting changes, making changes, and reviewing changes will continue until the code is ready to be merged.
+
+## **ONE BRANCH - ONE PULL REQUEST**
 
 Pull Request Reviews enable me to make sure you aren't developing bad coding habits, as well as ensure you're learning the concepts taught in each assignment.
 
