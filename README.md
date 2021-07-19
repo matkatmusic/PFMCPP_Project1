@@ -130,7 +130,7 @@ Do not delete the instructions.
 - The easiest way to show the course coding style is with a short snippet:
 ```
 /*
-- no spaces around '(' and ')'
+- no spaces around '(' and ')' when used with function calls, declarations, and definitions
 - spaces around '='
 - camelCase is used when naming things
 - all names are relevant to their purpose
@@ -148,6 +148,12 @@ struct RelatedType  //Type Names begin with a Capital Letter and use CamelCase
                             //a blank line between member variables and member functions
     void setTypeToRelateTo(const OtherType& typeToRelateTo);  //member functions use camelCase, and begin with a lowercase letter.
 };
+				    //a blank line between functions or types.
+void RelatedType::setTypeToRelateTo(const OtherType& typeToRelateTo) //a class member function defined outside of the class definition
+{
+    val = (std::is_same<OtherType, double>::value ? 3 : 4);  //spaces around '='. Also demonstrating a ternary expression, which is wrapped in '()'
+    optimalVal = typeToRelateTo.currentVal * 2.5;
+}
 ```
 
 #
@@ -208,6 +214,7 @@ Once I receive the PR link: I will review the assignment.
     - Click `Resolve Conversation`
     - `Re-request` that I review your code, as explained at the end of Section 3)
     - **Do Not** create a new branch for these requested changes.
+    - Send me a message in Slack that you updated the code and include the PR link and your Replit link.
 - If I add `FIXME`s to the code in Replit:
     - Read the error messages, fix the code, and commit your changes, which I will then review again.
 
@@ -223,8 +230,9 @@ Pull Request Reviews enable me to make sure you aren't developing bad coding hab
 ## 5) Wait for me to merge the Pull Request
 - Once **I merge** the **PR**, I will do one of 2 things: 
    - Replace the old instructions with new instructions on the `master` branch
-   - Mark the project as complete and tell you what the next assignment is.
-- if I tell you that the project is complete **remove me as collaborator from the github repo and Replit**
+
+    - Mark the project as complete and tell you what the next assignment is.
+    - if I tell you that the project is complete **remove me as collaborator from the github repo and Replit**
    - Remove the project links from your Pinned Messages in our DM thread.
 #
 ## 6) Share your merged work with the Slack Workspace
