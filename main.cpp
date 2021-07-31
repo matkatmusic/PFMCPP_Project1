@@ -52,85 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: mic
+//  action 1: the mic transduce waves
+mic.transduce();
+//  action 2: the mic receive power
+mic.receivePh();
+//  action 3: the mic generate signal
+mic.generateSig();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
+//  Noun: preamp
+//  action 1: the preamp sends 48V
+preamp.sendPh();
+//  action 2: the preamp amplify signal
+preamp.gain();
 //  action 3:
- 
+preamp.hpf(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: adc
+//  action 1: the adc filter audio
+adc.filter();
+//  action 2: the adc samples audio
+adc.sample();
+//  action 3: the adc quantize samples
+adc.quantize();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: daw
+//  action 1: the daw get audio channels
+daw.recChannels();
+//  action 2: the daw host plugins
+daw.loadPlugins();
+//  action 3: the daw mix channels
+daw.mixeChannels();
  
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: keyboard
+//  action 1: the keyboard send MIDI
+keyboard.sendMidi();
+//  action 2: the keyboard receive MIDI
+keyboard.receiveMidi();
+//  action 3: the keyboard thru MIDI
+keyboard.thruMidi();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: eqProcessor
+//  action 1: the eq lpf audio
+eqProcessor.lpf();
+//  action 2: the eq bpf audio
+eqProcessor.bpf();
+//  action 3: the eq hpf audio
+eqProcessor.hpf(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: compressorProcessor
+//  action 1: the compressor analize level
+compressorProcessor.analRms;
+//  action 2: the compressor compare level
+compressorProcessor.compareThd;
+//  action 3: the compressor reduce gain
+compressorProcessor.reduceGain;
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: reverbProcessor
+//  action 1: the reverb delays audio
+reverbProcessor.predelay();
+//  action 2: the reverb diffuse audio
+reverbProcessor.diffuse();
+//  action 3: the reverb filter audio
+reverbProcessor.damping();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: amplifier
+//  action 1: the amp receive line level
+amplifier.lineIn();
+//  action 2: the amp amplify line level
+amplifier.gain();
+//  action 3: the amp moves speakers 
+amplifier.feedSpeakers();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: speaker
+//  action 1: the speaker moves forward
+speaker.movesForward();
+//  action 2: the speaker moves backward
+speaker.movesBackward();
+//  action 3: the speaker distort
+speaker.distort();
 
 
 #endif
