@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     bike
+//  action 1: tires pop
+bike.popTire();
+//  action 2: stops
+bike.stop();
+//  action 3: accelerates
+bike.accelerate();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     elevator
+//  action 1: close doors
+elevator.closeDoors();
+//  action 2: calls help
+elevator.connectToEmergencyServices();
+//  action 3: goes to lobby
+elevator.goToLobby()
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     guitar
+//  action 1: string breaks
+guitar.breakString();
+//  action 2: increase pitch of string
+guitar.increaseStringPitch();
+//  action 3: switch pickout wiring
+guitar.outputPickup();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     tv
+//  action 1: display different channel
+tv.newChannel();
+//  action 2: play audio
+tv.playAudio();
+//  action 3: connect to wifi
+tv.connectWifi();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     plane
+//  action 1: consume gas
+place.burnGas();
+//  action 2: descend
+plane.descend();
+//  action 3: landing gear
+plane.extendLandingGear();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     car
+//  action 1: engange clutch
+car.engageClutch();
+//  action 2: break engine
+car.breakEngine();
+//  action 3: signal turning
+car.flashTurnSignal();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     headphones
+//  action 1: play sound
+headphones.playSound();
+//  action 2: charge battery
+headphones.chargeBattery();
+//  action 3: increase speaker output
+headphones.increaseOutput();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     ship
+//  action 1: drop anchor
+ship.dropAnchor();
+//  action 2: turns left
+ship.turnRudderLeft();
+//  action 3: blow horn
+ship.blowHorn();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     dog
+//  action 1: catch frisbee
+dog.catchFrisbee();
+//  action 2: dig holes
+dog.dig();
+//  action 3: eats food
+dog.eat();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:     coffee maker
+//  action 1: heat heating element
+coffeeMaker.heatElement();
+//  action 2: start timer
+coffeeMaker.startTimer();
+//  action 3: grind coffee beans
+coffeMaker.grindBeans();
 
 
 #endif
