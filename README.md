@@ -11,6 +11,7 @@ Here is a brief summary of how to get set up for the course.
 Detailed instructions for each step will be given further down.
 
 1) Fork all 9 projects into your Github account
+2) Install the `PFMCPP Helper app` into your Github account
 2) Make 9 Replit's, one for each github repository
 3) Send me a DM in Slack with your github links and Replit links
 4) **Wait for me to add the assignments** to each project
@@ -49,7 +50,12 @@ Do this for all 9 repositories.
 
 Once you have finished adding me as a collaborator to all 9 repositories, proceed to the next step below
 #
-## 2) Import all 9 projects into your `Replit` account.
+
+## 2) Install the PFMCPP Helper app to all of your PFMCPP repositories
+- visit https://github.com/apps/pfmcpp-helper 
+#
+
+## 3) Import all 9 projects into your `Replit` account.
 `Replit` is where you will **EDIT** the code for these projects.
 - Visit [https://replit.com/login](https://replit.com/login)
 - Click the `sign up` link
@@ -82,21 +88,21 @@ Repeat this process of importing a repository for all 9 repositories that you fo
 
 Once you have finished adding me to all 9 `replit` projects, proceed to the next step below
 #
-## 3a) Invite me to your GitHub repositories via a Slack DM:
+## 4a) Invite me to your GitHub repositories via a Slack DM:
 - Copy the Webpage URL of your GitHub repo and add `/invitations` at the end of the URL.
 - it should look like this: 
     - `https://github.com/YourUserName/pfmcpp_project1/invitations`
 - if your link has `.git` in it, **THAT IS THE WRONG LINK**.  I want the **WEBPAGE** link.
 - Send me a **single DM** with all 9 Invitation links.
 - Pin this message in our Direct Message thread. 
-## 3b) Share all 9 Replit project links with me via a Slack DM
+## 4b) Share all 9 Replit project links with me via a Slack DM
 - put `#main.cpp` at the end of your project URLs
 - the Replit project links look like this:
    - `https://replit.com/@YourUserName/pfmcpp_project1#main.cpp`
 - Send me a **single DM** with all 9 `replit` links
 - Pin this message in our Direct Message thread.
 #
-## 4) Wait for me to accept your invites and add the assignments
+## 5) Wait for me to accept your invites and add the assignments
 
 - Once I accept your invite to collaborate on **GitHub** and **Replit**, I will edit `main.cpp` on the `master` or `main` branch and add the assignment.
 - I will notify you when I have added the assignments.
@@ -217,6 +223,7 @@ Once I receive the PR link: I will review the assignment.
     - Send me a message in Slack that you updated the code and include the PR link and your Replit link.
 - If I add `FIXME`s to the code in Replit:
     - Read the error messages, fix the code, and commit your changes, which I will then review again.
+    - Send me a message in Slack that you updated the code and include the PR link and your Replit link.
 
 **DO NOT create a new branch whenever changes are requested.**
 
