@@ -52,84 +52,95 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:       hand
+//  action 1:   the hand grabs
+hand.grab();
+//  action 2:   the hand opens
+hand.open();
+//  action 3:   the hand closes
+hand.close();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:       eagle
+//  action 1:   the eagle eats
+eagle.eat();
+//  action 2:   the eagle flies
+eagle.fly();
+//  action 3:   the eagle lands
+eagle.land();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:       water
+//  action 1:   the water flows
+water.flow();
+//  action 2:   the water evaporates
+water.evaporate();
+//  action 3:   the water remembers
+//  https://en.wikipedia.org/wiki/Water_memory
+water.remember();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:       sun
+//  action 1:   the sun shines
+sun.shine();
+//  action 2:   the sun rises
+sun.rise();
+//  action 3:   the sun sets
+sun.set();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:       yogi
+//  action 1:   the yogi meditates
+yogi.meditate();
+//  action 2:   the yogi breathes
+yogi.breathe();
+//  action 3:   the yogi loves
+yogi.love();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       string
+//  action 1:   the string vibrates
+string.vibrate();
+//  action 2:   the string tightens
+string.tighten();
+//  action 3:   the string loosens
+string.loosen();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:       dog
+//  action 1:   the dog barks  
+dog.bark();
+//  action 2:   the dog sleeps 
+dog.sleep();
+//  action 3:   the dog runs
+dog.run();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:       cat
+//  action 1:   the cat scratches
+cat.scratch();
+//  action 2:   the cat miaws
+cat.miaw();
+//  action 3:   the cat purrs
+cat.purr();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:       body
+//  action 1:   the body feels
+body.feel();
+//  action 2:   the body moves   
+body.move();
+//  action 3:   the body works
+body.work();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       soul
+//  action 1:   the soul travels
+soul.travel();
+//  action 2:   the soul remembers
+soul.remember();
+//  action 3:   the soul beats
+soul.beat();
  
 
 
