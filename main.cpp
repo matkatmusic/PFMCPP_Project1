@@ -58,7 +58,7 @@ filter.boost();
 //  action 2: Cuts frequencies
 filter.cut();
 //  action 3: Resonates
- filter.resonance();
+filter.resonance();
 //  2) 
 //  Noun: Musician
 //  action 1: Performs
@@ -66,7 +66,7 @@ musician.perform();
 //  action 2:Practice
 musician.practise();
 //  action 3:Drinks
- musician.drink();
+musician.drink();
 //  3) 
 //  Noun:Amp
 //  action 1: Amplifies 
@@ -74,7 +74,7 @@ amp.amplify();
 //  action 2: Makes noise
 amp.noise();
 //  action 3:Causing a feedback loop
- amp.feedback();
+amp.feedback();
 //  4)
 //  Noun:String
 //  action 1: Vibrates
@@ -90,7 +90,7 @@ dj.pushButton();
 //  action 2:Cues a track
 dj.cue();
 //  action 3:Dances
- dj.dance();
+dj.dance();
 //  6)
 //  Noun:Conductor
 //  action 1:holds the tempo
@@ -98,7 +98,7 @@ conductor.tempo();
 //  action 2:starts the music
 conductor.start();
 //  action 3:stops the music
- conductor.stop();
+conductor.stop();
 //  7)
 //  Noun:Audience
 //  action 1:Listens
@@ -106,15 +106,15 @@ audience.listen();
 //  action 2:Shouts
 audience.shout();
 //  action 3:Applauding
- audience.applaud();
+audience.applaud();
 //  8)
-//  Noun:Manager
-//  action 1:plans events
-manager.planEvent();
-//  action 2:Promotes artists
-manager.promote();
-//  action 3:Finding new artists
- manager.findArtist();
+//  Noun:Audio programmer
+//  action 1:writing code
+audioProgrammer.writeCode();
+//  action 2:Searching for jobs
+audioProgrammer.searchJob();
+//  action 3:releasing product
+audioProgrammer.releaseProduct();
 //  9)
 //  Noun:Music producer
 //  action 1:Composes music
@@ -122,7 +122,7 @@ mp.compose();
 //  action 2:Records music
 mp.record();
 //  action 3:Uploads music to the world
- mp.upload();
+mp.upload();
 //  10)
 //  Noun:Synth
 //  action 1:Generates sound
