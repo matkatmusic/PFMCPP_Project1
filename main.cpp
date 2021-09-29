@@ -52,84 +52,113 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: dog
+//  action 1: bark
+dog.bark();
 
-//  action 2:
+//  action 2: calculate the dog's age
+dog.calcAge();
 
-//  action 3:
+//  action 3: get the dog's age
+dog.getAge();
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: weapon
+//  action 1: fire at target (single release of a weapon)
+weapon.shootAtTarget();
 
-//  action 2:
+//  action 2: Ammunation recharge
+weapon.recharge();
 
-//  action 3:
+//  action 3: Ammunation that fails to function as intended
+weapon.fail();
  
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: bicyle
+//  action 1: break
+bicycle.break();
 
-//  action 2:
+//  action 2: set a speed
+bicycle.setSpeed(int speed);
 
-//  action 3:
+//  action 3: get the speed
+bicycle.getSpeed();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: person
+//  action 1: introduce himself
+person.introduce();
 
-//  action 2:
+//  action 2: tell it's first name
+person.tellFirstName();
 
-//  action 3:
+//  action 3: tell it's last name
+person.tellLastName();
  
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: baby
+//  action 1: cry
+baby.cry();
 
-//  action 2:
+//  action 2: eat
+baby.eat();
 
-//  action 3:
+//  action 3: sleep
+baby.sleep();
  
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: mouse
+//  action 1: move y-direction
+mouse.moveYDirection(int target);
 
-//  action 2:
+//  action 2: move x-direction
+mouse.moveXDirection(int target);
 
-//  action 3:
+//  action 3: get coordinate
+mouse.getCoordinate();
  
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: tire
+//  action 1: rotate
+tire.rotate();
 
-//  action 2:
+//  action 2: blow up
+tire.blowUp();
 
-//  action 3:
+//  action 3: get it's pressure@
+tire.getPressure();
  
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: bank account
+//  action 1: deposit money
+bankAccount.deposit(float amount);
 
-//  action 2:
+//  action 2: withdraw some cash
+bankAccount.withdram(float amount);
 
-//  action 3:
+//  action 3: transfer some cash
+bankAccount.transfer(float amount, BankAcount target);
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: power supply
+//  action 1: maintain a certain voltage
+powerSupply.maintainVoltage(float targetVoltage);
 
-//  action 2:
+//  action 2: maintain a certain current
+powerSypply.maintainCurrent(float targetCurrent);
 
-//  action 3:
+//  action 3: display power consumpiton
+powerSupply.displayPower();
  
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: plane
+//  action 1: pitch
+plane.pitch()
+//  action 2: yaw
+plane.yaw();
 
-//  action 2:
-
-//  action 3:
+//  action 3: roll
+plane.roll();
  
 
 
