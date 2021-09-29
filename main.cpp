@@ -118,15 +118,15 @@ mouse.moveXDirection(int target);
 mouse.getCoordinate();
  
 //  7)
-//  Noun: tire
-//  action 1: rotate
-tire.rotate();
+//  Noun: helicopter
+//  action 1: takeoff
+helicopter.takeoff();
 
-//  action 2: blow up
-tire.blowUp();
+//  action 2: speed up
+tire.speedUp();
 
-//  action 3: get it's pressure@
-tire.getPressure();
+//  action 3: helicopter land
+tire.landOnGround();
  
 //  8)
 //  Noun: bank account
