@@ -118,15 +118,15 @@ mouse.moveXDirection(int target);
 mouse.getCoordinate();
  
 //  7)
-//  Noun: helicopter
-//  action 1: takeoff
-helicopter.takeoff();
+//  Noun: hard drive
+//  action 1: read File
+hardDrive.readFile();
 
-//  action 2: speed up
-tire.speedUp();
+//  action 2: write Folder
+hardDrive.writeFolder();
 
-//  action 3: helicopter land
-tire.landOnGround();
+//  action 3: spin
+hardDrive.spin();
  
 //  8)
 //  Noun: bank account
