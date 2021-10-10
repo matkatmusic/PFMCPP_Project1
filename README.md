@@ -1,5 +1,8 @@
 
 # Welcome to PFM::C++ Language Fundamentals
+
+# Read this ENTIRE document BEFORE you start executing any of the steps below
+
 **IMPORTANT**
 
 **Please set your Github username, your Slack username, and your Replit username to the SAME name.**
