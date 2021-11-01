@@ -23,6 +23,7 @@ Detailed instructions appear later.
 - Open the appropriate `Replit` link for the project part you've been assigned
 - make sure you're on the `master` or `main` branch and `pull` in the latest changes.  
     - There will be a button in Replit on the left that does this.  It is called the "Version Control Widget".  Hover your cursor over the buttons to see tooltips that display the button name.
+    - If you're on Part 1 of a project, you won't need to `pull`.  The instructions are already there.
 
 Here is a brief summary of the Project workflow:
 
