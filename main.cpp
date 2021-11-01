@@ -58,7 +58,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  2)
 //  Noun:
 //  action 1:
@@ -66,7 +66,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  3)
 //  Noun:
 //  action 1:
@@ -74,7 +74,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  4)
 //  Noun:
 //  action 1:
@@ -82,7 +82,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  5)
 //  Noun:
 //  action 1:
@@ -90,7 +90,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  6)
 //  Noun:
 //  action 1:
@@ -98,7 +98,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  7)
 //  Noun:
 //  action 1:
@@ -106,7 +106,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  8)
 //  Noun:
 //  action 1:
@@ -114,7 +114,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  9)
 //  Noun:
 //  action 1:
@@ -122,7 +122,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 //  10)
 //  Noun:
 //  action 1:
@@ -130,7 +130,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 2:
 
 //  action 3:
- 
+
 
 
 #endif
