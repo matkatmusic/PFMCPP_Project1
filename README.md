@@ -5,34 +5,32 @@
 
 **IMPORTANT**
 
-**Please set your Github username, your Slack username, and your Replit username to the SAME name.**
+**Please set your Github username, your Slack Display Name, and your Replit username to the SAME name.**
 
-This helps me keep track of which repo goes with which Replit, and which Replit goes with which slack user when you submit tasks.
+It is imperative that your Github username and Slack Display Name match for the PFMCPP Helper App to function correctly.
 #
 # Course Setup Summary
-Here is a brief summary of how to get set up for the course.
-Detailed instructions for each step will be given further down.
+Detailed instructions appear later.
 
-1) Fork all 9 projects into your Github account
+1) **Fork** all 9 projects into your Github account
 2) Install the `PFMCPP Helper app` into your Github account
-2) Make 9 Replit's, one for each github repository
-3) Send me a DM in Slack with your github links and Replit links
-4) **Wait for me to add the assignments** to each project
+3) Make 9 Replit's, one for each github repository
+4) Send me a DM in Slack with your github links and Replit links
+5) Get started on the project parts.
 
-Once I add the assignments you can start working through them at your own pace.
 #
-# Course Workflow Summary
+# Project Workflow Summary
 - Open the appropriate `Replit` link for the project part you've been assigned
 - make sure you're on the `master` or `main` branch and `pull` in the latest changes.  
-    - There will be a button in Replit that does this in the Version Control widget.
+    - There will be a button in Replit on the left that does this.  It is called the "Version Control Widget".  Hover your cursor over the buttons to see tooltips that display the button name.
 
-Here is a brief summary of the Course workflow:
+Here is a brief summary of the Project workflow:
 
 1) Create a branch, do the work 
-2) commit the work, 
-3) make a pull request on GitHub, add me as a Reviewer.
+2) Commit the work
+3) Make a pull request on GitHub, add me as a Reviewer.
 4) Send me links, wait for me to review your work.
-5) share your merged work so other students can see it.
+5) Share your merged work so other students can see it.
 6) Repeat steps 1 - 5 until the project is complete
 
 ---
@@ -89,7 +87,7 @@ HEAD is now at 1badb5c Initial Commit
 
 Repeat this process of importing a repository for all 9 repositories that you forked on `GitHub`
 
-Once you have finished adding me to all 9 `replit` projects, proceed to the next step below
+Once you have finished adding me to **ALL NINE `replit` projects**, proceed to the next step below
 #
 ## 4a) Invite me to your GitHub repositories via a Slack DM:
 - Copy the Webpage URL of your GitHub repo and add `/invitations` at the end of the URL.
@@ -105,23 +103,17 @@ Once you have finished adding me to all 9 `replit` projects, proceed to the next
 - Send me a **single DM** with all 9 `replit` links
 - Pin this message in our Direct Message thread.
 #
-## 5) Wait for me to accept your invites and add the assignments
+## 5) Get started on the Project parts
 
-- Once I accept your invite to collaborate on **GitHub** and **Replit**, I will edit `main.cpp` on the `master` or `main` branch and add the assignment.
-- I will notify you when I have added the assignments.
-- Once all of the assignments have been added to your repositories:
-    - Refresh the **Replit** page 
-    - switch to the **Version control** view on the left-hand edge of the page
-    - switch to the `master` or `main` branch if another branch is displayed
-    - click the `pull` button to update the Replit copy of your repository so it matches what is on GitHub.
-    - if you can't see the `pull` button: 
-        - you can expand the column showing the version control widget horizontally if it is too narrow.
-        - you might have already pulled in the latest changes.
+- All of the projects that you cloned already include the instructions for Part 1 of that particular project.
+- I am now waiting for you to submit your first pull request for your currently assigned project part, which is most likely Project 1 Part 1.
+- Follow the **Detailed Course Workflow Instructions** written below.
+
 #
-# Detailed Course Workflow Instructions
+# Detailed Project Workflow Instructions
 ## 1) Make a branch in Replit and start editing
 - The **expected branch name** is written at the top of main.cpp
-- Navigate to the Version Control view
+- Navigate to the Version Control view on the left
 - Click the `[+]` button to create the branch
 - Enter the **expected name** to create the branch
 
@@ -130,25 +122,26 @@ Before you start editing, configure Replit's indentation settings:
 - Set the `Indent Size` to `4`
 - Set the `Indent type` to `spaces`
 
-Now you are ready to start working on the code.
+Review the course Coding Standard before starting to code.
 
-Complete the assignment and follow the Coding Standard for the course.  
-
-Do not delete the instructions.
 - This course **loosely** follows the JUCE Coding Standards: [https://juce.com/discover/stories/coding-standards](https://juce.com/discover/stories/coding-standards)
-- The easiest way to show the course coding style is with a short snippet:
-```
-/*
+
+General guidelines:
+- Type names begin with a Capital Letter.
+- all other names begin with a lowercase letter.
+- camelCase is used when naming things that require 2 or more words
+- Name things what they are or what they do.
 - no spaces around '(' and ')' when used with function calls, declarations, and definitions
-- spaces around '='
-- camelCase is used when naming things
-- all names are relevant to their purpose
-- curly braces { } go on their own line.
-*/
-bool rentACar(int rentalDuration, int carType = 0)    
+- spaces around `=`
+- spaces after `,`
+- curly `{ }` braces go on their own line with no other code.
+
+The easiest way to show the course coding style is with a short snippet:
+```
+bool rentACar(int rentalDuration, int carType = 0)  //spaces after ',' and around '='  
 {       									//curly brace on its own line                                                  
     ignoreUnused(rentalDuration, carType);  //indentation is 4 SPACES.
-    return true;
+    return true;                            //booleans are always expressed with true/false and never with integers
 }
 				    //a blank line between functions or types.
 struct RelatedType  //Type Names begin with a Capital Letter and use CamelCase
@@ -164,24 +157,30 @@ void RelatedType::setTypeToRelateTo(const OtherType& typeToRelateTo) //a class m
     optimalVal = typeToRelateTo.currentVal * 2.5;
 }
 ```
+Now you are ready to start working on the code.
+
+Do not delete the project instructions.
 
 #
 ## 2) Commit your changes on your branch in Replit
 - `commit` your changes via `Replit's` Version Control widget on the left side of the page.
 - it's perfectly fine to make several commits on your branch before the project part is completed. 
-- if you get stuck, `commit` your changes and **send me a DM**.
+- if you get stuck, `commit` your changes and **send me a DM** explaining the issue.
 - if `Replit` won't commit the changes, **send me a DM**.  
     - Most likely, `git` got stuck and the `index.lock` file needs to be manually removed.
-    - This can be verified by using the `Console` on the right to try to make a change to the repository.
+    - This can be verified by using the `Console` on the right to try to make a change to the repository.  Google how to **make** and **push** a commit via Terminal and give it a try.
     - `git` will say what the problem is via the `Console` output
 - If **Replit** prompts you that it is **Unable to connect to this GitHub repository**:
     - click the 'Connect' button.  
     - Make a small change (like adding a space or blank line somewhere) and try commiting again.  
     - You can click on the commit message itself to be shown the commit in your Github repo.
 - If there is no commit URL in Replit for your commit, most likely `git` got stuck.  **Send me a DM** and I will fix it.
+    - Worst case scenario: you'll have to delete the replit project, and re-import your repository into replit.  
+        - Copy your work into a text file first
+        - paste it back in after you finish re-importing.  
+        - Don't forget to invite me to the Replit.
 #
 ## 3) Create a Pull Request (PR)
-All of the commits for this branch will appear under the pull request, regardless of when the pull request is made. 
 - Navigate to your Github repository for the project part you're working on
 - Click on `Pull Requests`
 - Click on `New pull request`
@@ -203,13 +202,17 @@ All of the commits for this branch will appear under the pull request, regardles
    - under Reviewers, request `matkatmusic`.  By doing this, you are requesting that I review your code.
 
 - **DO NOT click 'Merge pull request'**.  
+
+All of the commits for this branch will appear under the pull request, regardless of when the pull request is made. 
+
 #
 ## 4) Wait for me to review your work.
 - Send me a Direct Message in Slack with your Pull Request link and Replit project link
 - Pin this message in our DM thread.
-- Every time you make revisions, send me the PR and Replit links again, so your code is easy to get to.
+- Every time you make revisions, send me the PR and Replit links again, so your latest work is easy to get to.
 
-While you're waiting, take a look at your Pull Request.  
+While you're waiting, view the Pull Request Files tab.
+This will show you all of the changes in your pull request.  
 You'll see exactly what I see, and you might even spot some things that you missed when looking at your project source files, like formatting issues.
 Once I receive the PR link: I will review the assignment.
 - If it's completed to my satisfaction, **I will merge it**.
@@ -238,12 +241,12 @@ Pull Request Reviews enable me to make sure you aren't developing bad coding hab
 
 #
 ## 5) Wait for me to merge the Pull Request
-- Once **I merge** the **PR**, I will do one of 2 things: 
+Once **I merge** the **PR**, I will do one of 2 things: 
    - Replace the old instructions with new instructions on the `master` branch
 
-    - Mark the project as complete and tell you what the next assignment is.
-    - if I tell you that the project is complete **remove me as collaborator from the github repo and Replit**
-   - Remove the project links from your Pinned Messages in our DM thread.
+   - Mark the project as complete and tell you what the next assignment is.
+        - if I tell you that the project is complete, follow the instructions in message that will appear in Slack
+
 #
 ## 6) Share your merged work with the Slack Workspace
 - if I replace the instructions, please share your completed work for the project to the appropriate channel. 
@@ -273,7 +276,7 @@ Once you get the workflow down, it's really quite simple:
 - Create a pull request for the work you did on that branch
 - Ask me to review it.
 
-These steps will become second nature after you do it 2 or 3 times.
+These steps will become second nature after you do it 2 or 3 times.  By the time you complete Project 3 Part 1, you shouldn't have to consciously think about this workflow.
 
 # Once again, Welcome to PFM::C++ Language Fundamentals
 
