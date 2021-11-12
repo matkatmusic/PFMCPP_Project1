@@ -52,84 +52,106 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:mixer
+//  action 1: the mixer recieves audio input 
+mixer.recievesAudioInput();
 
-//  action 2:
+//  action 2: the mixer sends audio output 
+mixer.sendsAudioOutput();
 
-//  action 3:
+//  action 3:the mixer displays audio levels
+mixer.displaysAudioLevels();
+
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:car
+//  action 1:the car stops
+car.stop();
 
-//  action 2:
-
-//  action 3:
+//  action 2:the car beeps
+car.beep();
+//  action 3:the car idles
+car.idle();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:flower
+//  action 1:the flower blooms
+flower.bloom();
 
-//  action 2:
+//  action 2:the flower grows
+flower.grow();
 
-//  action 3:
+//  action 3:the flower dies
+flower.die();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:dog
+//  action 1:the dog barks
+dog.bark();
 
-//  action 2:
+//  action 2:the dog jumps
+dog.jump();
 
-//  action 3:
+//  action 3:the dog runs
+dog.run();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:bee
+//  action 1:the bee flies
+bee.fly();
+//  action 2:the bee stings
+bee.sting();
+//  action 3:the bee lands
+bee.land();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:virus
+//  action 1:the virus attacks
+virus.attack();
 
-//  action 2:
+//  action 2:the virus reproduces
+virus.reproduce();
 
-//  action 3:
+//  action 3:the virus spreads
+virus.spread();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:function
+//  action 1:the function recieves data
+function.recieve();
 
-//  action 2:
-
-//  action 3:
+//  action 2:the function processes data
+function.process();
+//  action 3:the function sends data
+function.send();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:earth
+//  action 1:the earth orbits the sun
+earth.orbit();
+//  action 2:the earth spins
+earth.spin();
 
-//  action 2:
-
-//  action 3:
-
+//  action 3:the earth inhabits people
+earth.inhabit();
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:turntable
+//  action 1:the turntable spins
+turntable.spin();
+//  action 2:the turntable outputs sound
+turntable.output();
 
-//  action 2:
-
-//  action 3:
+//  action 3:the turntable scratches the record
+turntable.scratch();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:hard drive
+//  action 1:the hard drive stores data
+hardDrive.store();
+//  action 2:the hard drive encrypts data
+hardDrive.encrypt();
+//  action 3:the hard drive spins
+hardDrive.spins();
 
 
 
