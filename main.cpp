@@ -108,29 +108,29 @@ potato.slice();
 //  action 3:    cook potato
 potato.cook();
 //  8)
-//  Noun:    
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    Bass  
+//  action 1:    play the bass
+bass.play();
+//  action 2:    tune the bass
+bass.tune();
+//  action 3:    drop the bass
+bass.drop();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    bird
+//  action 1:    the bird bathes
+bird.bathes();
+//  action 2:    bird eats
+bird.eats();
+//  action 3:    the bird flys
+bird.flys();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:    wheel
+//  action 1:    the wheel rotates
+wheel.rotates();
+//  action 2:    turn the wheel
+wheel.turn();
+//  action 3:    inflated the wheel
+wheel.inflate();
 
 
 #endif
