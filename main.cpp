@@ -14,6 +14,7 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
+    
  
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
@@ -52,84 +53,110 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bicycle
+//  action 1: the bicycle rides
+bicycle.ride();
+//  action 2: the bicycle flies
+bicycle.fly();
+//  action 3: the bicycle dings its bell
+bicycle.bells();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: lavalamp
+//  action 1: lavalamp is turned ON
+lavalamp.on();
+//  action 2: lavalamp rotates
+lavalamp.rotate();
 
-//  action 2:
-
-//  action 3:
+//  action 3: lavalamp plays music
+lavalamp.music();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Oven
+//  action 1: Oven needs cleaning
+oven.needsCleanin();
 
-//  action 2:
+//  action 2: Oven makes buns
+oven.makesBuns();
 
-//  action 3:
+//  action 3: Oven light is broken
+oven.lightBroken();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Ganesha
+//  action 1: Ganesha needs an offering
+ganesha.needsOffering();
 
-//  action 2:
+//  action 2: Ganesha grants you infinte awesome because you offered
+ganesha.grantsAwesome();
 
-//  action 3:
+//  action 3: Ganesha rubs belly
+ganesha.rubsBelly();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Plants
+//  action 1: Plants needs watering
+plants.needsWatering();
 
-//  action 2:
+//  action 2: Plants photosynthesize
+plants.photosynthesis();
 
-//  action 3:
+//  action 3: Plants dances
+plants.dances();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Book on designing audio plugins
+//  action 1: Book on designing audio plugins teaches me stuff
+bookOnDesigningAudioPlugins.teaches();
 
-//  action 2:
+//  action 2: Book on designing audio plugins is bookOnDesigningAudioPlugins.isOpen();
 
-//  action 3:
+//  action 3: Book on designing audio plugins is lost
+bookOnDesigningAudioPlugins.isLost();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: YouTube
+//  action 1: YouTube plays music
+youtube.playsMusic();
 
-//  action 2:
+//  action 2: YouTube plays annoying add
+youtube.playsAnnoyingAdd();
 
-//  action 3:
+//  action 3: YouTube asks for Premium membership level
+youtube.askForPremium();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Synthesizer
+//  action 1: Synthesizer makes hits
+synthesizer.makesHits();
 
-//  action 2:
+//  action 2: Synthesizer needs tuning
+synthesizer.needsTuning();
 
-//  action 3:
+//  action 3: Synthesizer arpeggio mode ON
+syntheiszer.arpModeON();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Appartment
+//  action 1: Appartment houses a party
+appartment.hostsParty();
 
-//  action 2:
+//  action 2: Appartment needs cleaning
+appartment.needsCleaning();
 
-//  action 3:
+//  action 3: Appartment is for sale
+appartment.forSale();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: Bed
+//  action 1: Bed is calling for sleep
+bed.callsForSleep();
 
-//  action 2:
+//  action 2: Bed is made
+bed.isMade();
 
-//  action 3:
+//  action 3: Bed grants wonderful dreams and refreshing sleep
+bed.gransSleepAndWonders();
 
 
 
