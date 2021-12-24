@@ -52,86 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       watch
+//  action 1:   the watch displays the current time
+watch.displayCurrentTime();
+//  action 2:   the watch displays the current date
+watch.displayCurrentDate();
+//  action 3:   the watch gets notifications 
+watch.getNotifications();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       phone
+//  action 1:   the phone rings
+phone.ring();
+//  action 2:   the phone plays a media file
+phone.playMedia();
+//  action 3:   the phone vibrates
+phone.vibrate();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       cat        
+//  action 1:   the cat jumps on the chair
+cat.jumpOnChair();
+//  action 2:   the cat begs for food
+cat.begForFood();
+//  action 3:   the cat meows
+cat.meow();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       fan
+//  action 1:   the fan spins
+fan.spin();
+//  action 2:   the fan speeds up
+fan.accelerate(); 
+//  action 3:   the fan slows down
+fan.deccelerate();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       moose
+//  action 1:   the moose walks
+moose.walk();
+//  action 2:   the moose sleeps
+moose.sleep();
+//  action 3:   the moose drinks water
+mosse.drinkWater();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       child
+//  action 1:   the child sings
+child.sing();
+//  action 2:   the child talks
+child.talk();
+//  action 3:   the child runs
+child.run();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       vehicle
+//  action 1:   the vehicle moves forward
+vehicle.moveForward();
+//  action 2:   the vehicle moves backward
+vehicle.moveBackward();
+//  action 3:   the vehicle flashes its lights
+vehicle.flashLights();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       fireplace
+//  action 1:   the fireplace lights the room
+fireplace.lightRoom();
+//  action 2:   the fireplace heats the room
+fireplace.heatRoom();
+//  action 3:   the fireplace creates a crackling sound in the room
+fireplace.crackle();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       bird
+//  action 1:   the bird flies
+bird.fly();
+//  action 2:   the bird lands
+bird.land();
+//  action 3:   the bird builds a nest
+bird.buildNest();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun:       whale
+//  action 1:   the whale swims
+whale.swim();
+//  action 2:   the whale eats fish
+whale.eatFish();
+//  action 3:   the whale jumps
+whale.jump();
 
 #endif
 
