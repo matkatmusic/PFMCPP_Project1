@@ -94,7 +94,7 @@ moose.walk();
 //  action 2:   the moose sleeps
 moose.sleep();
 //  action 3:   the moose drinks water
-mosse.drinkWater();
+moose.drinkWater();
 
 //  6)
 //  Noun:       child
