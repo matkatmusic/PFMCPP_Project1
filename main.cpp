@@ -54,83 +54,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  1)
 //  Noun:       apple
 //  action 1:   the apple drops from the tree
-apple.drop()
+apple.drop();
 //  action 2:   the apple rots
-apple.rot()
+apple.rot();
 //  action 3:   the apple sprouts
-apple.sprout()
+apple.sprout();
 //  2)
 //  Noun:       dog
 //  action 1:   the dog sleeps
-dog.sleep()
+dog.sleep();
 //  action 2:   the dog protec
-dog.protec()
+dog.protec();
 //  action 3:   the dog attack
-dog.attack()
+dog.attack();
 //  3)
 //  Noun:       calculator
 //  action 1:   the calculator adds
-calc.add()
+calc.add();
 //  action 2:   the calculator divides
-calc.divide()
+calc.divide();
 //  action 3:   the calculator clears
-calc.clear()
+calc.clear();
 //  4)
 //  Noun:       trogdor
 //  action 1:   trogdor burninates
-trogdor.burn()
+trogdor.burn();
 //  action 2:   trogdor flies
-trogdor.fly()
+trogdor.fly();
 //  action 3:   trogdor memes
-trogdor.meme()
+trogdor.meme();
 //  5)
 //  Noun:       Toby
 //  action 1:   Toby reads info
-toby.read()
+toby.read();
 //  action 2:   Toby writes info
-toby.write()
+toby.write();
 //  action 3:   Toby stores info
-toby.save()
+toby.save();
 //  6)
 //  Noun:       Chrome
 //  action 1:   Chrome opens a new tab
-chrome.newTab()
+chrome.newTab();
 //  action 2:   Chrome bookmarks a tab
-chrome.newBookmark()
+chrome.newBookmark();
 //  action 3:   Chrome refreshes a tab
-chrome.refresh()
+chrome.refresh();
 //  7)
 //  Noun:       UFO
 //  action 1:   the UFO hides
-ufo.cloak()
+ufo.cloak();
 //  action 2:   the UFO moves
-ufo.warp()
+ufo.warp();
 //  action 3:   the UFO observes
-ufo.scan()
+ufo.scan();
 //  8)
 //  Noun:       telescope
 //  action 1:   the telescope zooms
-telescope.zoom()
+telescope.zoom();
 //  action 2:   the telescope changes azimuth
-telescope.azimuth()
+telescope.azimuth();
 //  action 3:   the telescope changes declination
-telescope.declination()
+telescope.declination();
 //  9)
 //  Noun:       JWST
 //  action 1:   JWST connects to NASA
-jwst.connect()
+jwst.connect();
 //  action 2:   JWST transmits data
-jwst.transmit()
+jwst.transmit();
 //  action 3:   JWST disconnects
-jwst.disconnect()
+jwst.disconnect();
 //  10)
 //  Noun:       clock
 //  action 1:   the clock stores the time
-clock.setTime()
+clock.setTime();
 //  action 2:   the clock stores the alarm time
-clock.setAlarm()
+clock.setAlarm();
 //  action 3:   the clock alarms
-clock.alarm()
+clock.alarm();
 
 
 #endif
