@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       apple
+//  action 1:   the apple drops from the tree
+apple.drop()
+//  action 2:   the apple rots
+apple.rot()
+//  action 3:   the apple sprouts
+apple.sprout()
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       dog
+//  action 1:   the dog sleeps
+dog.sleep()
+//  action 2:   the dog protec
+dog.protec()
+//  action 3:   the dog attack
+dog.attack()
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       calculator
+//  action 1:   the calculator adds
+calc.add()
+//  action 2:   the calculator divides
+calc.divide()
+//  action 3:   the calculator clears
+calc.clear()
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       trogdor
+//  action 1:   trogdor burninates
+trogdor.burn()
+//  action 2:   trogdor flies
+trogdor.fly()
+//  action 3:   trogdor memes
+trogdor.meme()
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       Toby
+//  action 1:   Toby reads info
+toby.read()
+//  action 2:   Toby writes info
+toby.write()
+//  action 3:   Toby stores info
+toby.save()
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       Chrome
+//  action 1:   Chrome opens a new tab
+chrome.newTab()
+//  action 2:   Chrome bookmarks a tab
+chrome.newBookmark()
+//  action 3:   Chrome refreshes a tab
+chrome.refresh()
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       UFO
+//  action 1:   the UFO hides
+ufo.cloak()
+//  action 2:   the UFO moves
+ufo.warp()
+//  action 3:   the UFO observes
+ufo.scan()
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       telescope
+//  action 1:   the telescope zooms
+telescope.zoom()
+//  action 2:   the telescope changes azimuth
+telescope.azimuth()
+//  action 3:   the telescope changes declination
+telescope.declination()
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       JWST
+//  action 1:   JWST connects to NASA
+jwst.connect()
+//  action 2:   JWST transmits data
+jwst.transmit()
+//  action 3:   JWST disconnects
+jwst.disconnect()
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       clock
+//  action 1:   the clock stores the time
+clock.setTime()
+//  action 2:   the clock stores the alarm time
+clock.setAlarm()
+//  action 3:   the clock alarms
+clock.alarm()
 
 
 #endif
