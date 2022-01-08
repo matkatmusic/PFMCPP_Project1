@@ -94,35 +94,35 @@ toby.save();
 //  6)
 //  Noun:       Chrome
 //  action 1:   Chrome opens a new tab
-chrome.newTab();
-//  action 2:   Chrome bookmarks a tab
-chrome.newBookmark();
+chrome.openNewTab();
+//  action 2:   Chrome creates a bookmark
+chrome.createBookmark();
 //  action 3:   Chrome refreshes a tab
-chrome.refresh();
+chrome.refreshTab();
 //  7)
 //  Noun:       UFO
 //  action 1:   the UFO hides
-ufo.cloak();
+ufo.hide();
 //  action 2:   the UFO moves
-ufo.warp();
+ufo.move();
 //  action 3:   the UFO observes
-ufo.scan();
+ufo.observe();
 //  8)
 //  Noun:       telescope
 //  action 1:   the telescope zooms
 telescope.zoom();
 //  action 2:   the telescope changes azimuth
-telescope.azimuth();
+telescope.changeAzimuth();
 //  action 3:   the telescope changes declination
-telescope.declination();
+telescope.changeDeclination();
 //  9)
-//  Noun:       JWST
-//  action 1:   JWST connects to NASA
-jwst.connect();
-//  action 2:   JWST transmits data
-jwst.transmit();
-//  action 3:   JWST disconnects
-jwst.disconnect();
+//  Noun:       Captain Kirk
+//  action 1:   Kirk uses stun gun
+captainKirk.useStunGun();
+//  action 2:   Kirk woos an alien
+captainKirk.wooAlien();
+//  action 3:   Kirk uses space-karate
+captainKirk.useSpaceKarate();
 //  10)
 //  Noun:       clock
 //  action 1:   the clock stores the time
