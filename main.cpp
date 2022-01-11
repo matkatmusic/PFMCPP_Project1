@@ -4,7 +4,7 @@
  Project 1 - Part 1 / 1
  Video: Chapter 2 Part 1
  
-Create a branch named Part1
+Create a branch named Part1 OK!
 
 Purpose:  This project will get you thinking correctly about choosing good names for the tasks that your objects will perform. 
 This project will also introduce you to the review process, and how Pull Requests work.
@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: car
+//  action 1: the car turns
+car.turns();
+//  action 2: the car accelerate
+car.accelerate();
+//  action 3: the car stop
+car.stop();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: computer
+//  action 1: the computer suspend
+computer.suspend();
+//  action 2: the computer hibernate
+computer.hibernate();
+//  action 3: the computer shutDown
+computer.shutDown();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: oven
+//  action 1: the oven heats
+oven.getHeat();
+//  action 2: the oven colds
+oven.getCold();
+//  action 3: the oven keep temperature
+oven.keepTemperature();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: pet
+//  action 1: the pet eat
+pet.eat();
+//  action 2: the pet sleep
+pet.sleep();
+//  action 3: the pet play
+pet.play();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: TV
+//  action 1: the TV change the channel
+tv.changeChannel();
+//  action 2: the TV change the source
+tv.changeSource();
+//  action 3: the TV standby
+tv.standby();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: elevator
+//  action 1: the elevator go up
+elevator.goUp();
+//  action 2: the elevator go down
+elevator.goDown();
+//  action 3: the elevator open the door
+elevator.openDoor();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: air conditioner
+//  action 1: the air conditioner check the temperature
+airConditioner.checkTemperature();
+//  action 2: the air conditioner cold the air
+airConditioner.cold();
+//  action 3: the air conditioner ventilate 
+airConditioner.ventilate();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: fax
+//  action 1: the fax give transfer tone
+fax.giveTone();
+//  action 2: the fax receive
+fax.receiveData();
+//  action 3: the fax send
+fax.sendData();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: train barrier
+//  action 1: the train barrier open the fence
+trainBarrier.open();
+//  action 2: the train barrier close the fence
+trainBarrier.close();
+//  action 3: the train barrier bell rings
+trainBarrier.ring();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: automatic light sensor
+//  action 1: the light sensor turn on the lights
+lightSensor.autoTurnON();
+//  action 2: the light sensor turn off the lights
+lightSensor.autoTurnOFF();
+//  action 3: the light sensor change the actual state of the lights
+lightSensor.manualTurn();
 
 
 #endif
