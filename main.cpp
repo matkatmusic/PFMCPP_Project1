@@ -52,86 +52,88 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:      Dog
+//  action 1:  the dog barks
+dog.bark();
+//  action 2:  the dog sits
+dog.sit();
+//  action 3:  the dog eats
+dog.eat();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:     foot
+//  action 1: the foot stomps
+foot.stomp();
+//  action 2: the foot kicks
+foot.kick();
 
-//  action 2:
-
-//  action 3:
+//  action 3: the foot taps
+foot.tap();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: tape
+//  action 1: the tape plays
+tape.play();
+//  action 2: the tape warbles
+tape.warble();
+//  action 3: the tape spins
+tape.spin();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  wheel
+//  action 1:  the wheel rotates
+wheel.rotate();
+//  action 2:  the wheel stops
+wheel.stop();
+//  action 3:  the wheel punctures
+wheel.puncture();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  cat
+//  action 1: the cat meows
+cat.meow();
+//  action 2: the cat purrs
+cat.purr();
+//  action 3: the cat jumps
+cat.jump();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:bird
+//  action 1: the bird flies
+bird.fly();
+//  action 2: the bird calls
+bird.call();
+//  action 3: the bird hunts
+bird.hunt();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: man
+//  action 1: the man shouts
+man.shout();
+//  action 2: the man falls
+man.fall();
+//  action 3: the man punches
+man.punch();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  spider
+//  action 1: the spider crawls
+spider.crawl();
+//  action 2: the spider spins its web
+spider.spinsWeb();
+//  action 3: the spider eats a fly
+spider.eatsFly();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  plant
+//  action 1: the plant blooms
+plant.bloom();
+//  action 2: the plant dies
+plant.die();
+//  action 3: the plant wilts
+plant.wilt();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun: bottle
+//  action 1: the bottle spills
+bottle.spill();
+//  action 2: the bottle smashes
+bottle.smashes();
+//  action 3: the bottle falls
+bottle.fall();
 
 #endif
 
