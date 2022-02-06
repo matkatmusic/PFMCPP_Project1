@@ -128,7 +128,7 @@ u.honorCorporateEliteUnderGuiseOfPhilanthropy()
 
 //  8)
 //  Noun: Food
-//  action 1: the food looks hot
+//  action 1: the food looks hot. nice and hot.
 carrot.lookHot()
 
 //  action 2: the food looks steamy
