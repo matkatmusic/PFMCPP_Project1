@@ -52,84 +52,112 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Animal
+//  action 1: the animal drinks
+a.drink()
 
-//  action 2:
-
-//  action 3:
-
+//  action 2: the animal eats
+a.eat()
+//  action 3: the animal replicates
+a.replicate()
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Automobile
+//  action 1: the car speeds up
+car.accelerate()
 
-//  action 2:
+//  action 2: the car slows down
+car.decelerate()
 
-//  action 3:
+//  action 3: the car drifts 
+car.drift()
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Musician
+//  action 1: 
+m.sing()
 
-//  action 2:
+//  action 2: 
+m.perform()
 
-//  action 3:
+//  action 3: 
+m.vibe()
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Instrument
+//  action 1: instrument resonates
+i.resonate()
 
-//  action 2:
+//  action 2: instrument makes noise
+i.makeNoise()
 
-//  action 3:
+//  action 3: instrument ages with beauty
+i.ageWithBeauty()
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Student
+//  action 1: student parties
+s.party()
 
-//  action 2:
+//  action 2: student parties hard
+s.partyHard()
 
-//  action 3:
+//  action 3: student parties super hard
+s.partySuperHard()
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Business
+//  action 1: business exploits natural resources
+b.exploitNaturalResources()
 
-//  action 2:
+//  action 2: business helps local community
+b.helpCommunity()
 
-//  action 3:
+//  action 3: busyiness generates a net loss for tax purposes
+b.generateNetLossForTaxPurposes()
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: University
+//  action 1: university covers up a scandal
+u.coverUpScandal()
 
-//  action 2:
+//  action 2: university accepts bribe from big pharma
+u.acceptBribeFromBigPharma()
 
-//  action 3:
+//  action 3: university honors the corporate elite under guise of philanthropy
+u.honorCorporateEliteUnderGuiseOfPhilanthropy()
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Food
+//  action 1: the food looks hot
+carrot.lookHot()
 
-//  action 2:
+//  action 2: the food looks steamy
+carrot.lookSteamy()
 
-//  action 3:
+//  action 3: the food rots
+carrot.rot()
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Computer
+//  action 1: the computer computes
+apple.compute()
 
-//  action 2:
+//  action 2: the computer updates
+apple.update()
 
-//  action 3:
+//  action 3: the computer uninstalls a program
+apple.uninstallProgram()
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: SmartHome
+//  action 1: the smart home adjusts the lighting 
+nest.adjustLighting()
 
-//  action 2:
+//  action 2: the smart home adjusts the temperature
+nest.setTemperature()
 
-//  action 3:
+//  action 3: the smart home emails your security footage to jeff bezos
+nest.emailSecurityFootage()
 
 
 
