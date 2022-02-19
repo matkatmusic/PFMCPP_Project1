@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: recorder
+//  action 1: set sample rate
+recorder.setSampleRate();
+//  action 2: set bit rate
+recorder.setBitRate();
+//  action 3: select channel
+recorder.selectChannel();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: human
+//  action 1: eat
+human.eat();
+//  action 2: sleep
+human.sleep();
+//  action 3: write
+human.write();
+//  3) 
+//  Noun: reverb
+//  action 1: choose ir data
+reverb.chooseIR();
+//  action 2: set wet amount
+reverb.setWetAmount();
+//  action 3: set distance
+reverb.setDistance();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: audio channel 1
+//  action 1: import file
+channel1.importFile();
+//  action 2: solo
+channel1.Solo();
+//  action 3: record sound
+channel1.recSound();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: washing machine
+//  action 1: set quick wash
+washer.setQuickWash();
+//  action 2: set cottons
+washer.setCottons();
+//  action 3: stop washing
+washer.stopWashing();
+//  6) 
+//  Noun: browser
+//  action 1: add new tab
+browser.newTab();
+//  action 2: refresh page
+browser.refresh();
+//  action 3: close window
+browser.closeWindow();
+//  7) 
+//  Noun: bluetooth device
+//  action 1: sand a file
+bt.sendFile();
+//  action 2: receive a file
+bt.receiveFile();
+//  action 3: pair device
+bt.pairDevice();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: limiter
+//  action 1: attack time
+limiter.attackTime();
+//  action 2: hold
+limiter.hold();
+//  action 3: limit
+limiter.setLimit();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: midi keyboard
+//  action 1: get note number
+midi.getNoteNumber();
+//  action 2: get pitch wheel value
+midi.getPitchWheelValue();
+//  action 3: control number
+midi.getControllerNumber();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: gain
+//  action 1: set gain decibels
+gain.setGainDecibel();
+//  action 2: set gain linear
+gain.setGainLinear();
+//  action 3: set ramp duration seconds 
+gain.setRampDurationSeconds();
 
 
 #endif
