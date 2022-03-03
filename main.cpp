@@ -48,7 +48,7 @@ arm.extend();                           // 3)
 //  action 2:   the arm flexes          // 2)
 arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
-arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
+arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
