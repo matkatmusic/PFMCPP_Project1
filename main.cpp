@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        phone
+//  action 1:    the phone receives data
+phone.receiveData();
+//  action 2:    the phone sends data
+phone.sendData();
+//  action 3:    the phone rings
+phone.ring();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        coffee machine
+//  action 1:    the coffee is heating up
+coffeeMachine.heatUp();
+//  action 2:    the coffee machine draws power
+coffeeMachine.drawPower();
+//  action 3:    the coffee machine make coffee
+coffeeMachine.makeCoffee();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        mixing console
+//  action 1:    the mixing console moves faders
+mixingConsole.moveFader();
+//  action 2:    the mixing console shows metering
+mixingConsole.showMetering();
+//  action 3:    the mixing console changes level
+mixingConsole.changeLevel();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        calculator
+//  action 1:    the calculator adds numbers
+calculator.addNumber();
+//  action 2:    the calculator substracts numbers
+calculator.substractNumber();
+//  action 3:    the calculator multiplies numbers
+calculator.multiplyNumber();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        alarm clock  
+//  action 1:    the alarm clock shows the current time
+alarmClock.showCurrentTime();
+//  action 2:    the alarm clock shows the alarm time
+alarmClock.showAlarmTime();
+//  action 3:    the alarm clock activates the alarm
+alarmClock.activateAlarm();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        tresor
+//  action 1:    the tresor locks the door
+tresor.lockDoor(); 
+//  action 2:    the tresor unlocks the door
+tresor.unlockDoor();
+//  action 3:    the tresor checks the code
+tresor.checkCode();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        atm
+//  action 1:    the atm verifies the pin
+atm.verifyPin();
+//  action 2:    the atm gets the money
+atm.getMoney();
+//  action 3:    the atm opens drawer
+atm.openDrawer();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        drill
+//  action 1:    the drill moves clockwise
+drill.moveClockwise();
+//  action 2:    the drill moves counter clockwise
+drill.moveCounterClockwise();
+//  action 3:    the drill shows battery status
+drill.showBatteryStatus();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        alarm monitor
+//  action 1:    the alarm monitor triggers alarm
+alarmMonitor.triggerAlarm();
+//  action 2:    the alarm monitor updates alarm
+alarmMonitor.updateAlarm();
+//  action 3:    the alarm monitor removes alarm
+alarmMonitor.removeAlarm();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        equalizer
+//  action 1:    the equalizer changes frequency
+equalizer.changeFrequency();
+//  action 2:    the equalizer changes q-factor
+equalizer.changeQfactor();
+//  action 3:    the equalizer changes gain
+equalizer.changeGain();
 
 
 #endif
