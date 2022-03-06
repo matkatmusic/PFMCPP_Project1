@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        hand
+//  action 1:    the hand opens
+hand.open();
+//  action 2:    the hand closes
+hand.close();
+//  action 3:    the hand moves to the right
+hand.moveToRight();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        finger
+//  action 1:    the finger crosses
+finger.cross();
+//  action 2:    the finger twists
+finger.twist();
+//  action 3:    the finger scraches the cheek
+finger.scrachCheek();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        car
+//  action 1:    the car drives
+car.drive();
+//  action 2:    the car stops
+car.stop();
+//  action 3:    the car turns left
+car.turnLeft();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        phone
+//  action 1:    the phone rings
+phone.ring();
+//  action 2:    the phone viberates
+phone.viberate();
+//  action 3:    the phone reocords voice
+phone.recordVoice();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        show
+//  action 1:    the show starts
+show.start();
+//  action 2:    the show ends
+show.end();
+//  action 3:    change the set
+show.changeSet();
+    
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        app
+//  action 1:    the app quits
+app.quit();
+//  action 2:    the app reopens
+app.reopen();
+//  action 3:    the app changes its window size
+app.setWindowSize();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        computer
+//  action 1:    the computer reboots
+computer.reboot();
+//  action 2:    the computer updates
+computer.update();
+//  action 3:    the computer recovers from usb
+computer.recoverFromUsb();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        keyboard
+//  action 1:    the keyboard outputs from inputs
+keyboard.output();
+//  action 2:    the keyboard recieves data from a user
+keyboard.input();
+//  action 3:    the keyboard counts key stroke
+keyboard.countKeyStroke();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        router
+//  action 1:    the router renews its connection
+router.renew();
+//  action 2:    the router reconnects
+router.reconnect();
+//  action 3:    the router blocks incoming data
+router.blockIncomingData();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        window
+//  action 1:    the window displays something
+window.display();
+//  action 2:    the window shuts down
+window.shutdown();
+//  action 3:    the window change its size 
+window.fitSize();
 
 
 #endif
