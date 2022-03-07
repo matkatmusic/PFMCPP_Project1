@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:      fruit
+//  action 1:  fruit grows
+fruit.grow();
+//  action 2:  fruit ripens
+fruit.ripen();
+//  action 3:  fruit rots
+fruit.rot();
+  
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     horse
+//  action 1: horse trots
+horse.trot();
+//  action 2: horse runs
+horse.gallop();
+//  action 3: horse sleeps
+horse.canter();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     tiger
+//  action 1: tiger climbs a tree
+tiger.climbTree();
+//  action 2: tiger stalks prey
+tiger.stalkPrey();
+//  action 3: tiger kills prey
+tiger.killPrey();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     key
+//  action 1: key locks
+key.lock();
+//  action 2: key unlocks
+key.unlock();
+//  action 3: key gets stuck
+key.getStuck();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     fabric
+//  action 1: fabric tears
+fabric.rip();
+//  action 2: fabric shrinks in dryer
+fabric.shrinkInDryer();
+//  action 3: fabric dries
+fabric.dry();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     rocket
+//  action 1: rocket launches
+rocket.launch();
+//  action 2: rocket explodes
+rocket.explode();
+//  action 3: rocket vents tanks
+rocket.ventTanks();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     website 
+//  action 1: website streams a video
+website.videoStream();
+//  action 2: website crashes
+website.crash();
+//  action 3: website loads
+website.load();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     sun
+//  action 1: sun rises
+sun.rise();
+//  action 2: sun sets
+sun.set();
+//  action 3: sun emits a solar flare
+sun.emitFlair();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:     racecar
+//  action 1: racecar accelerates
+racecar.accelerate();
+//  action 2: racecar decelerates
+racecar.decelerate();
+//  action 3: racecar crashes
+racecar.crash();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:     hair
+//  action 1: hair grows
+hair.grow();
+//  action 2: hair falls out
+hair.fallOut();
+//  action 3: hair greys
+hair.grey();
 
 
 #endif
