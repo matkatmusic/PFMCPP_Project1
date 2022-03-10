@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: honeyBee 
+//  action 1: the honeyBee flies
+honeyBee.fly();
+//  action 2: the honeyBee stings
+honeyBee.sting();
+//  action 3: the honeyBee buzzes 
+honeyBee.buzz();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Synthesizer
+//  action 1: the synthesizer detunes
+synthesizer.detune();
+//  action 2: the synthesizer oscillates 
+synthesizer.oscillate();
+//  action 3: the synthesizer generates envelopes 
+synthesizer.generateEnvelopes();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Carrot
+//  action 1: the carrot grows
+carrot.grow();
+//  action 2: the carrot spoils 
+carrot.spoil();
+//  action 3: the carrot hardens
+carrot.harden();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Candle
+//  action 1: the candle fills room with smell
+candle.fillRoomWithSmell();
+//  action 2: the candle burns wax
+candle.burnWax();
+//  action 3: the candle heats the glass
+candle.heatTheGlass();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Par Can 
+//  action 1: the par can lights the stage
+parCan.lightTheStage();
+//  action 2: the par can loses charge 
+parCan.loseCharge();
+//  action 3: the par can connects to transmitter
+parCan.connectToTransmitter();
+//  6)  
+//  Noun: keyboard
+//  action 1: the keyboard clicks
+keyboard.click();
+//  action 2: the keyboard uses bluetooth
+keyboard.useBluetooth();
+//  action 3: the keyboard transmits data
+keyboard.transmitData();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: the instrument cable
+//  action 1: the instrument table tangles itself
+instrumentCable.tangleItself();
+//  action 2: the instrument cable carries signal
+instrumentCable.carrySignal();
+//  action 3: the instrument cable hums
+instrumentCable.hum();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cieling fan
+//  action 1: the cieling fan spins
+cielingFan.spin();
+//  action 2: the cieling fan cools the room
+cielingFan.coolTheRoom();
+//  action 3: the cieling fan twists the pully
+cielingFan.twistThePully();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cell phone
+//  action 1: the cell phone rings
+cellPhone.ring();
+//  action 2: the cell phone connects to the tower
+cellPhone.connectToTheTower();
+//  action 3: the cell phone dies
+cellPhone.die();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: The Graduate 
+//  action 1: the graduate walks 
+graduate.walk();
+//  action 2: the graduate thinks 
+graudate.think();
+//  action 3: the graduate claps 
+graduate.clap();
 
 
 #endif
