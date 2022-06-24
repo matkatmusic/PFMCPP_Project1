@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        train
+//  action 1:    the train moves forward
+train.forward
+//  action 2:    the train moves reverse
+train.reverse
+//  action 3:    the train sounds whistle
+train.soundWhistle
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cat
+//  action 1:    the cat eats
+cat.eat
+//  action 2:    the cat poops
+cat.poop
+//  action 3:    the cat sleeps
+cat.sleep
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        helicopter
+//  action 1:    the helicopter ascends
+helicopter.ascend
+//  action 2:    the helicopter descends
+helicopter.descend
+//  action 3:    the helicopter rotates
+helicopter.rotate
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        thermostat
+//  action 1:    the thermostat reads temp
+thermostat.readTemp
+//  action 2:    the thermostat tells furnace to heat room
+thermostat.heatRoom
+//  action 3:    the thermostat tells a/c to cool room
+thermostat.coolRoom
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        dishwasher
+//  action 1:    the dishwasher washes dishes
+dishwasher.washDishes
+//  action 2:    the dishwasher drains dirty water
+dishwasher.drainWater
+//  action 3:    the dishwasher drys dishes
+dishwasher.dryDishes
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        waterSprayer
+//  action 1:    the waterSprayer sprays a jet of water
+waterSprayer.sprayJet
+//  action 2:    the waterSprayer sprays a shower of water
+waterSprayer.sprayShower
+//  action 3:    the waterSprayer sprays a mist
+waterSprayer.sprayMist
+// 7)    
+//  Noun:        securitySystem        
+//  action 1:    the securitySystem arms home
+securitySystem.armHome
+//  action 2:    the securitySystem arms away
+securitySystem.armAway
+//  action 3:    the securitySystem checks sensors
+securitySystem.checkSensors
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        printer
+//  action 1:    the printer loads paper
+printer.loadPaper
+//  action 2:    the printer prints page
+printer.printPage
+//  action 3:    the printer sounds paperOutAlarm
+printer.paperOutAlarm
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        clock
+//  action 1:    the clock moves second hand
+clock.moveSecondHand
+//  action 2:    the clock moves minute hand
+clock.moveMinuteHand
+//  action 3:    the clock sounds alarm
+clock.soundAlarm
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        solderingIron
+//  action 1:    the solderingIron heats tip
+solderingIron.heatTip
+//  action 2:    the solderingIron checks temp
+solderingIron.checkTemp
+//  action 3:    the solderingIron turns off after 2 hours with timer
+solderingIron.turnOffTimer
 
 
 #endif
