@@ -52,84 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
+//  Noun: ball
 //  action 1:
-
+ball.bounce();
 //  action 2:
-
+ball.roll();
 //  action 3:
+ball.spinCounterClockwise();
 
 //  2)
-//  Noun:
+//  Noun: gate
 //  action 1:
-
+gate.openSwingOut();
 //  action 2:
-
+gate.openSwingIn();
 //  action 3:
+gate.closeSwingIn();
 
 //  3)
-//  Noun:
+//  Noun: person
 //  action 1:
-
+person.hum();
 //  action 2:
-
+person.laugh();
 //  action 3:
+person.walkBackwards();
 
 //  4)
-//  Noun:
+//  Noun: product
 //  action 1:
-
+product.displayPrice();
 //  action 2:
-
+product.displayInStockInventory();
 //  action 3:
+product.setOutOfStock();
 
 //  5)
-//  Noun:
+//  Noun: membership
 //  action 1:
-
+membership.displayConfirmationMessage();
 //  action 2:
-
+membership.setAddressAsDefault();
 //  action 3:
+membership.deleteRecord();
 
 //  6)
-//  Noun:
+//  Noun: scene
 //  action 1:
-
+scene.start();
 //  action 2:
-
+scene.pause();
 //  action 3:
+scene.stop();
 
 //  7)
-//  Noun:
+//  Noun: dog
 //  action 1:
-
+dog.sit();
 //  action 2:
-
+dog.run();
 //  action 3:
+dog.chaseTailClockwise();
 
 //  8)
-//  Noun:
+//  Noun: hair
 //  action 1:
-
+hair.grow();
 //  action 2:
-
+hair.turnGray();
 //  action 3:
+hair.fallOut();
 
 //  9)
-//  Noun:
+//  Noun: news
 //  action 1:
-
+news.displayHeadline();
 //  action 2:
-
+news.displaySubheadline();
 //  action 3:
+news.displayBodyContent();
 
 //  10)
-//  Noun:
+//  Noun: employee
 //  action 1:
-
+employee.setClockInDateAndTime();
 //  action 2:
-
+employee.updateCompensationDetails();
 //  action 3:
+employee.addResignationToEmailTemplate();
 
 
 
