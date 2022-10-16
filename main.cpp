@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Dog
+//  action 1: The dog barks.
+dog.bark()
+//  action 2: The dog sleeps.
+dog.sleep()
+//  action 3: The dog eats.
+dog.eat()
 
 //  2)
+//  Noun: Radio
+//  action 1: The radio receives signals.
+radio.receive()
+//  action 2: The radio transmits signals.
+radio.transmit()
+//  action 3: The radio changes frequencies.
+radio.setFrequency()
+
+//  3) musicPlayer
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  action 1: The music player plays a song.
+musicPlayer.play()
+//  action 2: The music player stops playing a song.
+musicPlayer.stop()
+//  action 3: The music player opens a new file.
+musicPlayer.openFile()
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Car 
+//  action 1: The car accelerates.
+car.accelerate();
+//  action 2: The car slows down.
+car.break();
+//  action 3: The car changes gear. 
+car.changeGear();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Bird
+//  action 1: The bird flys.
+bird.fly()
+//  action 2: The bird sings.
+bird.sing()
+//  action 3: The bird lays an egg.
+bird.layEgg()
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Student
+//  action 1: The student reads.
+student.read();
+//  action 2: The student takes notes.
+student.takeNotes()
+//  action 3: The student takes exam.
+student.takeExam()
 
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  7) 
+//  Noun: Teacher
+//  action 1: The teacher lectures.
+teacher.lecture();
+//  action 2: The teacher grades assignments.
+teacher.gradeAssignment();
+//  action 3: The teacher takes attendance.
+teacher.takeAttendance(); 
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Librarian 
+//  action 1: The librarian locates a book.
+librarian.locateBook();
+//  action 2: The librarian checks out a books.
+librarian.checkOutBook();
+//  action 3: The librarian checks in a book. 
+librarian.checkInBook();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Phone
+//  action 1: The phone makes a call.
+phone.placeCall()
+//  action 2: The phone connects an incoming call.
+phone.connectIncommingCall()
+//  action 3: The phone hangs up.
+phone.hangUp();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Calculator 
+//  action 1: The calculator adds two numbers.
+calculator.sum()
+//  action 2: The calculator subtracts two numbers
+calculator.diff()
+//  action 3: The calculator multiplies two numbers.
+calculator.multiply() 
 
 
 #endif
