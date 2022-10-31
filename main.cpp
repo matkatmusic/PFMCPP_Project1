@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
+//  Noun:chicken
 //  action 1:
-
+chicken.clucks();
 //  action 2:
-
+chicken.sleeps();
 //  action 3:
-
+chicken.eats();
 //  2)
-//  Noun:
+//  Noun:skateboarder
 //  action 1:
-
+skateboarder.ollies();
 //  action 2:
-
+skateboarder.kickFlips();
 //  action 3:
-
+skateboarder.falls();
 //  3)
-//  Noun:
+//  Noun:doctor
 //  action 1:
-
+doctor.performsSurgey();
 //  action 2:
-
+doctor.performsCheckUp();
 //  action 3:
-
+doctor.eatsLunch();
 //  4)
-//  Noun:
+//  Noun:lawyer
 //  action 1:
-
+lawyer.filesLawSuit();
 //  action 2:
-
+lawyer.courtObjection();
 //  action 3:
-
+lawyer.studiesCase();
 //  5)
-//  Noun:
+//  Noun: fighter
 //  action 1:
-
+fighter.punch();
 //  action 2:
-
+fighter.kick();
 //  action 3:
-
+fighter.performKO();
 //  6)
-//  Noun:
+//  Noun: cat
 //  action 1:
-
+cat.meow();
 //  action 2:
-
+cat.growl();
 //  action 3:
-
+cat.sleeps();
 //  7)
-//  Noun:
+//  Noun: plant
 //  action 1:
-
+plant.grows();
 //  action 2:
-
+plant.sheds();
 //  action 3:
-
+plant.dies();
 //  8)
-//  Noun:
+//  Noun: DJ
 //  action 1:
-
+DJ.playsTrack();
 //  action 2:
-
+DJ.stopsTrack();
 //  action 3:
-
+DJ.transitionsTrack();
 //  9)
+//  Noun: Chef
+//  action 1:
+Chef.buysIngredients();
+//  action 2:
+Chef.cooksMeal();
+//  action 3:
+Chef.cleans
+//  10) member
 //  Noun:
 //  action 1:
-
+member.login();
 //  action 2:
-
+member.purchase();
 //  action 3:
-
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+member.logout();
 
 
 #endif
@@ -152,6 +152,6 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 #include <iostream>
 int main()
 {
-    std::cout << "good to go" << std::endl;
+    std::cout << "Hello world!" << std::endl;
     return 0;
 }
