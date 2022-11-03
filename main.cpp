@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:book
+//  action 1: the book provide education.
+book.ProvideEducation();
+//  action 2:the book rests on a shelf.
+book.RestOnaShelf();
+//  action 3:the book takes up space.
+book.TakesUpSpace();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:laptop
+//  action 1:the laptop does the calculations.
+laptop.DoesTheCalculations();
+//  action 2:the laptop displays on screen.
+laptop.DisplaysOnScreen();
+//  action 3:the laptop supports presentation.
+laptop.SupportsPresentation();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:cloth
+//  action 1:the cloth fades.
+cloth.fades();
+//  action 2:the cloth warms the people.
+cloth.WarmsThePeople();
+//  action 3:the cloth protectas against injury.
+cloth.ProtectasAgainstInjury();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:piano
+//  action 1:the piano makes sound.
+piano.MakesSound();
+//  action 2:the piano inspires people.
+piano.InspiresPeople();
+//  action 3:the piano annoys neighbors.
+piano.AnnoysNeighbors();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:human 
+//  action 1:the human sleeps.
+human.sleeps();
+//  action 2:the human eats.
+huamn.eats();
+//  action 3:the human grows up.
+human.GrowsUp();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:car 
+//  action 1:the car consumes gasoline.
+car.ConsumeGasoline();
+//  action 2:the car runs.
+car.runs();
+//  action 3:the car carries people.
+car.CarriesPeople();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:music
+//  action 1:the music connects people.
+music.ConnectsPeople(); 
+//  action 2:the music transcends borders.
+music.TranscendsBorders();
+//  action 3:the music heals people.
+music.HealsPeople();
 //  8)
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  action 1:the earth rotates.
+earth.ratates();
+//  action 2:the earth turns.
+earth.turns();
+//  action 3:the earth produces water.
+earth.ProducesWater();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:goverment
+//  action 1:The government sets up the infrastructure.
+goverment.SetUpTheInfrastructure();
+//  action 2:The government heplps people.
+goverment.HelpsPeople();
+//  action 3:The government makes the rules.
+goverment.MakesTheRules();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:religion.
+//  action 1:the religion provides salvation.
+religion.ProvidesSalvation();
+//  action 2:the religion provides the answer.
+religion.ProvidesTheAnswer();
+//  action 3:the religion provides takes your money.
+religion.TakesYourMoney();
 
 
 #endif
