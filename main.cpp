@@ -52,86 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: phone
+//  action 1: the phone rings
+phone.ring();
+//  action 2: the phone consumes electricity
+phone.consumeElectricity();
+//  action 3: the connects to the network
+phone.connectToNetwork();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: finger
+//  action 1: the finger points
+finger.point();
+//  action 2: the finger scratches an itch
+finger.scratchItch();
+//  action 3: the finger curls
+finger.curl();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: monkey
+//  action 1: the monkey dances
+monkey.dance();
+//  action 2: the monkey eats a banana
+monkey.eatBanana();
+//  action 3: the monkey climbs a tree
+monkey.climbTree();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: programmer 
+//  action 1: The programmer types lines of code
+programmer.typeLinesOfCode();
+//  action 2: The programmer debugs their code
+programmer.debugCode();
+//  action 3: The programmer swears 
+programmer.swear();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: star
+//  action 1: The star shines
+star.shine();
+//  action 2: The star collapses into a black hole
+star.collapseIntoBlackHole();
+//  action 3: The star explodes into a supernova
+star.explodeIntoSupernova();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: baby
+//  action 1: The baby cries
+baby.cry();
+//  action 2: The baby plays with her toy
+baby.playWithToy();
+//  action 3: The baby burps
+baby.burp();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: singer
+//  action 1: the singer sings
+singer.sing();
+//  action 2: the singer dances
+singer.dance();
+//  action 3: the singer's never gonna give you up
+singer.neverGiveYouUp();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: paint
+//  action 1: The paint covers the wall
+paint.coverWall();
+//  action 2: The paint runs down the brush
+paint.runDownBrush();
+//  action 3: The paint dries
+paint.dry();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: ghost
+//  action 1: the ghost haunts the house
+ghost.hauntHouse();
+//  action 2: the ghost passes through a wall
+ghost.passThroughWall();
+//  action 3: the ghost runs away from the ghostbuster
+ghost.runAwayFromGhostbuster();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun: santa
+//  action 1: Santa brings presents
+santa.bringPresents();
+//  action 2: Santa comes down the chimney
+santa.comeDownChimney();
+//  action 3: Santa checks the naughty list
+santa.checkNaughtyList();
 
 #endif
 
