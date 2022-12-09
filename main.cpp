@@ -50,87 +50,115 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
+//noun
+
+
+
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: dog
+//  action 1: A dog barks
 
-//  action 2:
 
-//  action 3:
+dog.bark();
+
+//  action 2: A dog likes to play fetch
+dog.playFetch();
+//  action 3: A dog sniffs
+dog.sniff();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Cat
+//  action 1: A cat purrs
+cat.purr();
 
-//  action 2:
 
-//  action 3:
-
+//  action 2: A cat may scratch furniture
+cat.scratchFurniture();
+//  action 3: Cats wag their tail
+cat.wagTail();
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Laptop
 
-//  action 2:
+//  action 1: A laptop can change the desktop background
+laptop.changeDesktopBackground();
 
-//  action 3:
+//  action 2: A laptop performs multiple tasks
+laptop.performMultipleTasks();
+//  action 3: A laptop saves files
+laptop.saveFile();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Fan
+//  action 1: the fan rotates
 
-//  action 2:
+fan.rotate();
+//  action 2: the fan sets Speed
+fan.setSpeed();
 
-//  action 3:
-
+//  action 3: some fans can set a timer to turn off after a certain amount of time
+fan.setTimer();
 //  5)
+//  Noun:watch
+//  action 1: most smart watches these days can measure workout statistics 
+watch.startWorkoutStatistics();
+//  action 2: a watch updates time 
+watch.updateTime();
+
+//  action 3: a watch displays the date
+watch.displayDate();
+
+//  6) Bike
 //  Noun:
-//  action 1:
+//  action 1: a bike rotates its wheels
+bike.rotateWheels();
 
-//  action 2:
 
-//  action 3:
+//  action 2: a bike applies brakes
+bike.applyBrakes();
 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  action 3: a bike changes its gear
+bike.changeGear();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:Headphones
+//  action 1: headphones play music
+headphones.playMusic();
 
-//  action 2:
+//  action 2: some headphones can operate wirelessly through bluetooth
+headphones.operateWirelessly();
 
-//  action 3:
-
+//  action 3: some headphones can cancel ambient noise
+headphones.cancelAmbientNoise();
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Thermostat
+//  action 1: A thermostat sets the temperature();
 
-//  action 2:
 
-//  action 3:
+thermostat.setTemperature();
+//  action 2: A thermostat can heat the room
+thermostat.heat();
+
+
+//  action 3: A thermostat can cool the room
+thermostat.cool();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Person
+//  action 1: a person walks
+person.walk();
+//  action 2: a person sits
+person.sit();
+//  action 3: a person eats food
+person.eatFood();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Coffee Machine
+//  action 1: a coffee machine can make a cappuccino
+coffeeMachine.makeCappuccino();
+//  action 2: a coffee machine can make a latte
+coffeeMachine.makeLatte();
+//  action 3: a coffee machine can make lungo
+coffeeMachine.makeLungo();
 
 
 #endif
