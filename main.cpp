@@ -134,11 +134,11 @@ steak.wellDone();
 
 //  9)
 //  Noun: glass
-//  action 1: the glass was full
+//  action 1: the water glass was full
 glass.full();
-//  action 2: the glass was empty
+//  action 2: the water glass was empty
 glass.empty();
-//  action 3: the glass was half full
+//  action 3: the water glass was half full
 glass.halfFull();
 
 //  10) plane
