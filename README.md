@@ -114,7 +114,7 @@ Once you have finished adding me to **ALL NINE `replit` projects**, proceed to t
 # Detailed Project Workflow Instructions
 ## 1) Make a branch in Replit and start editing
 - The **expected branch name** is written at the top of main.cpp
-- Navigate to the Version Control view on the left
+- Navigate to the Git view in the widgets on the left
 - Click the `[+]` button to create the branch
 - Enter the **expected name** to create the branch
 
@@ -164,7 +164,7 @@ Do not delete the project instructions.
 
 #
 ## 2) Commit your changes on your branch in Replit
-- `commit` your changes via `Replit's` Version Control widget on the left side of the page.
+- `commit` your changes via `Replit's` Git widget on the left side of the page.
 - it's perfectly fine to make several commits on your branch before the project part is completed. 
 - if you get stuck, `commit` your changes and **send me a DM** explaining the issue.
 - if `Replit` won't commit the changes, **send me a DM**.  
