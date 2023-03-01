@@ -52,97 +52,108 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: student
+//  action 1: the student study
+student.study();
+//  action 2: the student rest
+student.rest();
+//  action 3: the student sleep
+student.sleep();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: employee
+//  action 1: the employee works
+employee.work();
+//  action 2: the employee eats
+employee.eat();
+//  action 3: the employee goes back home
+employee.goesBackHome();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: computer
+//  action 1: the computer calculates
+computer.calculate();
+//  action 2: the computer memorizes
+computer.memorize();
+//  action 3: the computer consumes energy
+computer.consumeEnergy();
 
-//  action 2:
-
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  4) 
+//  Noun: car
+//  action 1: the car running
+car.running();
+//  action 2: the car consumes fuel 
+car.consumeFuel();
+//  action 3: the car close the door
+car.closeDoor();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bird
+//  action 1: the bird flies
+bird.fly();
+//  action 2: the bird eats
+bird.eat();
+//  action 3: the bird protects itself
+bird.protectItSelf();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: scientist
+//  action 1: the scientist reads
+scientist.read();
+//  action 2: the scientist thinks
+scientist.think();
+//  action 3: the scientist investigates
+scientist.investigate();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: cloud
+//  action 1: the cloud moves
+cloud.move();
+//  action 2: the cloud throws water
+cloud.throwWater();
+//  action 3: the cloud fills whit water
+cloud.fillWater();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: musician 
+//  action 1: the musician play 
+musician.play();
 
-//  action 2:
-
-//  action 3:
+//  action 2: the musician dances
+musician.dance();
+//  action 3: the musician travels
+musician.travel();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: hero
+//  action 1: the hero fights
+hero.flight();
+//  action 2: the hero runs
+hero.run();
+//  action 3: the hero eats
+hero.eat();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun: athlete
+//  action 1: the athlete plays
+athlete.play();
+//  action 2: the athlete changes clothes
+athlete.changeCloth();
+//  action 3: the athlete rests
+athlete.rest();
 
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +161,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
