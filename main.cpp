@@ -40,7 +40,7 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
      don't forget the semi-colon after each statement
  */
 
-// try new commit 1
+// try new commit 2
 //  example)
 //  Noun:       arm                     // 1)
 //  action 1:   the arm extends         // 2)
