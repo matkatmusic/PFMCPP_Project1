@@ -57,7 +57,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 bike.moveFast();
 //  action 2: the bike moves slowly
 bike.moveSlow();
-//  action 3: the bike is not moving
+//  action 3: the bike stand still
 bike.moveNot()
 
     //  2)
@@ -70,71 +70,71 @@ bird.fly();
 bird.whistles();
 
 //  3)
-//  Noun: synth
+//  Noun: Synth
 //  action 1: the synth makes soft sound
-synth.soundSoft();
+synthKeyStroke.keyStrokeSoft();
 //  action 2: the synth makes sharp sound
-synth.soundSharp();
+synthKeyStroke.keyStrokeHard();
 //  action 3:the synth makes no sound
-synth.soundNot();
+synthKeyStroke.keyStrokeNo();
 
 //  3B)
 //  Noun: synth
-//  action 1: the synth makes soft sound, soft = 1;
-synth.sound1();
-//  action 2: the synth makes sharp sound, sharp = 2;
-synth.sound2();
-//  action 3:the synth makes no sound, no sound = 0;
-synth.sound0();
+//  action 1: the synth emitates brass instruments;
+synth.soundBrass();
+//  action 2: the synth emitates a violins;
+synth.soundViolins();
+//  action 3:the synth emitates woodwinds ;
+synth.soundWoodWinds();
 
 //  4)
-//  Noun: baby
-//  action 1: the baby sleeps
-baby.sleeps();
-//  action 2: the baby eats
-baby.eats();
-//  action 3: the baby cries    
-baby.cries();
+//  Noun: FitnessLevel
+//  action 1: measure heat rate
+fitnessLevelRestStage.getHeartRate();
+//  action 2: measure blood pressure
+fitnessLevelRestStage.getBloodPressure();
+//  action 3: measure the oxygin satuation    
+fitnessLevelRestStage.getOxyginSat();
 
 //  5)
-//  Noun: serve 
-//  action 1: The serve was valid 
-serve.valid();
-//  action 2: The serve was invalid 
-serve.invalid();
-//  action 3: The serve was a serve-ess 
-serve.serve-ess();
+//  Noun: TennisServe
+//  action 1: Player one executed a vallid tennis serve  
+playerOneTennisServe.valid();
+//  action 2: Player one executed a invalid tennis serve
+playerOneTennisServe.invalid();
+//  action 3: Player one executed a serve-ess 
+playerOneTennisServe.serve_ess();
 
 //  6)
-//  Noun: medicine
-//  action 1: the medicine had a positive effect
-medicine.effectPoistive();
-//  action 2: the medicine had a negative effect
-medicine.effectNegative();
-//  action 3: the medicine had no effect
-medicine.effectNo_effect();
+//  Noun: cat
+//  action 1: the cat eats
+cat.eats();
+//  action 2: the cat sleeps
+cat.sleeps();
+//  action 3: the cat fights
+cat.fights();
 
 //  7)
-//  Noun: table
-//  action 1: the table was filled
-table.filled();
-//  action 2: the table was empty
-table.empty();
-//  action 3: the table was upside-down
-table.upsideDown();
+//  Noun: roboticSelfSettingtable
+//  action 1: robot set the table fully
+roboticSelfSettingtable.set100%();
+//  action 2: robot do not set the table
+roboticSelfSettingtable.set0%();
+//  action 3: robot set the table 50%
+roboticSelfSettingtable.set50%();
 
 //  8)
-//  Noun: steak
-//  action 1: the steak was raw
-steak.raw();
-//  action 2: the steak was medium-rear
-steak.mediumRear();
-//  action 3: the steak was well-done
-steak.wellDone();
+//  Noun: steakCooker
+//  action 1: cook steak raw
+steakCooker.raw();
+//  action 2: cook steak medium-rear
+steakCooker.mediumRear();
+//  action 3: cook steak well-done
+steakCooker.wellDone();
 
 //  9)
 //  Noun: glass
-//  action 1: the water glass was full
+//  action 1: the glass was full
 glass.full();
 //  action 2: the water glass was empty
 glass.empty();
@@ -143,11 +143,11 @@ glass.halfFull();
 
 //  10) plane
 //  Noun:
-//  action 1: the plane was taking off
+//  action 1: the plane takes off
 plane.takeOff();
-//  action 2: the plane was landing
+//  action 2: the plane lands
 plane.landing();
-//  action 3: the plane was taxiing
+//  action 3: the plane taxis
 plane.taxi();
 
 
