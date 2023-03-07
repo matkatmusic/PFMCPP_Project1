@@ -88,13 +88,13 @@ car.consumeFuel();
 car.consumeElectricEnergy();
 
 //  5)
-//  Noun: bird
-//  action 1: the bird fly
-bird.fly();
-//  action 2: the bird eat
-bird.eat();
-//  action 3: the bird protect It Self
-bird.protectItSelf();
+//  Noun: singer
+//  action 1: the singer sing
+singer.sing();
+//  action 2: the singer rehearses 
+singer.rehearse();
+//  action 3: the singer travels
+singer.travel();
 
 //  6)
 //  Noun: scientist
