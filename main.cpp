@@ -93,7 +93,7 @@ car.consumeElectricEnergy();
 bird.fly();
 //  action 2: the bird eat
 bird.eat();
-//  action 3: the bird protect itself
+//  action 3: the bird protect It Self
 bird.protectItSelf();
 
 //  6)
