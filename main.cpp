@@ -89,11 +89,11 @@ car.consumeElectricEnergy();
 
 //  5)
 //  Noun: bird
-//  action 1: the bird flies
+//  action 1: the bird fly
 bird.fly();
-//  action 2: the bird eats
+//  action 2: the bird eat
 bird.eat();
-//  action 3: the bird protects itself
+//  action 3: the bird protect itself
 bird.protectItSelf();
 
 //  6)
