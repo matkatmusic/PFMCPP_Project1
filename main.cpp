@@ -88,13 +88,13 @@ car.consumeFuel();
 car.consumeElectricEnergy();
 
 //  5)
-//  Noun: singer
-//  action 1: the singer sing
-singer.sing();
-//  action 2: the singer rehearses 
-singer.rehearse();
-//  action 3: the singer travels
-singer.travel();
+//  Noun: singer of Orchestra
+//  action 1: the singer sing In Room
+singerOfOrchestra.singInRoom();
+//  action 2: the singer rehearses the voice
+singerOfOrchestra.rehearseTheVoice();
+//  action 3: the singer travels by car
+singerOfOrchestra.travelByCar();
 
 //  6)
 //  Noun: scientist
@@ -161,6 +161,6 @@ cooker.rest();
 
 #include <iostream>
 int main() {
-  std::cout << "good to go" << std::endl;
-  return 0;
+    std::cout << "good to go" << std::endl;
+    return 0;
 }
