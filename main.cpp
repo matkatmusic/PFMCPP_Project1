@@ -52,84 +52,84 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Employee
+//  action 1: Employee.PerformTask()
 
-//  action 2:
+//  action 2: Employee.ClockIn()
 
-//  action 3:
+//  action 3: Employee.Rotate()
 
 //  2)
+//  Noun: Student
+//  action 1: Student.GoToSchool()
+
+//  action 2: Student.GoToClass()
+
+//  action 3: Student.DoHomework()
+
+//  3) BusDriver
 //  Noun:
-//  action 1:
+//  action 1: BusDriver.StartBus()
 
-//  action 2:
+//  action 2: BusDriver.MakeStop()
 
-//  action 3:
+//  action 3: BusDriver.GoToStation()
 
-//  3)
+//  4) Doctor
 //  Noun:
-//  action 1:
+//  action 1: Doctor.PerformCheckup()
 
-//  action 2:
+//  action 2: Doctor.OrderBloodwork()
 
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  action 3: Doctor.PerformSurgery()
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Elevator
+//  action 1: Elevator.GotoNthFloor()
 
-//  action 2:
+//  action 2: Elevator.Stop()
 
-//  action 3:
+//  action 3: Elevator.Open()
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Fireman
+//  action 1: Fireman.GetSuitedUp()
 
-//  action 2:
+//  action 2: Fireman.SlideDownPole()
 
-//  action 3:
+//  action 3: Fireman.PutOutFire()
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: ConvenienceClerk
+//  action 1: ConvenienceClerk.StockShelves()
 
-//  action 2:
+//  action 2: ConvenienceClerk.RingUpCustomer()
 
-//  action 3:
+//  action 3: ConvenienceClerk.TakeDownThief()
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Thief
+//  action 1: Thief.PutOnMask()
 
-//  action 2:
+//  action 2: Thief.CallDriver()
 
-//  action 3:
+//  action 3: Thief.RobConvenienceStore()
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Marine
+//  action 1: Marine.GoToBootCamp()
 
-//  action 2:
+//  action 2: Marine.FlyJet()
 
-//  action 3:
+//  action 3: Marine.SaluteCaptain()
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: Musician
+//  action 1: Musician.PlayInstrument()
 
-//  action 2:
+//  action 2: Musician.WriteSong()
 
-//  action 3:
+//  action 3: Musician.ReadMusic()
 
 
 
