@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat sprints
+cat.sprint();
+//  action 2: the cat scratches
+cat.scratch();
+//  action 3: the cat eats
+cat.eat();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: printer
+//  action 1: the printer prints documents
+printer.printDocument();
+//  action 2: the printer scan documents
+printer.scanDocument();
+//  action 3: the printer sends a fax
+printer.fax();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: player (video games)
+//  action 1: the player runs
+player.run();
+//  action 2: the player attacks
+player.attack();
+//  action 3: the player heals himself/herself
+player.heal();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: phone
+//  action 1: the phone takes a photo
+phone.takePhoto();
+//  action 2: the phone plays audio
+phone.playAudio();
+//  action 3: the phone sends out a message
+phone.sendMessage();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bus 
+//  action 1: the bus takes passengers
+bus.takePassenger();
+//  action 2: the bus consumes fuel
+bus.consumeFuel();
+//  action 3: the bus charges the passengers for ticket
+bus.chargeTicket();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bat
+//  action 1: the bat flies
+bat.fly();
+//  action 2: the bat hunts
+bat.hunt();
+//  action 3: the bat sleeps
+bat.sleep();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: disk
+//  action 1: the disk stores data
+disk.storeData();
+//  action 2: the disk searches for data
+disk.searchData();
+//  action 3: the disk transmits data
+disk.transmitData();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: plant
+//  action 1: the plant produces oxygen
+plant.produceOxygen();
+//  action 2: the plant grows fruits
+plant.growFruits();
+//  action 3: the plant consumes sunlight
+plant.consumeSunlight();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: web browser
+//  action 1: the web browser loads content of a page
+webBrowser.loadContent();
+//  action 2: the web browser refreshes a page
+webBrowser.refresh();
+//  action 3: the web browser searches content on the internet
+webBrowser.search();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: vending machine
+//  action 1: the vending machine receives orders
+vendingMachine.receiveOrder();
+//  action 2: the vending machine receives money
+vendingMachine.receiveMoney();
+//  action 3: the vending machine releases the item
+vendingMachine.releaseItem();
 
 
 #endif
