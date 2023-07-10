@@ -52,97 +52,98 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: computer
+//  action 1: Runs Code
+computer.runCode();
+//  action 2: Cost Money
+computer.costMoney();
+//  action 3:Store Information
+computer.storeInformation();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:Keyboard
+//  action 1 Types Characters
+keyboard.typeCharacters();
+//  action 2: Control the computer
+keyboard.controlComputer();
+//  action 3:costs Money
+keyboard.costMoney();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:lightBulb    
+//  action 1:Spreads Light
+lightBulb.spreadLight();
+//  action 2:Genates Heat
+lightBulb.generateHeat();
+//  action 3:Costs Money
+lightBulb.costMoney
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:Car
+//  action 1:Goes Places
+car.drive();
+//  action 2:Burns Fuel
+car.burnFuel();
+//  action 3:Costs Money
+car.costMoney();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:bottle
+//  action 1:Holds Water
+bottle.holdWater();
+//  action 2:Can act as a paper weight and hold down papers
+bottle.actAsPaperWeight();
+//  action 3:Costs Money
+bottle.costMoney();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:Pen
+//  action 1:Can write
+pen.write();
+//  action 2:Can draw()
+pen.draw();
+//  action 3: Costs Money
+pen.costMoney();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Phone
+//  action 1:used to make calls
+phone.call();
+//  action 2:used to take pictures
+phone.takePictures();
+//  action 3:Cost Money
+phone.costMoney();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:Mosquito
+//  action 1:drinks blood
+mosquito.drinkBlood();
+//  action 2:spread Dengue
+mosquito.spreadDengue();
+//  action 3:Grows in swamps
+mosquito.growInSwamps();
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:Umbrella
+//  action 1:Sheids from rain
+umbrella.protectFromRain();
+//  action 2:Can be used to poke others();
+umbrella.pokeOtherPeople();
 
-//  action 2:
-
-//  action 3:
-
+//  action 3:Cost Money
+umbrella.costMoney();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
-
+//  Noun:Fan
+//  action 1:Used to keep us cool
+fan.keepPeopleCool();
+//  action 2:Used to dry stuff
+fan.speedUpDrying();
+//  action 3:Costs Money
+fan.costMoney();
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +151,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
