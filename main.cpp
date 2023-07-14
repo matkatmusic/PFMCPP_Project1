@@ -40,7 +40,6 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
      don't forget the semi-colon after each statement
  */
 
-
 //  example)
 //  Noun:       arm                     // 1)
 //  action 1:   the arm extends         // 2)
@@ -51,86 +50,113 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
-//  1)
-//  Noun:
-//  action 1:
+//  1) 
+//  Noun: baby
+//  action 1: Baby is Cry
+baby.isCry();
 
-//  action 2:
+//  action 2: Baby play with toy
+baby.playWithToy();
 
-//  action 3:
+
+//  action 3: Baby is sleep
+baby.isSleep();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: ship
+//  action 1: ship is sailing
+ship.isSailing();
 
-//  action 2:
+//  action 2: ship anchor on the Jakarta port
+ship.anchorOnJakartaPort();
 
-//  action 3:
+//  action 3: ship is bigger than bicycle
+ship.biggerThanBicyle();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: bicycle 
+//  action 1:  bicycle round the city
+bicylce.roundCity();
 
-//  action 2:
+//  action 2: bicycle to the mountain
+bicycle.toMountain();
 
-//  action 3:
+//  action 3: bicycle to the beach
+bicycle.toBeach();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: phone
+//  action 1: phone calling sister
+phone.callSister();
 
-//  action 2:
+//  action 2: phone play games
+phone.playGames();
 
-//  action 3:
+//  action 3: phone listen to music
+phone.listenMusic();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: table
+//  action 1: table put the beer
+table.putBeer();
 
-//  action 2:
+//  action 2: table sale with chair
+table.saleWithChair();
 
-//  action 3:
+//  action 3: table get replaced
+table.getReplaced();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: fan
+//  action 1: fan cooling the living room
+fan.coolingLivingRoom();
 
-//  action 2:
+//  action 2: fan consume electricity
+fan.consumeElectricity();
 
-//  action 3:
+//  action 3: fan is cheaper than AC
+fan.isCheaperThanAC();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: computer
+//  action 1:  computer playing games
+computer.playGames();
 
-//  action 2:
+//  action 2: computer calculate Math
+computer.calcMath();
 
-//  action 3:
+//  action 3: computer learning model
+computer.learnModel();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: foot
+//  action 1: foot step on rock
+foot.stepOnRock();
 
-//  action 2:
+//  action 2: foot to walk
+foot.toWalk();
 
-//  action 3:
+//  action 3: foot kick the ball
+foot.kickBall();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: head
+//  action 1: head think food
+head.thinkFood();
+//  action 2: head got hurt
+head.gotHurt();
+//  action 3: head is shaved
+head.isShaved();
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: glass
+//  action 1: glass sale on pair
+glass.saleOnPair();
 
-//  action 2:
+//  action 2: glass arranged on a shelf
+glass.arrangeOnShelf();
 
-//  action 3:
-
+//  action 3: glass is out of stock
+glass.outOfStock();
 
 
 #endif
