@@ -140,13 +140,13 @@ foot.toWalk();
 foot.kickBall();
 
 //  9)
-//  Noun: head
-//  action 1: head think food
-head.thinkFood();
-//  action 2: head got hurt
-head.gotHurt();
-//  action 3: head is shaved
-head.isShaved();
+//  Noun: Monitor
+//  action 1: Monitor conect to Computer
+computer.connectToComputer();
+//  action 2: Monitor adjust brightness
+computer.adjBrightness();
+//  action 3: Monitor select preset 
+computer.selectPreset();
 //  10)
 //  Noun: glass
 //  action 1: glass sale on pair
