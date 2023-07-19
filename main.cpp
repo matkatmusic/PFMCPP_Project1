@@ -142,11 +142,11 @@ foot.kickBall();
 //  9)
 //  Noun: Monitor
 //  action 1: Monitor conect to Computer
-computer.connectToComputer();
+monitor.connectToComputer();
 //  action 2: Monitor adjust brightness
-computer.adjBrightness();
-//  action 3: Monitor select preset 
-computer.selectPreset();
+monitor.adjBrightness();
+//  action 3: Monitor select preset color grading
+monitor.selectPresetColor();
 //  10)
 //  Noun: glass
 //  action 1: glass sale on pair
