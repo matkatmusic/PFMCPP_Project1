@@ -52,84 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  dog
+//  action 1:  the dog barks
+dog.bark();
+//  action 2:  the dog sleeps  
+dog.sleep();
+//  action 3:  the dog eats
+dog.eat();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  sun
+//  action 1:  the sun rises
+sun.rise();
+//  action 2:  the sun sets
+sun.set();
+//  action 3:  the sun shines
+sun.shine()
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  horse
+//  action 1:  the horse walks
+horse.walk();
+//  action 2:  the horse trots
+horse.trot();
+//  action 3:  the horse gallops
+horse.gallop();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  television
+//  action 1: shows video
+television.showVideo();
+//  action 2:  consumes electricity
+television.consumeElectricity();
+//  action 3:  makes sound
+television.makeSound();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  doctor
+//  action 1:  prescribes medicine
+doctor.prescribeMedicine();
+//  action 2:  checks for ailment
+doctor.checkForAilment();
+//  action 3:  collects fee
+doctor.collectFee();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  god
+//  action 1:  god creates
+god.create();
+//  action 2:  god destroys
+god.destroy();
+//  action 3:   god protects
+god.protect();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  tree
+//  action 1:  tree grows
+tree.grow();
+//  action 2:  tree sheds its leaves
+tree.shedLeaves();
+//  action 3:  tree bends
+tree.bend();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  bird
+//  action 1:  bird chirps
+bird.chirp();
+//  action 2:  birds fly
+bird.fly();
+//  action 3: bird flaps its wings
+bird.flapWing();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  baby
+//  action 1:  baby cries
+baby.cry();
+//  action 2:  baby crawls
+baby.crawl();
+//  action 3: baby sleeps
+baby.sleep();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  glass
+//  action 1:  glass reflects
+glass.reflect();
+//  action 2:  glass refracts
+glass.refract();
+//  action 3: glass shines
+glass.shine();
 
 
 
