@@ -52,97 +52,136 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: athlete
 
-//  action 2:
+//  action 1: the athlete runs
+athlete.run();
 
-//  action 3:
+//  action 2: the athlete jumps
+athlete.jump();
+    
+//  action 3: the athlete rests
+athlete.rest();
 
+    
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: eye
+    
+//  action 1: eyes blink
+eye.blink();
 
-//  action 2:
+//  action 2: eyes produce tears
+    
+eye.cry();
 
-//  action 3:
+//  action 3: eyes stare into something
+
+eye.stare();
+    
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Calculator
+    
+//  action 1: Calculator adds numbers
+calculator.add();
+    
+//  action 2: Calculator enters into radian mode
+calculator.switchToRadian();
 
-//  action 2:
+//  action 3: Calculator powers off
+calculator.shutDown();
 
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  4) 
+//  Noun: programmer 
+    
+//  action 1: the programmer writes code
+programmer.writeCode();
+    
+//  action 2: the programmer debugs the code
+programmer.debug();
+    
+//  action 3: the programmer reviews the code
+programmer.review();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: ipod
+//  action 1: ipod plays songs
+ipod.playMusic();
 
-//  action 2:
+//  action 2: ipod shuffles the playlist
+ipod.shufflePlaylist();
 
-//  action 3:
+//  action 3: ipod changes volume
+ipod.adjustVolume();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: teeth
+//  action 1: using teeth to bite
+teeth.bite();
 
-//  action 2:
+//  action 2: using teeth to smile
+teeth.smile();
 
-//  action 3:
+//  action 3: using teeth to chew things
+teeth.chew();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: grandmother
+//  action 1: grandmother cooks
+grandmother.cook();
 
-//  action 2:
+//  action 2: grandmother prays
+grandmother.pray();
 
-//  action 3:
+//  action 3: grandmother watches tv
+grandmother.watchTv();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: lion
+    
+//  action 1: the lion hunts
+lion.hunt();
 
-//  action 2:
+//  action 2: the lion sleeps
+lion.sleep();
 
-//  action 3:
+//  action 3: the lion roars
+lion.roar();
 
-//  9)
-//  Noun:
-//  action 1:
+//  9) 
+//  Noun: Rick Astley
+//  action 1: Rick Astley gives you up
+rickAstley.giveYouUp();
 
-//  action 2:
+//  action 2: Rick Astley lets you down 
+rickAstley.letYouDown();
 
-//  action 3:
+//  action 3: Rick Astley runs around and deserts you
+rickAstley.runAroundAndDesertYou();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: Cyberaktiv
+//  action 1: Cyberaktiv learns c++
+cyberaktiv.learnCpp();
 
-//  action 2:
+//  action 2: Cyberaktiv reads documentation 
+cyberaktiv.readDocu();
 
-//  action 3:
-
-
+//  action 3: Cyberaktiv asks for help 
+cyberaktiv.seekHelp();
 
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +189,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
