@@ -89,7 +89,7 @@ calculator.add();
 calculator.switchToRadian();
 
 //  action 3: Calculator powers off
-calculator.shutDown();
+calculator.multiply();
 
 //  4) 
 //  Noun: programmer 
