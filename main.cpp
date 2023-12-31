@@ -50,87 +50,86 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
-
 //  1)
-//  Noun:
+ // Noun: fish
 //  action 1:
-
+fish.eat();
 //  action 2:
-
+fish.swim();
 //  action 3:
-
+fish.breed();
 //  2)
-//  Noun:
+//  Noun: dog
 //  action 1:
-
+dog.bark();
 //  action 2:
-
+dog.play();
 //  action 3:
-
+dog.sit();
 //  3)
-//  Noun:
+//  Noun: plane
 //  action 1:
-
+ship.depart();
 //  action 2:
-
+ship.sail();
 //  action 3:
-
+ship.dock();
 //  4)
-//  Noun:
+//  Noun: car wash
 //  action 1:
-
+carWash.shampooAndWax();
 //  action 2:
-
+carWash.rinse();
 //  action 3:
-
+carWash.blowDry();
 //  5)
-//  Noun:
+//  Noun: printer
 //  action 1:
-
+printer.print();
 //  action 2:
-
+printer.scan();
 //  action 3:
-
+printer.clean();
 //  6)
-//  Noun:
+//  Noun: engine
 //  action 1:
-
+engine.start();
 //  action 2:
-
+engine.accelerate();
 //  action 3:
-
+engine.stop();
 //  7)
-//  Noun:
+//  Noun: tape recorder
 //  action 1:
-
+tapeRecorder.record();
 //  action 2:
-
+tapeRecorder.rewind();
 //  action 3:
-
+tapeRecorder.play();
 //  8)
-//  Noun:
+//  Noun: coffee machine
 //  action 1:
-
+coffeeMachine.grindBeans();
 //  action 2:
-
+coffeeMachine.heatWater();
 //  action 3:
-
+coffeeMachine.brewCoffee();
 //  9)
-//  Noun:
+//  Noun: camera
 //  action 1:
-
+camera.focus();
 //  action 2:
-
+camera.zoom();
 //  action 3:
-
+camera.captureImage();
 //  10)
-//  Noun:
+//  Noun: elevator
 //  action 1:
-
+elevator.openDoor();
 //  action 2:
-
+elevator.closeDoor();
 //  action 3:
-
+elevator.ascend();
 
 
 #endif
