@@ -115,13 +115,13 @@ coffeeMachine.heatWater();
 //  action 3: the coffee machine brews coffee
 coffeeMachine.brewCoffee();
 //  9)
-//  Noun: camera
-//  action 1: the camera focuses
-camera.focus();
-//  action 2: the camera zooms 
-camera.zoom();
-//  action 3: the camera captures and image
-camera.captureImage();
+//  Noun: ticket barrier
+//  action 1: the ticket barrier scans the ticket
+ticketBarrier.scanTicket();
+//  action 2: the ticket barrier authenticates the ticket 
+ticketBarrier.authenticateTicket();
+//  action 3: the ticket barrier opens the gate
+ticketBarrier.openGate();
 //  10)
 //  Noun: elevator
 //  action 1: the elevator opens the door
