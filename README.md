@@ -119,9 +119,9 @@ Once you have finished adding me to **ALL NINE `replit` projects**, proceed to t
 - Enter the **expected name** to create the branch
 
 Before you start editing, configure Replit's indentation settings:
-- click the `gear` icon on the left hand edge of the page.
-- Set the `Indent Size` to `4`
-- Set the `Indent type` to `spaces`
+- Click `Spaces:` in the bottom toolbar of the text editor pane.
+- In the pop-up, click the global settings button to open User Settings tab.
+- In the User Settings tab, set Indentation Character to "spaces" and Indentation size to 4.
 
 Review the course Coding Standard before starting to code.
 
