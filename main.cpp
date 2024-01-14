@@ -50,87 +50,95 @@ arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
-
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: monster
+//  action 1: the monster attacks
+monster.attack();
+//  action 2: the monster eats
+monster.eat();
+//  action 3: the monster dances
+monster.attack();
+    
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: television
+//  action 1: the television plays a movie
+television.playMovie();
+//  action 2: the television consumes power
+television.consumePower();
+//  action 3: the television syncs with a bluetooth device
+television.syncWithBluetoothDevice();
+    
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: saw
+//  action 1: the saw cuts wood
+saw.cutWood();
+//  action 2: the saw makes noise
+saw.makeNoise();
+//  action 3: the saw inspires fear
+saw.inspireFear();
+    
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: human
+//  action 1: the human puts on gloves
+human.putOnGloves();
+//  action 2: the human cook a ham
+human.cookHam();
+//  action 3: the human buys a papaya
+human.buyPapaya();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: engine
+//  action 1: the engine rotates
+engine.rotate();
+//  action 2: the engine burns fuel
+engine.burnFuel();
+//  action 3: the engine makes noise
+engine.makeNoise();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: baby
+//  action 1: the baby cries
+baby.cry();
+//  action 2: the baby crawls
+baby.crawl();
+//  action 3: the baby spits up
+baby.spitUp();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: boss
+//  action 1: The boss hires
+boss.hire();
+//  action 2: the boss fires
+boss.fire();
+//  action 3: the boss sleeps
+boss.sleep();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: baker
+//  action 1: the baker kneads
+baker.knead();
+//  action 2: the baker bakes
+baker.bake();
+//  action 3: the baker eats
+baker.eat();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: crocodile
+//  action 1: the crocodile swims
+crocodile.swim();
+//  action 2: the crocodile walks
+crocodile.walk();
+//  action 3: the crocodile watches the news
+crocodile.watchNews();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: machine
+//  action 1: the machine whirls
+machine.whirl();
+//  action 2: the machine glows
+machine.glow();
+//  action 3: the machine rumbles
+machine.rumble();
 
 
 #endif
