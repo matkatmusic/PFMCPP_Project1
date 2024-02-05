@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        person
+//  action 1:    the person walks forward
+person.walkForward();
+//  action 2:    the person runs
+person.run();
+//  action 3:    the person stops
+person.stops();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        lion
+//  action 1:    the lion roars
+lion.roar();
+//  action 2:    the lion hunts
+lion.hunt();
+//  action 3:    the lion eats
+lion.eat();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cat
+//  action 1:    the cat meows
+cat.meow();
+//  action 2:    the cat plays
+cat.play();
+//  action 3:    the cat naps
+cat.nap();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        dog
+//  action 1:    the dog barks
+dog.bark();
+//  action 2:    the dog wags its tail
+dog.wagTail();
+//  action 3:    the dog naps
+dog.nap();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        car
+//  action 1:    the cars engines start
+car.startEngine();
+//  action 2:    the car consumes gas
+car.consumeGas();
+//  action 3:    the car stops
+car.stop();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        refrigerator
+//  action 1:    the refrigerator keeps food cold
+refrigerator.keepFoodCold();
+//  action 2:    the refrigerator consumes electricity
+refrigerator.consumeElectricity();
+//  action 3:    the refrigerator stops
+refrigerator.stop();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        spider
+//  action 1:    the spider spins web
+spider.spinWeb()
+//  action 2:    the spider eats
+spider.eat();
+//  action 3:    the spider rests
+spider.rest();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        bird
+//  action 1:    the bird flies
+bird.fly();
+//  action 2:    the bird eats
+bird.eat();
+//  action 3:    the bird sleeps
+bird.sleep();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        bee
+//  action 1:    the bee buzzes
+bee.buzz();
+//  action 2:    the bee pollenates
+bee.pollenate();
+//  action 3:    the bee rests
+bee.rest();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        bat
+//  action 1:    the bat flies
+bat.fly();
+//  action 2:    the bat eats
+bat.eat();
+//  action 3:    the bat sleeps
+bat.sleep();
 
 
 #endif
