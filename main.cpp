@@ -3,7 +3,7 @@
  PFM::C++ For Musicians Task
  Project 1 - Part 1 / 1
  Video: Chapter 2 Part 1
- 
+
 Create a branch named Part1
 
 Purpose:  This project will get you thinking correctly about choosing good names for the tasks that your objects will perform. 
@@ -52,97 +52,97 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: The cat purrs
+cat.purrs();
+//  action 2: The CatNaps
+cat.sleeps();
+//  action 3: The cat meows
+cat.meows();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: the dog barks
+dog.barks();
+//  action 2: the dog plays
+dog.plays();
+//  action 3: the dog naps
+dog.sleeps();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: car
+//  action 1: the car drives
+car.drives();
+//  action 2: the car stops
+car.brakes();
+//  action 3: the car honks
+car.honksHorn;
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: lightBulb
+//  action 1: the lightBulb lights up
+lightBulb.turnsOn();
+//  action 2: the lightBulb turns off
+lightBulb.turnsOff();
+//  action 3: the lightBulb burns out
+lightBulb.burnsOut();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: hammer
+//  action 1: the hammer smashes
+hammer.pounds();
+//  action 2: the hammer breaks
+hammer.breaks();
+//  action 3: the hammer builds
+hammer.builds();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bike
+//  action 1: the bike pedals
+bike.pedals();
+//  action 2: the bike slows down
+bike.slowsDown()
+//  action 3: the bike stops
+bike.stops();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: phone
+//  action 1: the phone rings
+phone.calls();
+//  action 2: the phone vibrates
+phone.vibrates();
+//  action 3: the phone plays music
+phone.playsMusic();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: clock
+//  action 1: the clock ticks
+clock.ticks();
+//  action 2: the clock tocks
+clock.tocks();
+//  action 3: the clock sets an alarm
+clock.setsAlarm();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Plant
+//  action 1: The plant grows
+plant.grows();
+//  action 2: the plant blooms
+plant.blooms();
+//  action 3: the plant dies
+plant.dies();
 //  10)
-//  Noun:
+//  Noun: river
 //  action 1:
-
+river.flows();
 //  action 2:
-
+river.floods();
 //  action 3:
-
-
-
+river.driesUp();
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +150,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
