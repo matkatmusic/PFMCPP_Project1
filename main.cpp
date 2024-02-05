@@ -129,8 +129,8 @@ bee.rest();
 bat.fly();
 //  action 2:    the bat eats
 bat.eat();
-//  action 3:    the bat sleeps
-bat.sleep();
+//  action 3:    the bat rest
+bat.rest();
 
 
 #endif
