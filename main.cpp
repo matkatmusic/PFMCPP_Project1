@@ -52,97 +52,97 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: guitar
+//  action 1: guitar plays note
+guitar.playsNote();
+//  action 2: guitar plays note
+guitar.playsChord();
+//  action 3: guitar stop note
+guitar.stopNote();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: plane
+//  action 1: plane takes off
+plane.takesOff();
+//  action 2: plane flies
+plane.flies();
+//  action 3: plane lands
+plane.lands();
 //  3)
-//  Noun:
+//  Noun: Clock
 //  action 1:
-
+clock.displayTime()
 //  action 2:
-
+clock.tick()
 //  action 3:
-
+clock.setAlarm();
 //  4)
-//  Noun:
+//  Noun: computer
 //  action 1:
-
+computer.powerOn();
 //  action 2:
-
+computer.runProgram();
 //  action 3:
-
+computer.restart();
 //  5)
-//  Noun:
+//  Noun: tree
 //  action 1:
-
+tree.hasGrow();
 //  action 2:
-
+tree.photosynthesize();
 //  action 3:
-
+tree.shedLeaves()
 //  6)
-//  Noun:
+//  Noun: Bird
 //  action 1:
-
+bird.fly();
 //  action 2:
-
+bird.sing();
 //  action 3:
-
+bird.buildNest();
 //  7)
-//  Noun:
+//  Noun: Car
 //  action 1:
-
+car.startEngine();
 //  action 2:
-
+car.honk();
 //  action 3:
-
+car.fullLevel();
 //  8)
-//  Noun:
+//  Noun: Dog
 //  action 1:
-
+dog.bark();
 //  action 2:
-
+dog.sleep();
 //  action 3:
-
+dog.grow();
 //  9)
-//  Noun:
+//  Noun: Person
 //  action 1:
-
+person.speak();
 //  action 2:
-
+person.walk();
 //  action 3:
-
+person.eat();
 //  10)
-//  Noun:
+//  Noun: Book
 //  action 1:
-
+book.searchBook();
 //  action 2:
-
+book.getTitle()
 //  action 3:
-
-
-
+book.removeBook();
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +150,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
