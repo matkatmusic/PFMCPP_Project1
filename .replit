@@ -5,3 +5,6 @@ modules = ["cpp-clang14"]
 
 [nix]
 channel = "stable-25_05"
+
+[agent]
+expertMode = true

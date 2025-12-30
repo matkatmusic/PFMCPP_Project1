@@ -52,97 +52,97 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        pickup
+//  action 1:    the pickup hums
+pickup.hum();
+//  action 2:    the pickup vibrates
+pickup.vibrate();
+//  action 3:    the pickup generates a signal
+pickup.generateSignal();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        signal
+//  action 1:    the signal travels
+signal.travel();
+//  action 2:    the signal oscillates
+signal.oscillate();
+//  action 3:    the signal encodes
+signal.encode();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        amplifier
+//  action 1:    the amplifier amplifies
+amplifier.amplify();
+//  action 2:    the amplifier distorts
+amplifier.distort();
+//  action 3:    the amplifier saturates
+amplifier.saturate();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        clock
+//  action 1:    the clock ticks
+clock.tick();
+//  action 2:    the clock counts    
+clock.count();
+//  action 3:    the clock resets
+clock.reset();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        dsp
+//  action 1:    the dsp processes
+dsp.process();
+//  action 2:    the dsp filters
+dsp.filter();
+//  action 3:    the dsp delays
+dsp.delay();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        display
+//  action 1:    the display renders
+display.render();
+//  action 2:    the display refreshes
+display.refresh();
+//  action 3:    the display flickers
+display.flicker();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        pixel
+//  action 1:    the pixel lights up
+pixel.lightUp();
+//  action 2:    the pixel dims
+pixel.dim();
+//  action 3:    the pixel changes color
+pixel.changeColor();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        resistor
+//  action 1:    the resistor resists
+resistor.resist();
+//  action 2:    the resistor heats up
+resistor.heatUp();
+//  action 3:    the resistor burns out
+resistor.burnOut();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        capacitor
+//  action 1:    the capacitor stores energy
+capacitor.storeEnergy();
+//  action 2:    the capacitor discharges
+capacitor.discharge();
+//  action 3:    the capacitor leaks
+capacitor.leak();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
-
+//  Noun:        transformer
+//  action 1:    the transformer transforms
+transformer.transform();
+//  action 2:    the transformer hums
+transformer.hum();
+//  action 3:    the transformer gets hot
+transformer.getHot();
 #endif
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
 
- Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
- 
- If you didn't already: 
+ Commit your changes by clicking on the Source Control panel on the left,
+ entering a message, and click [Commit and push].
+
+ If you didn't already:
     Make a pull request after you make your first commit
-    pin the pull request link and this repl.it link to our DM thread in a single message.
+    pin the pull request link and this repl.it link to our DM thread in a single
+ message.
 
  send me a DM to review your pull request when the project is ready for review.
 
@@ -150,8 +150,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
  */
 
 #include <iostream>
-int main()
-{
-    std::cout << "good to go" << std::endl;
-    return 0;
+int main() {
+  std::cout << "good to go" << std::endl;
+  return 0;
 }
